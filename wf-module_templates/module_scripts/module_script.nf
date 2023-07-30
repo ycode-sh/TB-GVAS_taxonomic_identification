@@ -25,7 +25,7 @@ process trim_fastq {
 // Input: reads (raw or trimmed); outputs: Classified and unclassified reads, kraken reports and outputs
 
 
-process kraken_contamination {
+process kraken_contamination_pe {
     
     cpus = 8
     memory = 30.GB
@@ -38,7 +38,6 @@ process kraken_contamination {
     tuple val(kc_reads_pair_id), path(kc_reads)
     val (kraken_database)
     
-
     output:
         path "classified_*.fastq", emit: classified_fastq   classified_sample_2b_1.fastq
         path "unclassified_*.fastq", emit: unclassified_fastq 
@@ -48,6 +47,34 @@ process kraken_contamination {
     script:
         """
         "./${kraken_script}" ${kc_reads[0]} ${kc_reads[1]} ${kc_reads_pair_id} ${kraken_database}
+
+        """
+
+}
+
+process kraken_contamination_se {
+    
+    cpus = 8
+    memory = 30.GB
+
+    errorStrategy 'ignore'
+
+
+    input:
+    val (kraken_script)
+    path(kc_reads)
+    val (kraken_database)
+    val (input_read_type)
+    
+    output:
+        path "classified_*.fastq", emit: classified_fastq   classified_sample_2b_1.fastq
+        path "unclassified_*.fastq", emit: unclassified_fastq 
+        path "*_kraken_*", emit: kraken_reports
+        
+        
+    script:
+        """
+        "./${kraken_script}" ${kc_reads} ${kraken_database} ${input_read_type}
 
         """
 
