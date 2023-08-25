@@ -449,7 +449,7 @@ elif [ -n "$I" ]; then # User selects interactive promts
         
         Note: You don't need to specify kraken database file path if your sub-workflow choice is r16S only. Likewise, don't specify taxdb if you are running only kraken analysis." 100 100 2>&1 >/dev/tty) 
         message_print_function "Your Analysis is running. Please wait..."
-        Nexflow run $1 --command $sub_workflow_choice --run_mode $sub_workflows_modes_choice --in_data_type $seq_dt_choice --kraken_db_path $kraken_db_path --taxdb_path $taxdb_files_path \
+        nextflow run $1 --command $sub_workflow_choice --run_mode $sub_workflows_modes_choice --in_data_type $seq_dt_choice --kraken_db_path $kraken_db_path --taxdb_path $taxdb_files_path \
         --perc_cov $percentage_cov --perc_id $percentage_id --seq_path "${final_array["seq_reads_file_path"]}" --adp_path "${final_array["adpt_seq_file_path"]}" --ref_seq_path "${final_array["ref_seq_file_path"]}"
         ;;
     esac

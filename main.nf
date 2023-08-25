@@ -18,8 +18,8 @@ params.txdb_path=""
 params.perc_cov=""
 params.perc_id=""
 params.seq_path=""
-params.se_reads=""
-params.pe_reads=""
+params.se_reads_u="nill"
+//params.pe_reads=""
 //params.ref_seq_path_d=""
 params.ref_seq_path=""
 //params.adp_path_d=""
@@ -28,23 +28,23 @@ params.out_dir=""
 
 if(params.in_data_type == "pe_illumina_reads"){
     params.pe_reads = params.seq_path
-    params.pe_reads =  params.pe_reads + "/*fastq_{1,2}"
+    params.pe_reads_u =  params.pe_reads + "/*fastq_{1,2}"
 } else if(params.in_data_type == "se_illumina_reads" | params.in_data_type == "minion_ont_reads"){
     params.se_reads = params.seq_path
-    params.se_reads = params.se_reads + "/*fastq"
+    params.se_reads_u = params.se_reads + "/*fastq"
 }
 
 if(params.adp_path == "Adapater_seq_file_path"){
-    params.adp_path = ${adp_path_d}
+    params.adp_path = adp_path_d
 }
 if(params.ref_seq_path == "Reference_file_path"){
-    params.ref_seq_path = ${params.ref_seq_path_d}
+    params.ref_seq_path = params.ref_seq_path_d
 }
 
 
 // Import inclusions
 
-include {trim_fastq; kraken_contamination; find_16s_hit; genome_assembly; emit_sam; coordsort_sam; bamtofastq; parse_16S; parse_kraken} from "~/module_script.nf"
+include {trim_fastq; kraken_contamination; find_16s_hit; genome_assembly; emit_sam; coordsort_sam; bamtofastq; parse_16S; parse_kraken} from "/home/dfgmrtc/Workflows/wf-module_templates/module_scripts/module_script.nf"
 
 
 workflow comprehensive {
@@ -100,16 +100,16 @@ workflow comprehensive {
             }
         }
         find_16s_hit(find_16S_hits_script_wf, genome_assembly.out, txdb_path_str)
-        flattened_16S_ouputs = find_16s_hit.out | flatten
-        flattened_kraken_outputs = kraken_contamination.out | flatten
-        parse_kraken(parse_kraken_script_wf, flattened_kraken_outputs)
+        flattened_16S_ouputs = find_16s_hit.out
+        //flattened_kraken_outputs = kraken_contamination.out
+        parse_kraken(parse_kraken_script_wf, kraken_contamination.out)
         parse_16S(parse_16S_script_wf, flattened_16S_ouputs, perc_cov, perc_id)
         
 }
 
 
 workflow {
-    comprehensive(Channel.value(params.kraken_script), Channel.fromPath(params.se_reads), Channel.fromFilePairs(params.pe_reads), Channel.value(params.kraken_db_path),
+    comprehensive(Channel.value(params.kraken_script), Channel.value(params.genome_assembly_script), Channel.fromPath(params.se_reads_u), Channel.fromFilePairs(params.pe_reads_u), Channel.value(params.kraken_db_path),
     Channel.value(params.in_data_type), Channel.value(params.trim_sample_script), Channel.value(params.adp_path), Channel.value(params.emit_sam_script), Channel.value(params.ref_seq_path),
     Channel.value(params.coordsort_sam_script), Channel.value(params.bamtofastq_script), Channel.value(params.find_16S_hits_script), Channel.value(params.txdb_path),
     Channel.value(params.parse_kraken_script), Channel.value(params.parse_16S_script), Channel.value(params.perc_cov), Channel.value(params.perc_id))
