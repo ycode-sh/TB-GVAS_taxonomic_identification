@@ -10,6 +10,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("file", type=str, nargs='*')
 args = parser.parse_args()
 files = args.file
+params = []
 
 blast_16s_output_files_list = []
 
@@ -17,21 +18,23 @@ blast_16s_output_files_list = []
 for file in files:
     if re.search("[a-z]*_[0-9]*[i]?[a-z]?_16s_output", file):
         blast_16s_output_files_list.append(file)
+    elif re.search("^[0-9]{2,3}$", file):
+        params.append(file)
     else:
         print("no file exists")
 
 
-p_id = float(98)
-p_cov = float(10)
+p_id = float(params[1])
+p_cov = float(params[0])
 
-t_str = True
+#t_str = True
 
 
 # 3. define a function that filters blast output and extract important parameters like 
 # evalue, taxid, subject name etc into a dictionary
 
 # This function is mtb stratification-aware
-def extract_info(blast_output: str):
+def extract_info(blast_output: str, p_cov: float, p_id: float):
     taxa_list = []
     subjects_info = {}
     with open(blast_output, 'r') as blast:
@@ -42,7 +45,7 @@ def extract_info(blast_output: str):
                 data = line.rstrip().rsplit('\t')
                 if data[14] not in taxa_list:
                     taxa_list.append(data[14])
-                if float(data[2]) >= 98 and float(data[10]) >=10: #and float(data[11]) >= 60:
+                if float(data[2]) >= p_id and float(data[10]) >=p_cov: #and float(data[11]) >= 60:
                     if data[12] not in subjects_info:
                         subjects_info[data[12]] = [[data[14]], [data[9]], [data[15]]]
                     else:
@@ -55,8 +58,8 @@ def extract_info(blast_output: str):
 
 
 # 4. Define a function that modifies and sorts the subjects_info and taxa_list. The function takes a single argument, and calls function extract info internally)
-def update_subject_info(sample_file:str):
-    subjects_info, taxa_list = extract_info(sample_file)
+def update_subject_info(sample_file:str, p_cov: float, p_id: float):
+    subjects_info, taxa_list = extract_info(sample_file, p_cov, p_id)
     nested_non_unique_taxids = []
     flat_non_unique_taxids = []
     for key in subjects_info.items():
@@ -74,8 +77,8 @@ def update_subject_info(sample_file:str):
     return updated_subject_info
 
 # 5. Define a function that returns best hits from extracted data
-def return_best_hits(sample_file:str):
-    updated_subject_info = update_subject_info(sample_file)
+def return_best_hits(sample_file:str, p_cov: float, p_id: float):
+    updated_subject_info = update_subject_info(sample_file, p_cov, p_id)
     subject_name_list = [key for (key, value) in updated_subject_info.items()]
     
     try:
@@ -126,20 +129,20 @@ def return_best_hits(sample_file:str):
     
 
 # 6. Define a function that parses each sample and saves parameters as tsv file   
-def parse_samples(blast_16s_output_files_list:list):
+def parse_samples(blast_16s_output_files_list:list, p_cov: float, p_id: float):
     per_sample_parameters = {}
     for sample_file in blast_16s_output_files_list:
         if sample_file.endswith('output'):
             sample_name = sample_file.rsplit("_16s_output")[0]
-            best_hit = return_best_hits(sample_file)
+            best_hit = return_best_hits(sample_file, p_cov, p_id)
             per_sample_parameters[sample_name] = best_hit
 
         else: 
             continue        
     per_sample_parameters_df = pd.DataFrame.from_dict(per_sample_parameters, orient='index')
-    with open("samples_output.tsv", 'w') as output_file:
+    with open("16S_samples_output.tsv", 'w') as output_file:
         per_sample_parameters_df.to_csv(output_file, sep = '\t')
     return output_file
 
 
-parse_samples(blast_16s_output_files_list)
+parse_samples(blast_16s_output_files_list, p_cov, p_id)

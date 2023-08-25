@@ -28,7 +28,7 @@ Examples:
 2.  To know which options are accepted by a command or sub-command, run:
         taxo_id command [sub-command] --help
 3.  If the command has sub-command(s), run:
-        Nextflow run ycode-sh/wf-tax_id_rd command sub-command --help
+        taxo_id command sub-command --help
         to get more help about the options required by sub-command
 4.  Provided you have kraken reports and you wish to parse the files without triggering a comprehensive analysis again, run:
         taxo_id parse_files_only process_kraken_outputs --kraken_output_files -options

@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# $1 = main.nf
+
 # Auto-display
 ./terminal_display.py
 
@@ -212,9 +214,12 @@ choice_parse_files(){
             Outputs directory: $parse_output_dir
             To run this using the manual command-based mode:
             taxo_id  "parse_files_only" $parse_file_choice --kraken_in_file_path $kraken_in_file_path --out_dir_path $parse_output_dir" 100 100 2>&1 >/dev/tty)
+            message_print_function "Your Analysis is running. Please wait..."
             ;;
             *)
             specify_optional_params
+            percentage_cov=$(file_parsing_func "coverage" "$percentage_cov_d" 2>&1)
+            percentage_id=$(file_parsing_func "identity" "$percentage_id_d" 2>&1)
             progress_msg_parse_file2=$(dialog --colors --msgbox "Progress report for Parse files function:
             
             The following information have been collected and will now be passed to the backend to run your selected analysis
@@ -226,6 +231,7 @@ choice_parse_files(){
             Outputs directory: $parse_output_dir
             To run this using the manual command-based mode:
             taxo_id "parse_files_only" $parse_file_choice --kraken_in_file_path $kraken_in_file_path --16S_in_file_path $r16S_in_file_path --out_dir_path $parse_output_dir --perc_cov $percentage_cov --perc_id $percentage_id" 100 100 2>&1 >/dev/tty)
+            message_print_function "Your Analysis is running. Please wait..."
             ;;
         esac
 }
@@ -273,6 +279,7 @@ specify_optional_params(){
     parse_files_params["coverage"]=$parse_files_params_cov
     parse_files_params_id=$(dialog --inputmenu "${file_parsing_directives[@]}" 100 200 200 "Percentage_identity" 98 2>&1 >/dev/tty)
     parse_files_params["identity"]=$parse_files_params_id
+
     clear
 }
 
@@ -384,6 +391,7 @@ file_parsing_func(){
         
     else
         output=$2
+        
     fi
     echo "$output"
 }    
@@ -396,11 +404,6 @@ seq_dt_choice=$(command_option_func "$seq_dt_choice_d" "$seq_dt_choice_u" 2>&1)
 
 #2. File/Directory Paths
 file_paths_func
-
-#3. File parsing parms
-percentage_cov=$(file_parsing_func "coverage" "$percentage_cov_d")
-percentage_id=$(file_parsing_func "identity" "$percentage_id_d" 2>&1)
-
 
 
 ## Choices logic Processing
@@ -422,6 +425,8 @@ elif [ -n "$I" ]; then # User selects interactive promts
         *)
         choice_main_workflow
         process_val_inputs
+        percentage_cov=$(file_parsing_func "coverage" "$percentage_cov_d" 2>&1)
+        percentage_id=$(file_parsing_func "identity" "$percentage_id_d" 2>&1)
         progress_msg_alg=$(dialog --colors --msgbox "Progress report 2: 
         The following information have been collected and will now be passed to the backend to run your selected analysis
                         Command Options
@@ -440,9 +445,12 @@ elif [ -n "$I" ]; then # User selects interactive promts
         Percentage identity: $percentage_id
         
         To run this using the manual command-based mode:
-        taxo_id $sub_workflow_choice --run_mode $sub_workflows_modes_choice --in_data_type $seq_dt_choice --seq_path "${final_array["seq_reads_file_path"]}" --adp_path "${final_array["adpt_seq_file_path"]}" --ref_seq_path "${final_array["ref_seq_file_path"]}" --kraken_db $kraken_db_path --taxdb $taxdb_files_path --out_dir "${final_array["output_dir_path"]}" --perc_cov $percentage_cov --perc_id $percentage_id
+        taxo_id $sub_workflow_choice --run_mode $sub_workflows_modes_choice --in_data_type $seq_dt_choice --seq_path "${final_array["seq_reads_file_path"]}" --adp_path "${final_array["adpt_seq_file_path"]}" --ref_seq_path "${final_array["ref_seq_file_path"]}" --kraken_db_path $kraken_db_path --taxdb_path $taxdb_files_path --out_dir "${final_array["output_dir_path"]}" --perc_cov $percentage_cov --perc_id $percentage_id
         
         Note: You don't need to specify kraken database file path if your sub-workflow choice is r16S only. Likewise, don't specify taxdb if you are running only kraken analysis." 100 100 2>&1 >/dev/tty) 
+        message_print_function "Your Analysis is running. Please wait..."
+        Nexflow run $1 --command $sub_workflow_choice --run_mode $sub_workflows_modes_choice --in_data_type $seq_dt_choice --kraken_db_path $kraken_db_path --taxdb_path $taxdb_files_path \
+        --perc_cov $percentage_cov --perc_id $percentage_id --seq_path "${final_array["seq_reads_file_path"]}" --adp_path "${final_array["adpt_seq_file_path"]}" --ref_seq_path "${final_array["ref_seq_file_path"]}"
         ;;
     esac
 elif [ -n "$M" ]; then
@@ -461,5 +469,4 @@ else
     ./parser_python.py --help
     exit 0
 fi
-
 
