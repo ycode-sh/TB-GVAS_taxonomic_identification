@@ -20,23 +20,31 @@ params.perc_id=""
 params.seq_path=""
 params.se_reads=""
 params.pe_reads=""
-params.ref_seq_path="~/module_scripts/resources/Reference/h37rv.fasta"
-params.adp_path="~/module_scripts/resources/Adapters/NexteraPE-PE.fa"
+//params.ref_seq_path_d=""
+params.ref_seq_path=""
+//params.adp_path_d=""
+params.adp_path=""
 params.out_dir=""
 
 if(params.in_data_type == "pe_illumina_reads"){
-    params.pe_reads = params.seq_path 
+    params.pe_reads = params.seq_path
+    params.pe_reads =  params.pe_reads + "/*fastq_{1,2}"
 } else if(params.in_data_type == "se_illumina_reads" | params.in_data_type == "minion_ont_reads"){
     params.se_reads = params.seq_path
+    params.se_reads = params.se_reads + "/*fastq"
 }
+
+if(params.adp_path == "Adapater_seq_file_path"){
+    params.adp_path = ${adp_path_d}
+}
+if(params.ref_seq_path == "Reference_file_path"){
+    params.ref_seq_path = ${params.ref_seq_path_d}
+}
+
 
 // Import inclusions
 
 include {trim_fastq; kraken_contamination; find_16s_hit; genome_assembly; emit_sam; coordsort_sam; bamtofastq; parse_16S; parse_kraken} from "~/module_script.nf"
-
-
-
-
 
 
 workflow comprehensive {
