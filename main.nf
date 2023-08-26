@@ -4,13 +4,13 @@
 params.command=""
 params.run_mode=""
 params.in_data_type=""
-params.kraken_script="kraken_tx_id.sh"
-params.genome_assembly_script="genome_assembly.sh"
-params.trim_sample_script="trim_sample.sh"
+params.kraken_script="/home/dfgmrtc/Workflows/wf-module_templates/module_scripts/resources/usr/bin/kraken_tx_id.sh"
+params.genome_assembly_script="/home/dfgmrtc/Workflows/wf-module_templates/module_scripts/resources/usr/bin/genome_assembly.sh"
+params.trim_sample_script="/home/dfgmrtc/Workflows/wf-module_templates/module_scripts/resources/usr/bin/trim_sample.sh"
 params.emit_sam_script="emit_sam.sh"
 params.coordsort_sam_script="coord_sort_sam.sh"
 params.bamtofastq_script="bamtofastq.sh"
-params.find_16S_hits_script="run_16S_tx_id.sh"
+params.find_16S_hits_script="/home/dfgmrtc/Workflows/wf-module_templates/module_scripts/resources/usr/bin/run_16S_tx_id.sh"
 params.parse_kraken_script="parse_kraken_output.py"
 params.parse_16S_script="parse_16S_output.py"
 params.kraken_db_path=""
@@ -63,10 +63,10 @@ workflow comprehensive {
         bamtofastq_script_wf
         find_16S_hits_script_wf
         txdb_path_str
-        parse_kraken_script_wf
-        parse_16S_script_wf
-        perc_cov
-        perc_id
+        //parse_kraken_script_wf
+        //parse_16S_script_wf
+        //perc_cov
+        //perc_id
 
     main:
         if (params.run_mode == "without_reads_decontamination"){
@@ -100,10 +100,12 @@ workflow comprehensive {
             }
         }
         find_16s_hit(find_16S_hits_script_wf, genome_assembly.out, txdb_path_str)
-        flattened_16S_ouputs = find_16s_hit.out
-        //flattened_kraken_outputs = kraken_contamination.out
-        parse_kraken(parse_kraken_script_wf, kraken_contamination.out)
-        parse_16S(parse_16S_script_wf, flattened_16S_ouputs, perc_cov, perc_id)
+        //flattened_16S_ouputs = find_16s_hit.out | flatten
+        //flattened_kraken_outputs = kraken_contamination.out | flatten | collect
+        //parse_kraken(parse_kraken_script_wf, flattened_kraken_outputs)
+        //parse_16S(parse_16S_script_wf, flattened_16S_ouputs, perc_cov, perc_id)
+    //emit:
+      //  parse_16S.out
         
 }
 
@@ -111,6 +113,6 @@ workflow comprehensive {
 workflow {
     comprehensive(Channel.value(params.kraken_script), Channel.value(params.genome_assembly_script), Channel.fromPath(params.se_reads_u), Channel.fromFilePairs(params.pe_reads_u), Channel.value(params.kraken_db_path),
     Channel.value(params.in_data_type), Channel.value(params.trim_sample_script), Channel.value(params.adp_path), Channel.value(params.emit_sam_script), Channel.value(params.ref_seq_path),
-    Channel.value(params.coordsort_sam_script), Channel.value(params.bamtofastq_script), Channel.value(params.find_16S_hits_script), Channel.value(params.txdb_path),
-    Channel.value(params.parse_kraken_script), Channel.value(params.parse_16S_script), Channel.value(params.perc_cov), Channel.value(params.perc_id))
+    Channel.value(params.coordsort_sam_script), Channel.value(params.bamtofastq_script), Channel.value(params.find_16S_hits_script), Channel.value(params.txdb_path))
+  //  Channel.value(params.parse_kraken_script), Channel.value(params.parse_16S_script), Channel.value(params.perc_cov), Channel.value(params.perc_id))
 }
