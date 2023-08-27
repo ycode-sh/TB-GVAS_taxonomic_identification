@@ -237,18 +237,19 @@ choice_parse_files(){
 }
 
 choice_main_workflow(){
-        sub_workflow_choice_msg="You selected ${sub_workflow_choice_u} sub-workflow. This sub-workflow can be run in two modes: with or without reads decontamination. In the next prompt, you will select an option appropriate for your analysis run"
+        sub_workflow_choice_msg="You selected ${sub_workflow_choice} sub-workflow. This sub-workflow can be run in two modes: with or without reads decontamination. In the next prompt, you will select an option appropriate for your analysis run"
         message_print_function $sub_workflow_choice_msg
         sub_workflows_modes_choice_u=$(dialog --menu "${sub_workflows_modes_choice_directives[@]}" 100 200 200 "${sub_workflows_modes[@]}" 2>&1 >/dev/tty)
-        sub_wf_choice_mode_seq_dt_intro_msg="You now have ${sub_workflow_choice_u[@]} sub-workflow ${sub_workflows_modes_choice_u[@]} mode on your buidlist. In the next prompt, you will provide some other information on your input data. Keep going"
+        sub_workflows_modes_choice=$(command_option_func "$sub_workflows_modes_choice_d" "$sub_workflows_modes_choice_u" 2>&1)
+        sub_wf_choice_mode_seq_dt_intro_msg="You now have ${sub_workflow_choice[@]} sub-workflow ${sub_workflows_modes_choice[@]} mode on your buidlist. In the next prompt, you will provide some other information on your input data. Keep going"
         message_print_function $sub_wf_choice_mode_seq_dt_intro_msg
-        
         seq_dt_choice_u=$(dialog --menu "Select sequencing platform from which inputs data are generated" 100 200 200 "${seq_dt[@]}" 2>&1 >/dev/tty)
+        seq_dt_choice=$(command_option_func "$seq_dt_choice_d" "$seq_dt_choice_u" 2>&1)
         progress_msg=$(dialog --colors --msgbox "Progress Message 1:
         So far in your workflow build, the following options have been selected:
-        sub_workflow_choice: ${sub_workflow_choice_u}
-        sub_workflow_mode: ${sub_workflows_modes_choice_u}
-        sequencing_platform and input data type: ${seq_dt_choice_u}" 100 100 2>&1 >/dev/tty)
+        sub_workflow_choice: ${sub_workflow_choice}
+        sub_workflow_mode: ${sub_workflows_modes_choice}
+        sequencing_platform and input data type: ${seq_dt_choice}" 100 100 2>&1 >/dev/tty)
         
         
 }
@@ -265,21 +266,26 @@ specify_file_paths(){
             message_print_function "Selected filepath for $item: ${file_paths[$item]}"
     done
     message_print_function "Specify path to directory where kraken database files are saved. This is a compulsory selecion if you want to run kraken analysis. However,your choice will be ignored if r16S only is selected sub-workflow. You may press cancel to achieve a similar effect"
-    kraken_db_path=$(dialog --fselect "$HOME" 100 200 2>&1 >/dev/tty)
-    message_print_function "Selected filepath for kraken_db_path: ${kraken_db_path[$item]}"
-    message_print_function "Specify path to directory where taxdb files are saved This is a compulsory selecion if you want to run r16S analysis. However,your choice will be ignored if r16S only is not selected sub-workflow. You may press cancel to achieve a similar effect"
-    taxdb_files_path=$(dialog --fselect "$HOME" 100 200 2>&1 >/dev/tty)
-    message_print_function "Selected filepath for taxdb_file_path: ${taxdb_files_path[$item]}"
+    if [[ $sub_workflow_choice == "comprehensive" || $sub_workflow_choice == "kraken_only" ]]; then
+        kraken_db_path=$(dialog --fselect "$HOME" 100 200 2>&1 >/dev/tty)
+        message_print_function "Selected filepath for kraken_db_path: ${kraken_db_path[$item]}"
+        message_print_function "Specify path to directory where taxdb files are saved This is a compulsory selecion if you want to run r16S analysis. However,your choice will be ignored if r16S only is not selected sub-workflow. You may press cancel to achieve a similar effect"
+    fi
+    if [[ $sub_workflow_choice == "comprehensive" || $sub_workflow_choice == "r16S_only" ]]; then
+        taxdb_files_path=$(dialog --fselect "$HOME" 100 200 2>&1 >/dev/tty)
+        message_print_function "Selected filepath for taxdb_file_path: ${taxdb_files_path[$item]}"
+    fi
 }
 
 # 4. Parameter definition function
 specify_optional_params(){
     message_print_function $file_parsing_params_directives
-    parse_files_params_cov=$(dialog --inputmenu "${file_parsing_directives[@]}" 100 200 200 "Percentage_coverage" 10 2>&1 >/dev/tty)
-    parse_files_params["coverage"]=$parse_files_params_cov
-    parse_files_params_id=$(dialog --inputmenu "${file_parsing_directives[@]}" 100 200 200 "Percentage_identity" 98 2>&1 >/dev/tty)
-    parse_files_params["identity"]=$parse_files_params_id
-
+    if [[ $sub_workflow_choice == "comprehensive" || $sub_workflow_choice == "r16S_only" ]]; then
+        parse_files_params_cov=$(dialog --inputmenu "${file_parsing_directives[@]}" 100 200 200 "Percentage_coverage" 10 2>&1 >/dev/tty)
+        parse_files_params["coverage"]=$parse_files_params_cov
+        parse_files_params_id=$(dialog --inputmenu "${file_parsing_directives[@]}" 100 200 200 "Percentage_identity" 98 2>&1 >/dev/tty)
+        parse_files_params["identity"]=$parse_files_params_id
+    fi
     clear
 }
 
@@ -293,12 +299,14 @@ message_print_function $file_paths_spec_directives
             message_print_function "No default chosen"
             message_print_function $directory_selection_msg
             specify_file_paths
+            file_paths_resolution_func
             specify_optional_params
         
         elif [ "${#option_array[@]}" -eq 4 ]; then #All defaults
             message_print_function "All defaults selected. Continue to see them?"
             message_print_function "Selected Defaults: ${option_array[@]}"
             specify_file_paths
+            file_paths_resolution_func
             specify_optional_params
         
         else  #Some defaults
@@ -306,6 +314,7 @@ message_print_function $file_paths_spec_directives
             You will now select directory path for unselected default options ..."
             message_print_function $directory_selection_msg
             specify_file_paths
+            file_paths_resolution_func
             specify_optional_params
         
         fi
@@ -365,7 +374,7 @@ command_option_func(){
     fi
 }
 
-file_paths_func(){
+file_paths_resolution_func(){
 for item1 in "${!file_paths[@]}"; do
     for item2 in "${!file_path_params[@]}"; do
         if [[ $item1 == $item2 ]]; then
@@ -396,15 +405,6 @@ file_parsing_func(){
     echo "$output"
 }    
 
-# Resolve 
-# 1. Command Options
-sub_workflow_choice=$(command_option_func "$sub_workflow_choice_d" "$sub_workflow_choice_u" 2>&1)
-sub_workflows_modes_choice=$(command_option_func "$sub_workflows_modes_choice_d" "$sub_workflows_modes_choice_u" 2>&1)
-seq_dt_choice=$(command_option_func "$seq_dt_choice_d" "$seq_dt_choice_u" 2>&1)
-
-#2. File/Directory Paths
-file_paths_func
-
 
 ## Choices logic Processing
 
@@ -423,6 +423,7 @@ elif [ -n "$I" ]; then # User selects interactive promts
         choice_parse_files
         ;;
         *)
+        sub_workflow_choice=$(command_option_func "$sub_workflow_choice_d" "$sub_workflow_choice_u" 2>&1)
         choice_main_workflow
         process_val_inputs
         percentage_cov=$(file_parsing_func "coverage" "$percentage_cov_d" 2>&1)
@@ -450,7 +451,7 @@ elif [ -n "$I" ]; then # User selects interactive promts
         Note: You don't need to specify kraken database file path if your sub-workflow choice is r16S only. Likewise, don't specify taxdb if you are running only kraken analysis." 100 100 2>&1 >/dev/tty) 
         message_print_function "Your Analysis is running. Please wait..."
         nextflow run $1 --command $sub_workflow_choice --run_mode $sub_workflows_modes_choice --in_data_type $seq_dt_choice --kraken_db_path $kraken_db_path --taxdb_path $taxdb_files_path \
-        --perc_cov $percentage_cov --perc_id $percentage_id --seq_path "${final_array["seq_reads_file_path"]}" --adp_path "${final_array["adpt_seq_file_path"]}" --ref_seq_path "${final_array["ref_seq_file_path"]}"
+        --out_dir "${final_array["output_dir_path"]}" --perc_cov $percentage_cov --perc_id $percentage_id --seq_path "${final_array["seq_reads_file_path"]}" --adp_path "${final_array["adpt_seq_file_path"]}" --ref_seq_path "${final_array["ref_seq_file_path"]}" -resume
         ;;
     esac
 elif [ -n "$M" ]; then

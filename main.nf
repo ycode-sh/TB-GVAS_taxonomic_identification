@@ -1,44 +1,40 @@
 'nextflow.enable=dsl2'
 
-// Define parameters
-params.command=""
-params.run_mode=""
-params.in_data_type=""
-params.kraken_script="/home/dfgmrtc/Workflows/wf-module_templates/module_scripts/resources/usr/bin/kraken_tx_id.sh"
-params.genome_assembly_script="/home/dfgmrtc/Workflows/wf-module_templates/module_scripts/resources/usr/bin/genome_assembly.sh"
-params.trim_sample_script="/home/dfgmrtc/Workflows/wf-module_templates/module_scripts/resources/usr/bin/trim_sample.sh"
-params.emit_sam_script="emit_sam.sh"
-params.coordsort_sam_script="coord_sort_sam.sh"
-params.bamtofastq_script="bamtofastq.sh"
-params.find_16S_hits_script="/home/dfgmrtc/Workflows/wf-module_templates/module_scripts/resources/usr/bin/run_16S_tx_id.sh"
-params.parse_kraken_script="parse_kraken_output.py"
-params.parse_16S_script="parse_16S_output.py"
-params.kraken_db_path=""
-params.txdb_path=""
-params.perc_cov=""
-params.perc_id=""
-params.seq_path=""
-params.se_reads_u="nill"
-//params.pe_reads=""
-//params.ref_seq_path_d=""
-params.ref_seq_path=""
-//params.adp_path_d=""
-params.adp_path=""
-params.out_dir=""
+
 
 if(params.in_data_type == "pe_illumina_reads"){
-    params.pe_reads = params.seq_path
-    params.pe_reads_u =  params.pe_reads + "/*fastq_{1,2}"
+    params.pe_reads = params.seq_path + "sample_*_{1,2}.fastq"
+    params.go = 1
+    params.se_reads = params.seq_path + "sample_*_1.fastq"
+    params.stage = "se_reads"
+    params.what_input = "tuple"
+    
 } else if(params.in_data_type == "se_illumina_reads" | params.in_data_type == "minion_ont_reads"){
-    params.se_reads = params.seq_path
-    params.se_reads_u = params.se_reads + "/*fastq"
+    params.se_reads = params.seq_path + "sample_*.fastq"
+    params.go = 0
+    params.pe_reads = params.seq_path + "sample_*.fastq"
+    params.stage = "no_pe"
+    params.what_input = "path_only"
+    
 }
 
-if(params.adp_path == "Adapater_seq_file_path"){
-    params.adp_path = adp_path_d
+if(params.seq_path == "test_data_path"){
+     exit 1, "No fastq files specified -- aborting"
 }
-if(params.ref_seq_path == "Reference_file_path"){
-    params.ref_seq_path = params.ref_seq_path_d
+if(params.adp_path == "nextera_pe_path"){
+    params.adp_path_int = params.adp_path_d
+}else {
+    params.adp_path_int = params.adp_path
+}
+if(params.ref_seq_path == "h37rv.fasta"){
+    params.ref_seq_path_int = params.ref_seq_path_d
+} else {
+    params.ref_seq_path_int = params.ref_seq_path
+}
+if(params.out_dir == "current_working_directory"){
+    params.out_dir_int = params.out_dir_d
+} else {
+    params.out_dir_int = params.out_dir
 }
 
 
@@ -63,56 +59,68 @@ workflow comprehensive {
         bamtofastq_script_wf
         find_16S_hits_script_wf
         txdb_path_str
-        //parse_kraken_script_wf
-        //parse_16S_script_wf
-        //perc_cov
-        //perc_id
+        parse_kraken_script_wf
+        parse_16S_script_wf
+        perc_cov
+        perc_id
 
     main:
         if (params.run_mode == "without_reads_decontamination"){
             if (params.in_data_type == "minion_ont_reads"){
-                kraken_contamination(kraken_script_wf, se_reads, pe_reads, kraken_database_path, input_read_type)
+                kraken_contamination(kraken_script_wf, se_reads, kraken_database_path, input_read_type)
                 genome_assembly(genome_assembly_script_wf, se_reads, pe_reads, input_read_type)
             } else {
                 trim_fastq(trim_sample_script_wf, se_reads, pe_reads, adapter_seq, input_read_type)
                 if(params.in_data_type == "pe_illumina_reads"){
-                    trimmed_reads = trim_fastq.out | flatten | filter { it =~/P.fastq/ } | map { [it.name - ~/_[12]P.fastq/, it] } | groupTuple
+                    trimmed_reads = trim_fastq.out.trimmed_reads | flatten | filter { it =~/P.fastq/ } | map { [it.name - ~/_[12]P.fastq/, it] } | groupTuple
                     kraken_contamination(kraken_script_wf, se_reads, trimmed_reads, kraken_database_path, input_read_type)
                     genome_assembly(genome_assembly_script_wf, se_reads, pe_reads, input_read_type)
                 } else if (params.in_data_type == "se_illumina_reads"){
-                    trimmed_reads = trim_fastq.out | filter { it =~/P.fastq/ }
+                    trimmed_reads = trim_fastq.out.trimmed_reads | filter { it =~/P.fastq/ }
                     kraken_contamination(kraken_script_wf, trimmed_reads, kc_pe_reads, kraken_database_path, input_read_type)
                     genome_assembly(genome_assembly_script_wf, trimmed_reads, pe_reads, input_read_type)
                 }
             }
         } else if (params.run_mode == "with_reads_decontamination"){
-            emit_sam(emit_sam_script_wf, se_reads, pe_reads, fastafile, input_read_type)
-            coordsort_sam(coordsort_sam_script_wf, emit_sam.out)
-            bamtofastq(bamtofastq_script_wf, coordsort_sam.out)
             if(params.in_data_type == "pe_illumina_reads"){
-                reads_decontamination_out_seq = bamtofastq.out | flatten | map {[it.name - ~/.fastq_[12]/, it] } | groupTuple
+                emit_sam(emit_sam_script_wf, se_reads, fastafile, input_read_type)
+                coordsort_sam(coordsort_sam_script_wf, emit_sam.out)
+                bamtofastq(bamtofastq_script_wf, coordsort_sam.out, input_read_type)
+                reads_decontamination_out_seq = bamtofastq.out | flatten | map {[it.name - ~/_[12].fastq/, it] } | groupTuple
                 kraken_contamination(kraken_script_wf, se_reads, reads_decontamination_out_seq, kraken_database_path, input_read_type)
                 genome_assembly(genome_assembly_script_wf, se_reads, reads_decontamination_out_seq, input_read_type)
             } else {
+                emit_sam(emit_sam_script_wf, se_reads, pe_reads, fastafile, input_read_type)
+                coordsort_sam(coordsort_sam_script_wf, emit_sam.out)
+                bamtofastq(bamtofastq_script_wf, coordsort_sam.out, input_read_type)
                 reads_decontamination_out_seq = bamtofastq.out
                 kraken_contamination(kraken_script_wf, reads_decontamination_out_seq, pe_reads, kraken_database_path, input_read_type)
                 genome_assembly(genome_assembly_script_wf, reads_decontamination_out_seq, pe_reads, input_read_type)
             }
         }
         find_16s_hit(find_16S_hits_script_wf, genome_assembly.out, txdb_path_str)
-        //flattened_16S_ouputs = find_16s_hit.out | flatten
-        //flattened_kraken_outputs = kraken_contamination.out | flatten | collect
-        //parse_kraken(parse_kraken_script_wf, flattened_kraken_outputs)
-        //parse_16S(parse_16S_script_wf, flattened_16S_ouputs, perc_cov, perc_id)
-    //emit:
-      //  parse_16S.out
+        flattened_16S_ouputs = find_16s_hit.out | flatten | collect
+        flattened_kraken_outputs = kraken_contamination.out.kraken_reports | flatten | collect
+        parse_kraken(parse_kraken_script_wf, flattened_kraken_outputs)
+        parse_16S(parse_16S_script_wf, flattened_16S_ouputs, perc_cov, perc_id)
+    emit:
+        find_16s_hit.out
         
 }
 
 
 workflow {
-    comprehensive(Channel.value(params.kraken_script), Channel.value(params.genome_assembly_script), Channel.fromPath(params.se_reads_u), Channel.fromFilePairs(params.pe_reads_u), Channel.value(params.kraken_db_path),
-    Channel.value(params.in_data_type), Channel.value(params.trim_sample_script), Channel.value(params.adp_path), Channel.value(params.emit_sam_script), Channel.value(params.ref_seq_path),
-    Channel.value(params.coordsort_sam_script), Channel.value(params.bamtofastq_script), Channel.value(params.find_16S_hits_script), Channel.value(params.txdb_path))
-  //  Channel.value(params.parse_kraken_script), Channel.value(params.parse_16S_script), Channel.value(params.perc_cov), Channel.value(params.perc_id))
+    def pe_channel = params.what_input
+    if (pe_channel == "path_only"){
+        params.pe_reads_channel = Channel.fromPath(params.pe_reads)
+    } else if (pe_channel == "tuple") {
+        params.pe_reads_channel = Channel.fromFilePairs(params.pe_reads)
+    }
+    comprehensive(Channel.value(params.kraken_script), Channel.value(params.genome_assembly_script), Channel.fromPath(params.se_reads), params.pe_reads_channel, Channel.value(params.kraken_db_path),
+    Channel.value(params.in_data_type), Channel.value(params.trim_sample_script), Channel.value(params.adp_path_int), Channel.value(params.emit_sam_script), Channel.value(params.ref_seq_path_int),
+    Channel.value(params.coordsort_sam_script), Channel.value(params.bamtofastq_script), Channel.value(params.find_16S_hits_script), Channel.value(params.taxdb_path),
+    Channel.value(params.parse_kraken_script), Channel.value(params.parse_16S_script), Channel.value(params.perc_cov), Channel.value(params.perc_id))
 }
+
+
+//workflow kraken_only
