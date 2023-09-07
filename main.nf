@@ -35,10 +35,61 @@ if(params.out_dir == "current_working_directory"){
 
 // Import inclusions
 
-include {trim_fastq_se; trim_fastq_pe; kraken_contamination_se; kraken_contamination_pe ; find_16s_hit; genome_assembly_se; genome_assembly_pe; emit_sam_se; emit_sam_pe; coordsort_sam; bamtofastq; parse_16S; parse_kraken} from "/home/dfgmrtc/Workflows/wf-module_templates/module_scripts/module_script.nf"
+include {trim_fastq; kraken_contamination; find_16s_hit; genome_assembly; emit_sam; coordsort_sam; pbamtofastq; parse_16S; parse_kraken} from "/home/dfgmrtc/Workflows/wf-module_templates/module_scripts/module_script.nf"
+
+kraken_contamination
+kraken_script_wf
+        pe_reads_wf
+        se_reads_wf
+        kraken_db_path_wf
+        input_read_type
+
+trim_fastq {}
+    take:
+        trim_sample_script_wf
+        pe_reads_wf
+        adapter_seq
+        input_read_type
+        se_reads_wf
+
+take:
+        genome_assembly_script_wf
+        pe_reads_wf
+        se_reads_wf
+        input_read_type
+
+emit_sam_script_wf
+        trimmed_reads
+        fastafile
+        input_read_type
 
 
 workflow comprehensive {
+    take:
+
+    main:
+        trim_fastq(trim_sample_script_wf, pe_reads_wf, se_reads_wf, kraken_db_path_wf, input_read_type)
+        if (params.run_mode == "without_reads_decontamination"){
+            kraken_contamination(kraken_script_wf, trim_fastq.out, kraken_db_path_wf, input_read_type)
+            genome_assembly(genome_assembly_script_wf, trim_fastq.out, input_read_type)
+        else if (params.run_mode == "with_reads_decontamination") {
+            emit_sam(emit_sam_script_wf, trim_fastq.out, fastafile, input_read_type)
+            coordsort_sam(coordsort_sam_script_wf, emit_sam.out)
+            pbamtofastq(bamtofastq_script_wf, coordsort_sam.out, input_read_type)
+            kraken_contamination(kraken_script_wf, pbamtofastq.out, kraken_db_path_wf, input_read_type)
+            genome_assembly(genome_assembly_script_wf, pbamtofastq.out, input_read_type)
+        }
+        }
+        find_16s_hit(find_16S_hits_script_wf, genome_assembly.out, txdb_path_str)
+        flattened_16S_ouputs = find_16s_hit.out | flatten | collect
+        flattened_kraken_outputs = kraken_contamination_se.out.kraken_reports | flatten | collect
+        parse_kraken(parse_kraken_script_wf, flattened_kraken_outputs)
+        parse_16S(parse_16S_script_wf, flattened_16S_ouputs, perc_cov, perc_id)
+
+
+}
+
+workflow comprehensive1 {
     take:
         kraken_script_wf
         genome_assembly_script_wf
