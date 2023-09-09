@@ -20,7 +20,7 @@ cp ${2}taxdb* "$PWD"
 
 
 # Run blast+ analysis
-db_files_rel_path="/home/dfgmrtc/Workflows/wf-taxo_id_rd/wf-module_templates/module_scripts/resources/r16SRNA_db/16S_ribosomal_RNA.dust_window_masked"
+db_files_rel_path="/home/dfgmrtc/Workflows/wf-taxo_id_rd/bin/r16SRNA_db/16S_ribosomal_RNA.dust_window_masked"
 db_files_abs_path="$db_files_rel_path"
 blastn -query "16s_${filename}.fa"  -task blastn -db $db_files_abs_path \
     -db_hard_mask 30 -dust yes   -outfmt "7 qseqid sseqid pident length mismatch qstart qend sstart send evalue qcovs bitscore sscinames scomnames staxids stitle" \

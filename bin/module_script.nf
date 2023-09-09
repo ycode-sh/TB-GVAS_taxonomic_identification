@@ -138,20 +138,22 @@ process kraken_contamination_pe {
 workflow kraken_contamination {
     take:
         kraken_script_wf
-        pe_reads_wf
-        se_reads_wf
+        reads_wf
         kraken_db_path_wf
         input_read_type
 
 
     main:
         if (params.in_data_type == "pe_illumina_reads"){
-            kraken_contamination_pe(kraken_script_wf, pe_reads_wf, kraken_db_path_wf, input_read_type)
+            kraken_contamination_pe(kraken_script_wf, reads_wf, kraken_db_path_wf, input_read_type)
             kraken_outputs = kraken_contamination_pe.out
         } else if (params.in_data_type == "se_illumina_reads" | params.in_data_type == "minion_ont_reads"){
-            kraken_contamination_se(kraken_script_wf, se_reads_wf, kraken_db_path_wf, input_read_type)
+            kraken_contamination_se(kraken_script_wf, reads_wf, kraken_db_path_wf, input_read_type)
             kraken_outputs = kraken_contamination_se.out
         }
+
+    emit:
+        kraken_outputs.kraken_reports
 }
 
 // 3. 16S Ribosomal RNA Analysis
@@ -227,17 +229,16 @@ process genome_assembly_pe {
 workflow genome_assembly {
     take:
         genome_assembly_script_wf
-        pe_reads_wf
-        se_reads_wf
+        reads_wf
         input_read_type
 
 
     main:
         if (params.in_data_type == "pe_illumina_reads"){
-            genome_assembly_pe(genome_assembly_script_wf, pe_reads_wf, input_read_type)
+            genome_assembly_pe(genome_assembly_script_wf, reads_wf, input_read_type)
             asssembly_out = genome_assembly_pe.out
-        else if (params.in_data_type == "se_illumina_reads" | params.in_data_type == "minion_ont_reads")
-            genome_assembly_se(genome_assembly_script_wf, se_reads_wf, input_read_type)
+        } else if (params.in_data_type == "se_illumina_reads" | params.in_data_type == "minion_ont_reads") {
+            genome_assembly_se(genome_assembly_script_wf, reads_wf, input_read_type)
             asssembly_out = genome_assembly_se.out
         }
 
@@ -355,16 +356,16 @@ workflow pbamtofastq {
     take:
         bamtofastq_script_wf
         sorted_bamfile_wf
-        input_read_type_wf
+        input_read_type
 
     main:
         bamtofastq(bamtofastq_script_wf, sorted_bamfile_wf, input_read_type)
         if (params.in_data_type == "se_illumina_reads" | params.in_data_type == "minion_ont_reads") {
             bamtofastq_out = bamtofastq.out
-        else if (params.in_data_type == "se_illumina_reads") {
+        } else if (params.in_data_type == "pe_illumina_reads") {
             bamtofastq_out = bamtofastq.out | flatten | map {[it.name - ~/_[12].fastq/, it] } | groupTuple
         }
-        }
+      
 
     emit:
         bamtofastq_out

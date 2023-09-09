@@ -5,7 +5,7 @@
 
 # $1 = read1, $2 = read2/db if ont or se, $3 = pair_id/read-type if ont or se, $4 = kraken_database if illumina to be supplied by user on the terminal, $5 = input read type if illumina
 if [[ $3 == "se_illumina_reads" || $3 == "minion_ont_reads" ]]; then
-    if [[ $3 == "se_illumina_reads" ]]: then
+    if [[ $3 == "se_illumina_reads" ]]; then
         sample_id=$(basename $1 _P.fastq)
     elif [[ $3 == "minion_ont_reads" ]]; then
         sample_id=$(basename $1 .fastq)
