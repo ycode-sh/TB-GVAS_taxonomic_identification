@@ -1,0 +1,2461 @@
+INH	ahpC_A122T		Uncertain_significance
+INH	ahpC_A12V		Uncertain_significance
+INH	ahpC_A149T		Uncertain_significance
+INH	ahpC_A151S		Uncertain_significance
+INH	ahpC_A187P		Uncertain_significance
+INH	ahpC_A193V		Uncertain_significance
+INH	ahpC_A195S		Uncertain_significance
+INH	ahpC_c-52a		combo
+INH	katG_S315T		combo
+INH	ahpC_c-52t		combo
+INH	katG_S315T		combo
+INH	ahpC_c-57t		combo
+INH	katG_S315T		combo
+INH	ahpC_c-81t		combo
+INH	katG_S315T		combo
+INH	ahpC_D139H		Uncertain_significance
+INH	ahpC_D171N		Uncertain_significance
+INH	ahpC_D182G		Uncertain_significance
+INH	ahpC_D186E		Uncertain_significance
+INH	ahpC_D22N		Uncertain_significance
+INH	ahpC_D33A		Uncertain_significance
+INH	ahpC_D41N		Uncertain_significance
+INH	ahpC_D73G		Uncertain_significance
+INH	ahpC_D73H		combo
+INH	katG_S315T		combo
+INH	ahpC_D73H		Uncertain_significance
+INH	ahpC_D79N		Uncertain_significance
+INH	ahpC_D88G		Uncertain_significance
+INH	ahpC_E160K		Uncertain_significance
+INH	ahpC_E76K		combo
+INH	inhA_c-777t		combo
+INH	ahpC_E76K		combo
+INH	katG_S315T		combo
+INH	ahpC_E76K		Uncertain_significance
+INH	ahpC_F108S		Uncertain_significance
+INH	ahpC_F108V		Uncertain_significance
+INH	ahpC_F52S		Uncertain_significance
+INH	ahpC_G20A		Uncertain_significance
+INH	ahpC_G21S		Uncertain_significance
+INH	ahpC_G32D		Uncertain_significance
+INH	ahpC_G32S		Uncertain_significance
+INH	ahpC_G45A		Uncertain_significance
+INH	ahpC_G45S		Uncertain_significance
+INH	ahpC_g-48a		combo
+INH	katG_S315T		combo
+INH	ahpC_g-51a		combo
+INH	katG_S315T		combo
+INH	ahpC_H100L		Uncertain_significance
+INH	ahpC_H100R		Uncertain_significance
+INH	ahpC_I137T		Uncertain_significance
+INH	ahpC_I38M		Uncertain_significance
+INH	ahpC_K115R		Uncertain_significance
+INH	ahpC_K180N		Uncertain_significance
+INH	ahpC_K192N		Uncertain_significance
+INH	ahpC_K192Q		Uncertain_significance
+INH	ahpC_L15R		Uncertain_significance
+INH	ahpC_L165F		Uncertain_significance
+INH	ahpC_L191F		Uncertain_significance
+INH	ahpC_L191R		Uncertain_significance
+INH	ahpC_L4R		Uncertain_significance
+INH	ahpC_M1T		Uncertain_significance
+INH	ahpC_P183L		Uncertain_significance
+INH	ahpC_P44R		Uncertain_significance
+INH	ahpC_P62H		Uncertain_significance
+INH	ahpC_Q145P		Uncertain_significance
+INH	ahpC_R133Q		Uncertain_significance
+INH	ahpC_R163!		Uncertain_significance
+INH	ahpC_R179H		Uncertain_significance
+INH	ahpC_T105K		Uncertain_significance
+INH	ahpC_T105M		Uncertain_significance
+INH	ahpC_T5I		Uncertain_significance
+INH	ahpC_V130M		Uncertain_significance
+INH	ahpC_V158F		Uncertain_significance
+INH	ahpC_V161G		Uncertain_significance
+INH	ahpC_V161I		Uncertain_significance
+INH	ahpC_V161L		Uncertain_significance
+INH	ahpC_W96C		Uncertain_significance
+INH	ahpC_W96R		Uncertain_significance
+INH	ahpC_Y34C		Uncertain_significance
+INH	inhA_-808_del_1_acataccgatttcggcccggccg_acataccgatttggcccggccg		combo
+INH	katG_S315T		combo
+INH	inhA_A114G		Uncertain_significance
+INH	inhA_A124V		Uncertain_significance
+INH	inhA_A133T		Uncertain_significance
+INH	inhA_a-176c		combo
+INH	katG_S315T		combo
+INH	inhA_A190S		Uncertain_significance
+INH	inhA_A191T		Uncertain_significance
+INH	inhA_A201T		Uncertain_significance
+INH	inhA_A213V		Uncertain_significance
+INH	inhA_A22S		Uncertain_significance
+INH	inhA_A235T		Uncertain_significance
+INH	inhA_A235V		Uncertain_significance
+INH	inhA_A239T		Uncertain_significance
+INH	inhA_A239V		Uncertain_significance
+INH	inhA_A252V		Uncertain_significance
+INH	inhA_A58V		Uncertain_significance
+INH	inhA_c-100a		combo
+INH	katG_S315T		combo
+INH	inhA_c-67t		combo
+INH	katG_S315T		combo
+INH	inhA_c-777t		combo
+INH	katG_Q127P		combo
+INH	inhA_c-777t		combo
+INH	katG_S315T		combo
+INH	inhA_c-777t		combo
+INH	katG_T380I		combo
+INH	inhA_c-777t		combo
+INH	katG_V473L		combo
+INH	inhA_D52G		Uncertain_significance
+INH	inhA_D89N		Uncertain_significance
+INH	inhA_E209G		Uncertain_significance
+INH	inhA_E31K		Uncertain_significance
+INH	inhA_E80A		Uncertain_significance
+INH	inhA_F41S		Uncertain_significance
+INH	inhA_G141R		Uncertain_significance
+INH	inhA_G142S		Uncertain_significance
+INH	inhA_g-154a		combo
+INH	katG_S315T		combo
+INH	inhA_G183D		Uncertain_significance
+INH	inhA_G183R		Uncertain_significance
+INH	inhA_G212S		Uncertain_significance
+INH	inhA_G221S		Uncertain_significance
+INH	inhA_G33D		Uncertain_significance
+INH	inhA_G33S		Uncertain_significance
+INH	inhA_G40W		Uncertain_significance
+INH	inhA_G76D		Uncertain_significance
+INH	inhA_g-779t		combo
+INH	katG_S315T		combo
+INH	inhA_g-809c		combo
+INH	katG_S315T		combo
+INH	inhA_G83R		Uncertain_significance
+INH	inhA_H24Q		Uncertain_significance
+INH	inhA_H70D		Uncertain_significance
+INH	inhA_I137V		Uncertain_significance
+INH	inhA_I15L		Uncertain_significance
+INH	inhA_I16T		Uncertain_significance
+INH	inhA_I16V		Uncertain_significance
+INH	inhA_I194M		Uncertain_significance
+INH	inhA_I194T		combo
+INH	inhA_c-777t		combo
+INH	inhA_I194T		Uncertain_significance
+INH	inhA_I21M		Uncertain_significance
+INH	inhA_I21T		Uncertain_significance
+INH	inhA_I21V		combo
+INH	inhA_c-777t		combo
+INH	inhA_I21V		Uncertain_significance
+INH	inhA_I228V		Uncertain_significance
+INH	inhA_I50V		Uncertain_significance
+INH	inhA_I95L		Uncertain_significance
+INH	inhA_I95V		Uncertain_significance
+INH	inhA_K118E		Uncertain_significance
+INH	inhA_L268F		Uncertain_significance
+INH	inhA_L61V		Uncertain_significance
+INH	inhA_M103V		Uncertain_significance
+INH	inhA_M155I		Uncertain_significance
+INH	inhA_N139S		Uncertain_significance
+INH	inhA_N231K		Uncertain_significance
+INH	inhA_P107S		Uncertain_significance
+INH	inhA_Q100H		Uncertain_significance
+INH	inhA_Q214R		Uncertain_significance
+INH	inhA_Q35R		Uncertain_significance
+INH	inhA_S143C		Uncertain_significance
+INH	inhA_S19A		Uncertain_significance
+INH	inhA_S19L		Uncertain_significance
+INH	inhA_S73G		Uncertain_significance
+INH	inhA_S94A		combo
+INH	inhA_c-777t		combo
+INH	inhA_S94A		combo
+INH	katG_S315T		combo
+INH	inhA_S94A		Assoc_w_R
+INH	inhA_T162S		Uncertain_significance
+INH	inhA_T236A		Uncertain_significance
+INH	inhA_T236M		Uncertain_significance
+INH	inhA_T266A		Uncertain_significance
+INH	inhA_T2A		Uncertain_significance
+INH	inhA_T2P		Uncertain_significance
+INH	inhA_T4I		Not_assoc_w_R_Interim
+INH	inhA_t-770a		combo
+INH	katG_S315T		combo
+INH	inhA_t-770c		combo
+INH	katG_S315T		combo
+INH	inhA_t-770g		combo
+INH	katG_S315T		combo
+INH	inhA_V171I		Uncertain_significance
+INH	inhA_V189I		Uncertain_significance
+INH	inhA_V203A		Uncertain_significance
+INH	inhA_V28L		Uncertain_significance
+INH	inhA_V65A		Uncertain_significance
+INH	inhA_V78A		Not_assoc_w_R_Interim
+INH	inhA_V91A		Uncertain_significance
+INH	inhA_Y182H		Uncertain_significance
+INH	katG_A106V		Uncertain_significance
+INH	katG_A109P		Uncertain_significance
+INH	katG_A109T		Uncertain_significance
+INH	katG_A109V		Uncertain_significance
+INH	katG_A110T		Uncertain_significance
+INH	katG_A110V		Uncertain_significance
+INH	katG_A122D		Uncertain_significance
+INH	katG_A139P		Uncertain_significance
+INH	katG_A139T		Uncertain_significance
+INH	katG_A144V		Uncertain_significance
+INH	katG_A15V		Uncertain_significance
+INH	katG_A162E		Uncertain_significance
+INH	katG_A162G		Uncertain_significance
+INH	katG_A162T		Uncertain_significance
+INH	katG_A162V		Uncertain_significance
+INH	katG_A168T		Uncertain_significance
+INH	katG_A172T		Uncertain_significance
+INH	katG_A172V		Uncertain_significance
+INH	katG_A202S		Uncertain_significance
+INH	katG_A222T		Uncertain_significance
+INH	katG_A243T		Uncertain_significance
+INH	katG_A244G		Uncertain_significance
+INH	katG_A256G		Uncertain_significance
+INH	katG_A256T		Uncertain_significance
+INH	katG_A256V		Uncertain_significance
+INH	katG_A263P		Uncertain_significance
+INH	katG_A264V		Uncertain_significance
+INH	katG_A281T		Uncertain_significance
+INH	katG_A290P		Uncertain_significance
+INH	katG_A291D		Uncertain_significance
+INH	katG_A312P		Uncertain_significance
+INH	katG_A348G		Uncertain_significance
+INH	katG_A379T		Uncertain_significance
+INH	katG_A379V		Uncertain_significance
+INH	katG_A411D		Uncertain_significance
+INH	katG_A424G		Uncertain_significance
+INH	katG_A424V		Uncertain_significance
+INH	katG_A476V		Uncertain_significance
+INH	katG_A479E		Uncertain_significance
+INH	katG_A479G		Uncertain_significance
+INH	katG_A479V		Uncertain_significance
+INH	katG_A480Q		Uncertain_significance
+INH	katG_A480S		Uncertain_significance
+INH	katG_A492D		Uncertain_significance
+INH	katG_A532P		Uncertain_significance
+INH	katG_A53T		Uncertain_significance
+INH	katG_A541T		Uncertain_significance
+INH	katG_A541V		Uncertain_significance
+INH	katG_A551S		Uncertain_significance
+INH	katG_A558R		Uncertain_significance
+INH	katG_A559V		Uncertain_significance
+INH	katG_A591T		Uncertain_significance
+INH	katG_A606P		Uncertain_significance
+INH	katG_A606T		Uncertain_significance
+INH	katG_A60G		Uncertain_significance
+INH	katG_A60V		Uncertain_significance
+INH	katG_A614E		Uncertain_significance
+INH	katG_A614T		Uncertain_significance
+INH	katG_A61P		Uncertain_significance
+INH	katG_A61S		Uncertain_significance
+INH	katG_A621T		Uncertain_significance
+INH	katG_A649T		Uncertain_significance
+INH	katG_A706T		Uncertain_significance
+INH	katG_A713P		Uncertain_significance
+INH	katG_A716T		Uncertain_significance
+INH	katG_A726T		Uncertain_significance
+INH	katG_A727T		Uncertain_significance
+INH	katG_A75V		Uncertain_significance
+INH	katG_A93D		Uncertain_significance
+INH	katG_C171G		Uncertain_significance
+INH	katG_C549G		Uncertain_significance
+INH	katG_C549S		Uncertain_significance
+INH	katG_D142A		Uncertain_significance
+INH	katG_D142G		Uncertain_significance
+INH	katG_D142N		Uncertain_significance
+INH	katG_D163N		Uncertain_significance
+INH	katG_D189A		Uncertain_significance
+INH	katG_D189G		Uncertain_significance
+INH	katG_D189N		Uncertain_significance
+INH	katG_D189Y		Uncertain_significance
+INH	katG_D194N		Uncertain_significance
+INH	katG_D207N		Uncertain_significance
+INH	katG_D215E		Uncertain_significance
+INH	katG_D240A		Uncertain_significance
+INH	katG_D240G		Uncertain_significance
+INH	katG_D240N		Uncertain_significance
+INH	katG_D247H		Uncertain_significance
+INH	katG_D259A		Uncertain_significance
+INH	katG_D259E		Uncertain_significance
+INH	katG_D259G		Uncertain_significance
+INH	katG_D282G		Uncertain_significance
+INH	katG_D311G		Uncertain_significance
+INH	katG_D329A		Uncertain_significance
+INH	katG_D37N		Uncertain_significance
+INH	katG_D381G		Uncertain_significance
+INH	katG_D381H		Uncertain_significance
+INH	katG_D387G		Uncertain_significance
+INH	katG_D406G		Uncertain_significance
+INH	katG_D419A		Uncertain_significance
+INH	katG_D419H		Uncertain_significance
+INH	katG_D419Y		Uncertain_significance
+INH	katG_D440Y		Uncertain_significance
+INH	katG_D448A		Uncertain_significance
+INH	katG_D487N		Uncertain_significance
+INH	katG_D509N		Uncertain_significance
+INH	katG_D511N		Uncertain_significance
+INH	katG_D511Y		Uncertain_significance
+INH	katG_D513N		Uncertain_significance
+INH	katG_D542E		Uncertain_significance
+INH	katG_D656A		Uncertain_significance
+INH	katG_D656G		Uncertain_significance
+INH	katG_D663G		Uncertain_significance
+INH	katG_D663Y		Uncertain_significance
+INH	katG_D675H		Uncertain_significance
+INH	katG_D675Y		Uncertain_significance
+INH	katG_D682N		Uncertain_significance
+INH	katG_D695A		Uncertain_significance
+INH	katG_D723N		Uncertain_significance
+INH	katG_D729G		Uncertain_significance
+INH	katG_D729N		Uncertain_significance
+INH	katG_D72N		Uncertain_significance
+INH	katG_D735E		Uncertain_significance
+INH	katG_D735N		Uncertain_significance
+INH	katG_D74G		Uncertain_significance
+INH	katG_D79A		Uncertain_significance
+INH	katG_D94A		Uncertain_significance
+INH	katG_E233G		Uncertain_significance
+INH	katG_E233K		Uncertain_significance
+INH	katG_E289A		Uncertain_significance
+INH	katG_E294G		Uncertain_significance
+INH	katG_E342A		Uncertain_significance
+INH	katG_E391D		Uncertain_significance
+INH	katG_E399D		Uncertain_significance
+INH	katG_E3G		Uncertain_significance
+INH	katG_E3V		Uncertain_significance
+INH	katG_E402A		Uncertain_significance
+INH	katG_E402K		Uncertain_significance
+INH	katG_E407K		Uncertain_significance
+INH	katG_E506D		Uncertain_significance
+INH	katG_E522K		Uncertain_significance
+INH	katG_E522Q		Uncertain_significance
+INH	katG_E523D		Uncertain_significance
+INH	katG_E553K		Uncertain_significance
+INH	katG_E588!		Assoc_w_R_Interim
+INH	katG_E588G		Uncertain_significance
+INH	katG_E607D		Uncertain_significance
+INH	katG_E607G		Uncertain_significance
+INH	katG_E607K		Uncertain_significance
+INH	katG_E623A		Uncertain_significance
+INH	katG_E623G		Uncertain_significance
+INH	katG_E651D		Uncertain_significance
+INH	katG_E709A		Uncertain_significance
+INH	katG_E709D		Uncertain_significance
+INH	katG_E709G		Uncertain_significance
+INH	katG_E709K		Uncertain_significance
+INH	katG_E81A		Uncertain_significance
+INH	katG_E82D		Uncertain_significance
+INH	katG_F129S		Uncertain_significance
+INH	katG_F167C		Uncertain_significance
+INH	katG_F178V		Uncertain_significance
+INH	katG_F183L		Uncertain_significance
+INH	katG_F183S		Uncertain_significance
+INH	katG_F368L		Uncertain_significance
+INH	katG_F408L		Uncertain_significance
+INH	katG_F408S		Uncertain_significance
+INH	katG_F483L		Uncertain_significance
+INH	katG_F540S		Uncertain_significance
+INH	katG_F584V		Uncertain_significance
+INH	katG_F594L		Uncertain_significance
+INH	katG_F62L		Uncertain_significance
+INH	katG_F658L		Uncertain_significance
+INH	katG_F698V		Uncertain_significance
+INH	katG_F724L		Uncertain_significance
+INH	katG_G118S		Uncertain_significance
+INH	katG_G120D		Uncertain_significance
+INH	katG_G120S		Uncertain_significance
+INH	katG_G121A		Uncertain_significance
+INH	katG_G121D		Uncertain_significance
+INH	katG_G121S		Uncertain_significance
+INH	katG_G121V		Uncertain_significance
+INH	katG_G123R		Uncertain_significance
+INH	katG_G124A		Uncertain_significance
+INH	katG_G124D		Uncertain_significance
+INH	katG_G125A		Uncertain_significance
+INH	katG_G125C		Uncertain_significance
+INH	katG_G125D		Uncertain_significance
+INH	katG_G125S		Uncertain_significance
+INH	katG_G156D		Uncertain_significance
+INH	katG_G169S		Uncertain_significance
+INH	katG_G169V		Uncertain_significance
+INH	katG_G177A		Uncertain_significance
+INH	katG_G177V		Uncertain_significance
+INH	katG_G182R		Uncertain_significance
+INH	katG_G184D		Uncertain_significance
+INH	katG_G186A		Uncertain_significance
+INH	katG_G186D		Uncertain_significance
+INH	katG_G19V		Uncertain_significance
+INH	katG_G206D		Uncertain_significance
+INH	katG_G206R		Uncertain_significance
+INH	katG_G234R		Uncertain_significance
+INH	katG_G237A		Uncertain_significance
+INH	katG_G237R		Uncertain_significance
+INH	katG_G268S		Uncertain_significance
+INH	katG_G269S		Uncertain_significance
+INH	katG_G273C		Uncertain_significance
+INH	katG_G277S		Uncertain_significance
+INH	katG_G279D		Uncertain_significance
+INH	katG_G285A		Uncertain_significance
+INH	katG_G285C		Uncertain_significance
+INH	katG_G285D		Uncertain_significance
+INH	katG_G285R		Uncertain_significance
+INH	katG_G285S		Uncertain_significance
+INH	katG_G285V		Uncertain_significance
+INH	katG_G297V		Uncertain_significance
+INH	katG_G299A		Uncertain_significance
+INH	katG_G299D		Uncertain_significance
+INH	katG_G299S		Uncertain_significance
+INH	katG_G305C		Uncertain_significance
+INH	katG_G305S		Uncertain_significance
+INH	katG_G307E		Uncertain_significance
+INH	katG_G307V		Uncertain_significance
+INH	katG_G338S		Uncertain_significance
+INH	katG_G33A		Uncertain_significance
+INH	katG_G34A		Uncertain_significance
+INH	katG_G34E		Uncertain_significance
+INH	katG_G34R		Uncertain_significance
+INH	katG_G421A		Uncertain_significance
+INH	katG_G451D		Uncertain_significance
+INH	katG_G466R		Uncertain_significance
+INH	katG_G490A		Uncertain_significance
+INH	katG_G491S		Uncertain_significance
+INH	katG_G494A		Uncertain_significance
+INH	katG_G494S		Uncertain_significance
+INH	katG_G495A		Uncertain_significance
+INH	katG_G495R		Uncertain_significance
+INH	katG_G495S		Uncertain_significance
+INH	katG_G534R		Uncertain_significance
+INH	katG_G547Y		Uncertain_significance
+INH	katG_G548R		Uncertain_significance
+INH	katG_G560A		Uncertain_significance
+INH	katG_G560R		Uncertain_significance
+INH	katG_G560S		Uncertain_significance
+INH	katG_G570F		Uncertain_significance
+INH	katG_G593C		Uncertain_significance
+INH	katG_G593D		Uncertain_significance
+INH	katG_G593S		Uncertain_significance
+INH	katG_G601D		Uncertain_significance
+INH	katG_G629C		Uncertain_significance
+INH	katG_G629D		Uncertain_significance
+INH	katG_G630S		Uncertain_significance
+INH	katG_G635A		Uncertain_significance
+INH	katG_G644D		Uncertain_significance
+INH	katG_G683R		Uncertain_significance
+INH	katG_G685D		Uncertain_significance
+INH	katG_G699E		Uncertain_significance
+INH	katG_G712V		Uncertain_significance
+INH	katG_G99R		Uncertain_significance
+INH	katG_H116Y		Uncertain_significance
+INH	katG_H270P		Uncertain_significance
+INH	katG_H447R		Uncertain_significance
+INH	katG_H49Y		Uncertain_significance
+INH	katG_H97L		Uncertain_significance
+INH	katG_H97R		Uncertain_significance
+INH	katG_I103N		Uncertain_significance
+INH	katG_I103V		Uncertain_significance
+INH	katG_I228L		Uncertain_significance
+INH	katG_I248T		Uncertain_significance
+INH	katG_I248V		Uncertain_significance
+INH	katG_I266T		Uncertain_significance
+INH	katG_I317V		Uncertain_significance
+INH	katG_I335V		Uncertain_significance
+INH	katG_I364T		Uncertain_significance
+INH	katG_I393S		Uncertain_significance
+INH	katG_I455L		Uncertain_significance
+INH	katG_I497V		Uncertain_significance
+INH	katG_I666T		Uncertain_significance
+INH	katG_I71S		Uncertain_significance
+INH	katG_I80F		Uncertain_significance
+INH	katG_I80T		Uncertain_significance
+INH	katG_I8V		Uncertain_significance
+INH	katG_K143E		Uncertain_significance
+INH	katG_K143N		Uncertain_significance
+INH	katG_K143Q		Uncertain_significance
+INH	katG_K143T		Uncertain_significance
+INH	katG_K152Q		Uncertain_significance
+INH	katG_K152T		Uncertain_significance
+INH	katG_K158E		Uncertain_significance
+INH	katG_K200E		Uncertain_significance
+INH	katG_K200R		Uncertain_significance
+INH	katG_K274T		Uncertain_significance
+INH	katG_K27I		Uncertain_significance
+INH	katG_K310N		Uncertain_significance
+INH	katG_K345N		Uncertain_significance
+INH	katG_K433T		Uncertain_significance
+INH	katG_K459E		Uncertain_significance
+INH	katG_K488E		Uncertain_significance
+INH	katG_K488N		Uncertain_significance
+INH	katG_K516R		Uncertain_significance
+INH	katG_K537E		Uncertain_significance
+INH	katG_K557N		Uncertain_significance
+INH	katG_K557R		Uncertain_significance
+INH	katG_K590Q		Uncertain_significance
+INH	katG_K600Q		Uncertain_significance
+INH	katG_K686E		Uncertain_significance
+INH	katG_K686T		Uncertain_significance
+INH	katG_L132P		Uncertain_significance
+INH	katG_L132R		Uncertain_significance
+INH	katG_L141F		Uncertain_significance
+INH	katG_L141S		Uncertain_significance
+INH	katG_L159F		Uncertain_significance
+INH	katG_L159P		Uncertain_significance
+INH	katG_L164R		Uncertain_significance
+INH	katG_L205R		Uncertain_significance
+INH	katG_L220P		Uncertain_significance
+INH	katG_L265R		Uncertain_significance
+INH	katG_L298S		Uncertain_significance
+INH	katG_L333P		Uncertain_significance
+INH	katG_L336M		Uncertain_significance
+INH	katG_L378M		Uncertain_significance
+INH	katG_L378P		Uncertain_significance
+INH	katG_L382R		Uncertain_significance
+INH	katG_L384P		Uncertain_significance
+INH	katG_L398R		Uncertain_significance
+INH	katG_L427F		Uncertain_significance
+INH	katG_L427R		Uncertain_significance
+INH	katG_L436R		Uncertain_significance
+INH	katG_L437R		Uncertain_significance
+INH	katG_L43R		Uncertain_significance
+INH	katG_L458R		Uncertain_significance
+INH	katG_L458S		Uncertain_significance
+INH	katG_L48P		Uncertain_significance
+INH	katG_L48Q		Uncertain_significance
+INH	katG_L514P		Uncertain_significance
+INH	katG_L587P		Uncertain_significance
+INH	katG_L587R		Uncertain_significance
+INH	katG_L598R		Uncertain_significance
+INH	katG_L604S		Uncertain_significance
+INH	katG_L611R		Uncertain_significance
+INH	katG_L616S		Uncertain_significance
+INH	katG_L627P		Uncertain_significance
+INH	katG_L631Q		Uncertain_significance
+INH	katG_L661R		Uncertain_significance
+INH	katG_L696Q		Uncertain_significance
+INH	katG_L704S		Uncertain_significance
+INH	katG_L707F		Uncertain_significance
+INH	katG_L707P		Uncertain_significance
+INH	katG_L707R		Uncertain_significance
+INH	katG_L734R		Uncertain_significance
+INH	katG_M105I		Uncertain_significance
+INH	katG_M105L		Uncertain_significance
+INH	katG_M126I		Uncertain_significance
+INH	katG_M176I		Uncertain_significance
+INH	katG_M225I		Uncertain_significance
+INH	katG_M242T		Uncertain_significance
+INH	katG_M257I		Uncertain_significance
+INH	katG_M257T		Uncertain_significance
+INH	katG_M296V		Uncertain_significance
+INH	katG_M377R		Uncertain_significance
+INH	katG_M420I		Uncertain_significance
+INH	katG_M609I		Uncertain_significance
+INH	katG_M609T		Uncertain_significance
+INH	katG_M624I		Uncertain_significance
+INH	katG_M624V		Uncertain_significance
+INH	katG_M84I		Uncertain_significance
+INH	katG_M84L		Uncertain_significance
+INH	katG_N138D		Uncertain_significance
+INH	katG_N138H		Uncertain_significance
+INH	katG_N138S		Uncertain_significance
+INH	katG_N236E		Uncertain_significance
+INH	katG_N236K		Uncertain_significance
+INH	katG_N238Q		Uncertain_significance
+INH	katG_N238T		Uncertain_significance
+INH	katG_N323S		Uncertain_significance
+INH	katG_N35H		Uncertain_significance
+INH	katG_N35T		Uncertain_significance
+INH	katG_N493K		Uncertain_significance
+INH	katG_N493S		Uncertain_significance
+INH	katG_N529T		Uncertain_significance
+INH	katG_N535T		Uncertain_significance
+INH	katG_N562H		Uncertain_significance
+INH	katG_N596K		Uncertain_significance
+INH	katG_N596S		Uncertain_significance
+INH	katG_N596T		Uncertain_significance
+INH	katG_N637K		Uncertain_significance
+INH	katG_N660A		Uncertain_significance
+INH	katG_N660H		Uncertain_significance
+INH	katG_P100T		Uncertain_significance
+INH	katG_P131A		Uncertain_significance
+INH	katG_P131S		Uncertain_significance
+INH	katG_P136L		Uncertain_significance
+INH	katG_P232A		Uncertain_significance
+INH	katG_P232R		Uncertain_significance
+INH	katG_P232S		Uncertain_significance
+INH	katG_P280S		Uncertain_significance
+INH	katG_P286A		Uncertain_significance
+INH	katG_P288L		Uncertain_significance
+INH	katG_P292A		Uncertain_significance
+INH	katG_P29S		Uncertain_significance
+INH	katG_P2S		Uncertain_significance
+INH	katG_P325T		Uncertain_significance
+INH	katG_P347S		Uncertain_significance
+INH	katG_P422H		Uncertain_significance
+INH	katG_P429R		Uncertain_significance
+INH	katG_P432L		Uncertain_significance
+INH	katG_P432T		Uncertain_significance
+INH	katG_P510A		Uncertain_significance
+INH	katG_P510L		Uncertain_significance
+INH	katG_P52S		Uncertain_significance
+INH	katG_P533L		Uncertain_significance
+INH	katG_P566L		Uncertain_significance
+INH	katG_P566R		Uncertain_significance
+INH	katG_P566S		Uncertain_significance
+INH	katG_P569L		Uncertain_significance
+INH	katG_P57S		Uncertain_significance
+INH	katG_P605R		Uncertain_significance
+INH	katG_P622T		Uncertain_significance
+INH	katG_P672S		Uncertain_significance
+INH	katG_P6S		Uncertain_significance
+INH	katG_P718S		Uncertain_significance
+INH	katG_Q127!		Assoc_w_R_Interim
+INH	katG_Q127P		Uncertain_significance
+INH	katG_Q127S		Uncertain_significance
+INH	katG_Q295A		Uncertain_significance
+INH	katG_Q295K		Uncertain_significance
+INH	katG_Q295P		Uncertain_significance
+INH	katG_Q352!		Assoc_w_R_Interim
+INH	katG_Q352P		Uncertain_significance
+INH	katG_Q352Y		Uncertain_significance
+INH	katG_Q36!		Assoc_w_R_Interim
+INH	katG_Q36E		Uncertain_significance
+INH	katG_Q36P		Uncertain_significance
+INH	katG_Q434H		Uncertain_significance
+INH	katG_Q439R		Uncertain_significance
+INH	katG_Q439T		Uncertain_significance
+INH	katG_Q439Y		Uncertain_significance
+INH	katG_Q461E		Uncertain_significance
+INH	katG_Q461P		Uncertain_significance
+INH	katG_Q461R		Uncertain_significance
+INH	katG_Q471!		Assoc_w_R_Interim
+INH	katG_Q471L		Uncertain_significance
+INH	katG_Q471R		Uncertain_significance
+INH	katG_Q50P		Uncertain_significance
+INH	katG_Q525A		Uncertain_significance
+INH	katG_Q525P		Uncertain_significance
+INH	katG_Q525S		Uncertain_significance
+INH	katG_Q525T		Uncertain_significance
+INH	katG_Q576Y		Uncertain_significance
+INH	katG_Q679P		Uncertain_significance
+INH	katG_Q679Y		Uncertain_significance
+INH	katG_Q88!		Assoc_w_R_Interim
+INH	katG_Q88E		Uncertain_significance
+INH	katG_Q88P		Uncertain_significance
+INH	katG_R104P		Uncertain_significance
+INH	katG_R104Q		Uncertain_significance
+INH	katG_R104W		Uncertain_significance
+INH	katG_R128G		Uncertain_significance
+INH	katG_R145C		Uncertain_significance
+INH	katG_R145P		Uncertain_significance
+INH	katG_R146G		Uncertain_significance
+INH	katG_R146L		Uncertain_significance
+INH	katG_R146Q		Uncertain_significance
+INH	katG_R249C		Uncertain_significance
+INH	katG_R249G		Uncertain_significance
+INH	katG_R249H		Uncertain_significance
+INH	katG_R249L		Uncertain_significance
+INH	katG_R249P		Uncertain_significance
+INH	katG_R249S		Uncertain_significance
+INH	katG_R253P		Uncertain_significance
+INH	katG_R254S		Uncertain_significance
+INH	katG_R418!		Assoc_w_R_Interim
+INH	katG_R425G		Uncertain_significance
+INH	katG_R463L		Not_assoc_w_R
+INH	katG_R484G		Uncertain_significance
+INH	katG_R484H		Uncertain_significance
+INH	katG_R489C		Uncertain_significance
+INH	katG_R489S		Uncertain_significance
+INH	katG_R515H		Uncertain_significance
+INH	katG_R519H		Uncertain_significance
+INH	katG_R571H		Uncertain_significance
+INH	katG_R571L		Uncertain_significance
+INH	katG_R595L		Uncertain_significance
+INH	katG_R595Q		Uncertain_significance
+INH	katG_R632C		Uncertain_significance
+INH	katG_R693H		Uncertain_significance
+INH	katG_R705L		Uncertain_significance
+INH	katG_R736K		Uncertain_significance
+INH	katG_R736S		Uncertain_significance
+INH	katG_R740S		Uncertain_significance
+INH	katG_R78G		Uncertain_significance
+INH	katG_S140G		Uncertain_significance
+INH	katG_S140N		Uncertain_significance
+INH	katG_S175!		Assoc_w_R_Interim
+INH	katG_S17G		Uncertain_significance
+INH	katG_S211N		Uncertain_significance
+INH	katG_S302R		Uncertain_significance
+INH	katG_S315G		Uncertain_significance
+INH	katG_S315I		Uncertain_significance
+INH	katG_S315N		Assoc_w_R
+INH	katG_S315R		Uncertain_significance
+INH	katG_S315T		Assoc_w_R
+INH	katG_S331G		Uncertain_significance
+INH	katG_S331I		Uncertain_significance
+INH	katG_S331R		Uncertain_significance
+INH	katG_S383W		Uncertain_significance
+INH	katG_S446N		Uncertain_significance
+INH	katG_S457G		Uncertain_significance
+INH	katG_S457I		Uncertain_significance
+INH	katG_S474P		Uncertain_significance
+INH	katG_S481A		Uncertain_significance
+INH	katG_S481L		Uncertain_significance
+INH	katG_S482P		Uncertain_significance
+INH	katG_S527L		Uncertain_significance
+INH	katG_S650F		Uncertain_significance
+INH	katG_S652P		Uncertain_significance
+INH	katG_S671!		Assoc_w_R_Interim
+INH	katG_S684R		Uncertain_significance
+INH	katG_S692R		Uncertain_significance
+INH	katG_S700F		Uncertain_significance
+INH	katG_S700P		Uncertain_significance
+INH	katG_S87L		Uncertain_significance
+INH	katG_T112P		Uncertain_significance
+INH	katG_T112S		Uncertain_significance
+INH	katG_T11A		Uncertain_significance
+INH	katG_T11S		Uncertain_significance
+INH	katG_T12A		Uncertain_significance
+INH	katG_T180K		Uncertain_significance
+INH	katG_T180M		Uncertain_significance
+INH	katG_T271A		Uncertain_significance
+INH	katG_T271I		Uncertain_significance
+INH	katG_T271P		Uncertain_significance
+INH	katG_T275A		Uncertain_significance
+INH	katG_T275P		Uncertain_significance
+INH	katG_T322A		Uncertain_significance
+INH	katG_T322P		Uncertain_significance
+INH	katG_T324N		Uncertain_significance
+INH	katG_T324P		Uncertain_significance
+INH	katG_T326K		Uncertain_significance
+INH	katG_T326P		Uncertain_significance
+INH	katG_T344L		Uncertain_significance
+INH	katG_T344P		Uncertain_significance
+INH	katG_T354I		Uncertain_significance
+INH	katG_T363A		Uncertain_significance
+INH	katG_T376M		Uncertain_significance
+INH	katG_T380A		Uncertain_significance
+INH	katG_T380I		Uncertain_significance
+INH	katG_T380P		Uncertain_significance
+INH	katG_T380S		Uncertain_significance
+INH	katG_T394A		Uncertain_significance
+INH	katG_T435I		Uncertain_significance
+INH	katG_T468I		Uncertain_significance
+INH	katG_T468P		Uncertain_significance
+INH	katG_T475A		Uncertain_significance
+INH	katG_T475I		Uncertain_significance
+INH	katG_T520A		Uncertain_significance
+INH	katG_T520N		Uncertain_significance
+INH	katG_T568P		Uncertain_significance
+INH	katG_T579A		Uncertain_significance
+INH	katG_T579S		Uncertain_significance
+INH	katG_T625A		Uncertain_significance
+INH	katG_T625K		Uncertain_significance
+INH	katG_T625P		Uncertain_significance
+INH	katG_T647P		Uncertain_significance
+INH	katG_T654A		Uncertain_significance
+INH	katG_T654N		Uncertain_significance
+INH	katG_T654S		Uncertain_significance
+INH	katG_T667I		Uncertain_significance
+INH	katG_T677P		Uncertain_significance
+INH	katG_T690P		Uncertain_significance
+INH	katG_T77R		Uncertain_significance
+INH	katG_T85A		Uncertain_significance
+INH	katG_T9K		Uncertain_significance
+INH	katG_V166I		Uncertain_significance
+INH	katG_V196G		Uncertain_significance
+INH	katG_V196I		Uncertain_significance
+INH	katG_V1A		Uncertain_significance
+INH	katG_V1G		Uncertain_significance
+INH	katG_V1M		Uncertain_significance
+INH	katG_V1V		Uncertain_significance
+INH	katG_V230A		Uncertain_significance
+INH	katG_V23L		Uncertain_significance
+INH	katG_V246G		Uncertain_significance
+INH	katG_V260I		Uncertain_significance
+INH	katG_V267A		Uncertain_significance
+INH	katG_V267G		Uncertain_significance
+INH	katG_V319I		Uncertain_significance
+INH	katG_V386E		Uncertain_significance
+INH	katG_V386M		Uncertain_significance
+INH	katG_V423F		Uncertain_significance
+INH	katG_V423I		Uncertain_significance
+INH	katG_V431G		Uncertain_significance
+INH	katG_V442A		Uncertain_significance
+INH	katG_V445I		Uncertain_significance
+INH	katG_V450A		Uncertain_significance
+INH	katG_V469L		Not_assoc_w_R
+INH	katG_V473L		Uncertain_significance
+INH	katG_V47I		Uncertain_significance
+INH	katG_V503A		Uncertain_significance
+INH	katG_V507I		Uncertain_significance
+INH	katG_V538A		Uncertain_significance
+INH	katG_V565A		Uncertain_significance
+INH	katG_V581M		Uncertain_significance
+INH	katG_V586M		Uncertain_significance
+INH	katG_V633A		Uncertain_significance
+INH	katG_V633I		Uncertain_significance
+INH	katG_V687M		Uncertain_significance
+INH	katG_V68G		Uncertain_significance
+INH	katG_V697L		Uncertain_significance
+INH	katG_V710I		Uncertain_significance
+INH	katG_V721L		Uncertain_significance
+INH	katG_V731G		Uncertain_significance
+INH	katG_V731M		Uncertain_significance
+INH	katG_V739M		Uncertain_significance
+INH	katG_V73G		Uncertain_significance
+INH	katG_V83L		Uncertain_significance
+INH	katG_W149!		Assoc_w_R_Interim
+INH	katG_W149C		Uncertain_significance
+INH	katG_W149G		Uncertain_significance
+INH	katG_W149R		Uncertain_significance
+INH	katG_W161!		Assoc_w_R_Interim
+INH	katG_W161R		Uncertain_significance
+INH	katG_W191G		Uncertain_significance
+INH	katG_W191R		Uncertain_significance
+INH	katG_W198!		Assoc_w_R_Interim
+INH	katG_W204!		Assoc_w_R_Interim
+INH	katG_W300C		Uncertain_significance
+INH	katG_W300G		Uncertain_significance
+INH	katG_W300R		Uncertain_significance
+INH	katG_W300S		Uncertain_significance
+INH	katG_W321!		Assoc_w_R_Interim
+INH	katG_W321S		Uncertain_significance
+INH	katG_W328L		Assoc_w_R
+INH	katG_W328R		Uncertain_significance
+INH	katG_W328S		Uncertain_significance
+INH	katG_W351!		Assoc_w_R_Interim
+INH	katG_W39R		Uncertain_significance
+INH	katG_W412!		Assoc_w_R_Interim
+INH	katG_W412C		Uncertain_significance
+INH	katG_W412Y		Uncertain_significance
+INH	katG_W438!		Assoc_w_R_Interim
+INH	katG_W438G		Uncertain_significance
+INH	katG_W477!		Assoc_w_R_Interim
+INH	katG_W505!		Assoc_w_R_Interim
+INH	katG_W505R		Uncertain_significance
+INH	katG_W668!		Assoc_w_R_Interim
+INH	katG_W668C		Uncertain_significance
+INH	katG_W689!		Assoc_w_R_Interim
+INH	katG_W689C		Uncertain_significance
+INH	katG_W689G		Uncertain_significance
+INH	katG_W689L		Uncertain_significance
+INH	katG_W728C		Uncertain_significance
+INH	katG_W728Y		Uncertain_significance
+INH	katG_W90R		Uncertain_significance
+INH	katG_W91R		Uncertain_significance
+INH	katG_Y155!		Assoc_w_R_Interim
+INH	katG_Y155C		Uncertain_significance
+INH	katG_Y155D		Uncertain_significance
+INH	katG_Y155S		Uncertain_significance
+INH	katG_Y197D		Uncertain_significance
+INH	katG_Y28!		Assoc_w_R_Interim
+INH	katG_Y337C		Uncertain_significance
+INH	katG_Y337D		Uncertain_significance
+INH	katG_Y353C		Uncertain_significance
+INH	katG_Y413C		Uncertain_significance
+INH	katG_Y413H		Uncertain_significance
+INH	katG_Y597H		Uncertain_significance
+INH	katG_Y638H		Uncertain_significance
+INH	katG_Y64H		Uncertain_significance
+INH	katG_Y64N		Uncertain_significance
+INH	katG_Y64S		Uncertain_significance
+INH	katG_Y678A		Uncertain_significance
+INH	katG_Y678L		Uncertain_significance
+INH	katG_Y98C		Uncertain_significance
+INH	mshA_A114V		Uncertain_significance
+INH	mshA_A134T		Uncertain_significance
+INH	mshA_A134V		Uncertain_significance
+INH	mshA_A165T		Uncertain_significance
+INH	mshA_A182T		Uncertain_significance
+INH	mshA_A187T		Uncertain_significance
+INH	mshA_A187V		Not_assoc_w_R
+INH	mshA_A189V		Uncertain_significance
+INH	mshA_A24V		Uncertain_significance
+INH	mshA_A288T		Uncertain_significance
+INH	mshA_A298T		Uncertain_significance
+INH	mshA_A2T		Uncertain_significance
+INH	mshA_A323T		Uncertain_significance
+INH	mshA_A337T		Uncertain_significance
+INH	mshA_A342G		Uncertain_significance
+INH	mshA_A342V		Uncertain_significance
+INH	mshA_A343V		Uncertain_significance
+INH	mshA_A347T		Uncertain_significance
+INH	mshA_A347V		Uncertain_significance
+INH	mshA_A399V		Uncertain_significance
+INH	mshA_A401G		Uncertain_significance
+INH	mshA_A40S		Uncertain_significance
+INH	mshA_A40V		Uncertain_significance
+INH	mshA_A410V		Uncertain_significance
+INH	mshA_A421V		Uncertain_significance
+INH	mshA_A439V		Uncertain_significance
+INH	mshA_A48V		Uncertain_significance
+INH	mshA_A76S		Uncertain_significance
+INH	mshA_D121G		Uncertain_significance
+INH	mshA_D124H		Uncertain_significance
+INH	mshA_D124N		Uncertain_significance
+INH	mshA_D190G		Uncertain_significance
+INH	mshA_D190N		Uncertain_significance
+INH	mshA_D218A		Not_assoc_w_R
+INH	mshA_D218E		Uncertain_significance
+INH	mshA_D218G		Uncertain_significance
+INH	mshA_D245H		Uncertain_significance
+INH	mshA_D245N		Uncertain_significance
+INH	mshA_D281G		Uncertain_significance
+INH	mshA_D310N		Uncertain_significance
+INH	mshA_D42Y		Uncertain_significance
+INH	mshA_D64N		Uncertain_significance
+INH	mshA_E118K		Uncertain_significance
+INH	mshA_E144G		Uncertain_significance
+INH	mshA_E220D		Uncertain_significance
+INH	mshA_E22A		Uncertain_significance
+INH	mshA_E22K		Uncertain_significance
+INH	mshA_E318D		Uncertain_significance
+INH	mshA_E458Q		Uncertain_significance
+INH	mshA_E85K		Uncertain_significance
+INH	mshA_F327I		Uncertain_significance
+INH	mshA_G106A		Uncertain_significance
+INH	mshA_G106R		Uncertain_significance
+INH	mshA_G11R		Uncertain_significance
+INH	mshA_G193R		Uncertain_significance
+INH	mshA_G260R		Uncertain_significance
+INH	mshA_G292A		Uncertain_significance
+INH	mshA_G292R		Uncertain_significance
+INH	mshA_G29A		Uncertain_significance
+INH	mshA_G305D		Uncertain_significance
+INH	mshA_G320S		Uncertain_significance
+INH	mshA_G32E		Uncertain_significance
+INH	mshA_G384V		Uncertain_significance
+INH	mshA_G392E		Uncertain_significance
+INH	mshA_G396S		Uncertain_significance
+INH	mshA_G411R		Uncertain_significance
+INH	mshA_G446S		Uncertain_significance
+INH	mshA_G457V		Uncertain_significance
+INH	mshA_G467R		Uncertain_significance
+INH	mshA_G477R		Uncertain_significance
+INH	mshA_G479D		Uncertain_significance
+INH	mshA_G479S		Uncertain_significance
+INH	mshA_G83R		Uncertain_significance
+INH	mshA_H143D		Uncertain_significance
+INH	mshA_H143Q		Uncertain_significance
+INH	mshA_H228N		Uncertain_significance
+INH	mshA_H404N		Uncertain_significance
+INH	mshA_H424N		Uncertain_significance
+INH	mshA_H471P		Uncertain_significance
+INH	mshA_H471R		Uncertain_significance
+INH	mshA_H6R		Uncertain_significance
+INH	mshA_I321V		Uncertain_significance
+INH	mshA_I445S		Uncertain_significance
+INH	mshA_I460V		Uncertain_significance
+INH	mshA_L125M		Uncertain_significance
+INH	mshA_L129F		Uncertain_significance
+INH	mshA_L12S		Uncertain_significance
+INH	mshA_L12V		Uncertain_significance
+INH	mshA_L188V		Uncertain_significance
+INH	mshA_L306R		Uncertain_significance
+INH	mshA_L389P		Uncertain_significance
+INH	mshA_L408S		Uncertain_significance
+INH	mshA_N111S		Not_assoc_w_R
+INH	mshA_N185S		Uncertain_significance
+INH	mshA_N37D		Uncertain_significance
+INH	mshA_P126S		Uncertain_significance
+INH	mshA_P249L		Uncertain_significance
+INH	mshA_P30L		Uncertain_significance
+INH	mshA_P33S		Uncertain_significance
+INH	mshA_P349S		Uncertain_significance
+INH	mshA_P44L		Uncertain_significance
+INH	mshA_P469L		Uncertain_significance
+INH	mshA_P474S		Uncertain_significance
+INH	mshA_P99L		Uncertain_significance
+INH	mshA_Q205!		Uncertain_significance
+INH	mshA_R166C		Uncertain_significance
+INH	mshA_R168C		Uncertain_significance
+INH	mshA_R222M		Uncertain_significance
+INH	mshA_R252Q		Uncertain_significance
+INH	mshA_R26C		Uncertain_significance
+INH	mshA_R26H		Uncertain_significance
+INH	mshA_R294C		Uncertain_significance
+INH	mshA_R324Q		Uncertain_significance
+INH	mshA_R413Q		Uncertain_significance
+INH	mshA_R413W		Uncertain_significance
+INH	mshA_R442Q		Uncertain_significance
+INH	mshA_R443H		Not_assoc_w_R
+INH	mshA_R455L		Uncertain_significance
+INH	mshA_R5P		Uncertain_significance
+INH	mshA_S10L		Uncertain_significance
+INH	mshA_S226A		Uncertain_significance
+INH	mshA_S308L		Uncertain_significance
+INH	mshA_S308T		Uncertain_significance
+INH	mshA_S31F		Uncertain_significance
+INH	mshA_S461!		Uncertain_significance
+INH	mshA_S95P		Uncertain_significance
+INH	mshA_T334A		Uncertain_significance
+INH	mshA_T367A		Uncertain_significance
+INH	mshA_V100L		Uncertain_significance
+INH	mshA_V100M		Uncertain_significance
+INH	mshA_V101L		Uncertain_significance
+INH	mshA_V113L		Uncertain_significance
+INH	mshA_V151M		Uncertain_significance
+INH	mshA_V161L		Uncertain_significance
+INH	mshA_V201L		Uncertain_significance
+INH	mshA_V283M		Uncertain_significance
+INH	mshA_V293W		Uncertain_significance
+INH	mshA_V346A		Uncertain_significance
+INH	mshA_V346L		Uncertain_significance
+INH	mshA_V360A		Uncertain_significance
+INH	mshA_V416M		Uncertain_significance
+INH	mshA_V459M		Uncertain_significance
+INH	mshA_V464L		Uncertain_significance
+INH	mshA_V466A		Uncertain_significance
+INH	mshA_V4M		Uncertain_significance
+INH	mshA_W169C		Uncertain_significance
+INH	mshA_W472!		Uncertain_significance
+INH	ndh_A178S		Uncertain_significance
+INH	ndh_A193V		Uncertain_significance
+INH	ndh_A219G		Uncertain_significance
+INH	ndh_A219V		Uncertain_significance
+INH	ndh_A226E		Uncertain_significance
+INH	ndh_A233T		Uncertain_significance
+INH	ndh_A272T		Uncertain_significance
+INH	ndh_A282V		Uncertain_significance
+INH	ndh_A29T		Uncertain_significance
+INH	ndh_A300D		Uncertain_significance
+INH	ndh_A324V		Uncertain_significance
+INH	ndh_A325T		Uncertain_significance
+INH	ndh_A340T		Uncertain_significance
+INH	ndh_A344P		Uncertain_significance
+INH	ndh_A349G		Uncertain_significance
+INH	ndh_A354G		Uncertain_significance
+INH	ndh_A354V		Uncertain_significance
+INH	ndh_A36V		Uncertain_significance
+INH	ndh_A371V		Uncertain_significance
+INH	ndh_A380V		Uncertain_significance
+INH	ndh_A436T		Uncertain_significance
+INH	ndh_A446P		Uncertain_significance
+INH	ndh_A449T		Uncertain_significance
+INH	ndh_A44D		Uncertain_significance
+INH	ndh_A44G		Uncertain_significance
+INH	ndh_A452V		Uncertain_significance
+INH	ndh_A457V		Uncertain_significance
+INH	ndh_A69S		Uncertain_significance
+INH	ndh_A9T		Uncertain_significance
+INH	ndh_D142Y		Uncertain_significance
+INH	ndh_D251E		Uncertain_significance
+INH	ndh_D93E		Uncertain_significance
+INH	ndh_E146K		Uncertain_significance
+INH	ndh_E165V		Uncertain_significance
+INH	ndh_E270D		Uncertain_significance
+INH	ndh_E270Q		Uncertain_significance
+INH	ndh_E327A		Uncertain_significance
+INH	ndh_F134S		Uncertain_significance
+INH	ndh_F365L		Uncertain_significance
+INH	ndh_F365V		Uncertain_significance
+INH	ndh_F437V		Uncertain_significance
+INH	ndh_G120S		Uncertain_significance
+INH	ndh_G122S		Uncertain_significance
+INH	ndh_G127D		Uncertain_significance
+INH	ndh_G137S		Uncertain_significance
+INH	ndh_G179D		Uncertain_significance
+INH	ndh_G225D		Uncertain_significance
+INH	ndh_G240S		Uncertain_significance
+INH	ndh_G246A		Uncertain_significance
+INH	ndh_G286S		Uncertain_significance
+INH	ndh_G301D		Uncertain_significance
+INH	ndh_G301S		Uncertain_significance
+INH	ndh_G313R		Not_assoc_w_R
+INH	ndh_G313W		Uncertain_significance
+INH	ndh_G339A		Uncertain_significance
+INH	ndh_G389S		Uncertain_significance
+INH	ndh_H203Y		Uncertain_significance
+INH	ndh_H91Q		Uncertain_significance
+INH	ndh_I20T		Uncertain_significance
+INH	ndh_I269V		Uncertain_significance
+INH	ndh_I382T		Uncertain_significance
+INH	ndh_K169E		Uncertain_significance
+INH	ndh_K208E		Uncertain_significance
+INH	ndh_K341E		Uncertain_significance
+INH	ndh_K460E		Uncertain_significance
+INH	ndh_K78N		Uncertain_significance
+INH	ndh_L309R		Uncertain_significance
+INH	ndh_M185L		Uncertain_significance
+INH	ndh_M1T		Uncertain_significance
+INH	ndh_M370I		Uncertain_significance
+INH	ndh_N28K		Uncertain_significance
+INH	ndh_N88D		Uncertain_significance
+INH	ndh_N88S		Uncertain_significance
+INH	ndh_P111H		Uncertain_significance
+INH	ndh_P164L		Uncertain_significance
+INH	ndh_P222S		Uncertain_significance
+INH	ndh_P312S		Uncertain_significance
+INH	ndh_P330S		Uncertain_significance
+INH	ndh_P356L		Uncertain_significance
+INH	ndh_P384R		Uncertain_significance
+INH	ndh_P3L		Uncertain_significance
+INH	ndh_P70L		Uncertain_significance
+INH	ndh_P7L		Uncertain_significance
+INH	ndh_Q10K		Uncertain_significance
+INH	ndh_Q123K		Uncertain_significance
+INH	ndh_Q230H		Uncertain_significance
+INH	ndh_Q304H		Uncertain_significance
+INH	ndh_Q363H		Uncertain_significance
+INH	ndh_Q363S		Uncertain_significance
+INH	ndh_Q444R		Uncertain_significance
+INH	ndh_Q57!		Uncertain_significance
+INH	ndh_Q5H		Uncertain_significance
+INH	ndh_Q97R		Uncertain_significance
+INH	ndh_R13H		Uncertain_significance
+INH	ndh_R166Q		Uncertain_significance
+INH	ndh_R16Q		Uncertain_significance
+INH	ndh_R254C		Uncertain_significance
+INH	ndh_R268H		Not_assoc_w_R_Interim
+INH	ndh_R268L		Uncertain_significance
+INH	ndh_R284P		Uncertain_significance
+INH	ndh_R284W		Uncertain_significance
+INH	ndh_R287T		Uncertain_significance
+INH	ndh_R425H		Uncertain_significance
+INH	ndh_R425L		Uncertain_significance
+INH	ndh_R439!		Uncertain_significance
+INH	ndh_R45C		Uncertain_significance
+INH	ndh_R45S		Uncertain_significance
+INH	ndh_R77P		Uncertain_significance
+INH	ndh_S114G		Uncertain_significance
+INH	ndh_S114I		Uncertain_significance
+INH	ndh_S153N		Uncertain_significance
+INH	ndh_S206P		Uncertain_significance
+INH	ndh_S345R		Uncertain_significance
+INH	ndh_S388G		Uncertain_significance
+INH	ndh_T174A		Uncertain_significance
+INH	ndh_T258S		Uncertain_significance
+INH	ndh_T346M		Uncertain_significance
+INH	ndh_T413N		Uncertain_significance
+INH	ndh_T418A		Uncertain_significance
+INH	ndh_T424P		Uncertain_significance
+INH	ndh_T47S		Uncertain_significance
+INH	ndh_T8I		Uncertain_significance
+INH	ndh_T8R		Uncertain_significance
+INH	ndh_V117I		Uncertain_significance
+INH	ndh_V175I		Uncertain_significance
+INH	ndh_V17I		Uncertain_significance
+INH	ndh_V18A		Not_assoc_w_R
+INH	ndh_V220L		Uncertain_significance
+INH	ndh_V241A		Uncertain_significance
+INH	ndh_V252I		Uncertain_significance
+INH	ndh_V259I		Uncertain_significance
+INH	ndh_V38A		Uncertain_significance
+INH	ndh_V398A		Uncertain_significance
+INH	ndh_V75A		Uncertain_significance
+INH	ndh_V99A		Uncertain_significance
+INH	ndh_W417C		Uncertain_significance
+INH	ndh_Y108C		Uncertain_significance
+INH	ndh_Y112!		Uncertain_significance
+INH	ndh_Y403H		Uncertain_significance
+INH	Rv1258c_A113E		Uncertain_significance
+INH	Rv1258c_A113V		Uncertain_significance
+INH	Rv1258c_A123V		Uncertain_significance
+INH	Rv1258c_A135T		Uncertain_significance
+INH	Rv1258c_A148T		Uncertain_significance
+INH	Rv1258c_A15T		Uncertain_significance
+INH	Rv1258c_A166G		Uncertain_significance
+INH	Rv1258c_A166T		Uncertain_significance
+INH	Rv1258c_A178V		Uncertain_significance
+INH	Rv1258c_A180T		Uncertain_significance
+INH	Rv1258c_A187T		Uncertain_significance
+INH	Rv1258c_A190T		Uncertain_significance
+INH	Rv1258c_A196G		Uncertain_significance
+INH	Rv1258c_A19V		Uncertain_significance
+INH	Rv1258c_A237G		Uncertain_significance
+INH	Rv1258c_A237V		Uncertain_significance
+INH	Rv1258c_A266T		Uncertain_significance
+INH	Rv1258c_A266V		Uncertain_significance
+INH	Rv1258c_A275V		Uncertain_significance
+INH	Rv1258c_A282G		Uncertain_significance
+INH	Rv1258c_A294S		Uncertain_significance
+INH	Rv1258c_A29E		Uncertain_significance
+INH	Rv1258c_A29V		Uncertain_significance
+INH	Rv1258c_A301T		Uncertain_significance
+INH	Rv1258c_A340T		Uncertain_significance
+INH	Rv1258c_A358T		Uncertain_significance
+INH	Rv1258c_A367G		Uncertain_significance
+INH	Rv1258c_A367T		Uncertain_significance
+INH	Rv1258c_A367V		Uncertain_significance
+INH	Rv1258c_A373V		Uncertain_significance
+INH	Rv1258c_A374P		Uncertain_significance
+INH	Rv1258c_A374V		Uncertain_significance
+INH	Rv1258c_A378V		Uncertain_significance
+INH	Rv1258c_A394T		Uncertain_significance
+INH	Rv1258c_A399V		Uncertain_significance
+INH	Rv1258c_A409T		Uncertain_significance
+INH	Rv1258c_A418D		Uncertain_significance
+INH	Rv1258c_A41G		Uncertain_significance
+INH	Rv1258c_A48T		Uncertain_significance
+INH	Rv1258c_A65T		Uncertain_significance
+INH	Rv1258c_A80V		Uncertain_significance
+INH	Rv1258c_A84T		Uncertain_significance
+INH	Rv1258c_D232E		Uncertain_significance
+INH	Rv1258c_D23V		Uncertain_significance
+INH	Rv1258c_D410N		Uncertain_significance
+INH	Rv1258c_D67N		Uncertain_significance
+INH	Rv1258c_D79N		Uncertain_significance
+INH	Rv1258c_E214K		Uncertain_significance
+INH	Rv1258c_E243A		Not_assoc_w_R
+INH	Rv1258c_E38A		Uncertain_significance
+INH	Rv1258c_E38K		Uncertain_significance
+INH	Rv1258c_E402A		Uncertain_significance
+INH	Rv1258c_G136S		Uncertain_significance
+INH	Rv1258c_G161S		Uncertain_significance
+INH	Rv1258c_G195D		Uncertain_significance
+INH	Rv1258c_G207R		Uncertain_significance
+INH	Rv1258c_G211R		Uncertain_significance
+INH	Rv1258c_G215E		Uncertain_significance
+INH	Rv1258c_G24C		Uncertain_significance
+INH	Rv1258c_G346D		Uncertain_significance
+INH	Rv1258c_G360D		Uncertain_significance
+INH	Rv1258c_G360S		Uncertain_significance
+INH	Rv1258c_G363V		Uncertain_significance
+INH	Rv1258c_G375A		Uncertain_significance
+INH	Rv1258c_G375R		Uncertain_significance
+INH	Rv1258c_G391R		Uncertain_significance
+INH	Rv1258c_G70R		Uncertain_significance
+INH	Rv1258c_G83R		Uncertain_significance
+INH	Rv1258c_G95E		Uncertain_significance
+INH	Rv1258c_G97D		Uncertain_significance
+INH	Rv1258c_H254R		Uncertain_significance
+INH	Rv1258c_I155T		Uncertain_significance
+INH	Rv1258c_I283S		Uncertain_significance
+INH	Rv1258c_I283V		Uncertain_significance
+INH	Rv1258c_I314T		Uncertain_significance
+INH	Rv1258c_L109F		Uncertain_significance
+INH	Rv1258c_L128R		Uncertain_significance
+INH	Rv1258c_L17P		Uncertain_significance
+INH	Rv1258c_L193F		Uncertain_significance
+INH	Rv1258c_L222V		Uncertain_significance
+INH	Rv1258c_L238R		Uncertain_significance
+INH	Rv1258c_L240P		Uncertain_significance
+INH	Rv1258c_L240R		Uncertain_significance
+INH	Rv1258c_L296V		Uncertain_significance
+INH	Rv1258c_L365S		Uncertain_significance
+INH	Rv1258c_L370P		Uncertain_significance
+INH	Rv1258c_L397V		Uncertain_significance
+INH	Rv1258c_M121V		Uncertain_significance
+INH	Rv1258c_M127R		Uncertain_significance
+INH	Rv1258c_M1I		Uncertain_significance
+INH	Rv1258c_M230T		Uncertain_significance
+INH	Rv1258c_M242I		Uncertain_significance
+INH	Rv1258c_M242T		Uncertain_significance
+INH	Rv1258c_M291R		Uncertain_significance
+INH	Rv1258c_M303R		Uncertain_significance
+INH	Rv1258c_M315I		Uncertain_significance
+INH	Rv1258c_M315T		Uncertain_significance
+INH	Rv1258c_N151D		Uncertain_significance
+INH	Rv1258c_N151K		Uncertain_significance
+INH	Rv1258c_N3K		Uncertain_significance
+INH	Rv1258c_P129R		Uncertain_significance
+INH	Rv1258c_P241S		Uncertain_significance
+INH	Rv1258c_P248T		Uncertain_significance
+INH	Rv1258c_P257L		Uncertain_significance
+INH	Rv1258c_P330Q		Uncertain_significance
+INH	Rv1258c_P330S		Uncertain_significance
+INH	Rv1258c_P369T		Uncertain_significance
+INH	Rv1258c_P414S		Not_assoc_w_R
+INH	Rv1258c_P54L		Uncertain_significance
+INH	Rv1258c_P54S		Uncertain_significance
+INH	Rv1258c_P8L		Uncertain_significance
+INH	Rv1258c_P8R		Uncertain_significance
+INH	Rv1258c_P90H		Uncertain_significance
+INH	Rv1258c_P90L		Uncertain_significance
+INH	Rv1258c_P90S		Uncertain_significance
+INH	Rv1258c_Q206H		Uncertain_significance
+INH	Rv1258c_Q206L		Uncertain_significance
+INH	Rv1258c_Q255H		Uncertain_significance
+INH	Rv1258c_Q329!		Uncertain_significance
+INH	Rv1258c_Q337P		Uncertain_significance
+INH	Rv1258c_Q43H		Uncertain_significance
+INH	Rv1258c_R204Q		Uncertain_significance
+INH	Rv1258c_R347Q		Uncertain_significance
+INH	Rv1258c_R396W		Uncertain_significance
+INH	Rv1258c_R401H		Uncertain_significance
+INH	Rv1258c_R71H		Uncertain_significance
+INH	Rv1258c_R71L		Uncertain_significance
+INH	Rv1258c_S126L		Uncertain_significance
+INH	Rv1258c_S126!		Uncertain_significance
+INH	Rv1258c_S184P		Uncertain_significance
+INH	Rv1258c_S292L		Uncertain_significance
+INH	Rv1258c_S40N		Uncertain_significance
+INH	Rv1258c_S49R		Uncertain_significance
+INH	Rv1258c_S4T		Uncertain_significance
+INH	Rv1258c_T167A		Uncertain_significance
+INH	Rv1258c_T167M		Uncertain_significance
+INH	Rv1258c_T167P		Uncertain_significance
+INH	Rv1258c_T173I		Uncertain_significance
+INH	Rv1258c_T173P		Uncertain_significance
+INH	Rv1258c_T202A		Uncertain_significance
+INH	Rv1258c_T227A		Uncertain_significance
+INH	Rv1258c_T234I		Uncertain_significance
+INH	Rv1258c_T290I		Uncertain_significance
+INH	Rv1258c_T297I		Uncertain_significance
+INH	Rv1258c_T338A		Uncertain_significance
+INH	Rv1258c_T371I		Uncertain_significance
+INH	Rv1258c_T379K		Uncertain_significance
+INH	Rv1258c_T390S		Uncertain_significance
+INH	Rv1258c_T51A		Uncertain_significance
+INH	Rv1258c_T59A		Uncertain_significance
+INH	Rv1258c_T59R		Uncertain_significance
+INH	Rv1258c_T64S		Uncertain_significance
+INH	Rv1258c_V209A		Uncertain_significance
+INH	Rv1258c_V219A		Uncertain_significance
+INH	Rv1258c_V224A		Uncertain_significance
+INH	Rv1258c_V25F		Uncertain_significance
+INH	Rv1258c_V25I		Uncertain_significance
+INH	Rv1258c_V280L		Uncertain_significance
+INH	Rv1258c_V285I		Uncertain_significance
+INH	Rv1258c_V304A		Uncertain_significance
+INH	Rv1258c_V320A		Uncertain_significance
+INH	Rv1258c_V335M		Uncertain_significance
+INH	Rv1258c_V388M		Uncertain_significance
+INH	Rv1258c_V66I		Uncertain_significance
+INH	Rv1258c_V74A		Uncertain_significance
+INH	Rv1258c_W175!		Uncertain_significance
+INH	Rv1258c_W220C		Uncertain_significance
+INH	Rv1258c_W220!		Uncertain_significance
+INH	Rv1258c_W262!		Uncertain_significance
+INH	Rv1258c_W94!		Uncertain_significance
+INH	Rv1258c_Y146C		Uncertain_significance
+INH	Rv1258c_Y250C		Uncertain_significance
+INH	Rv1258c_Y250H		Uncertain_significance
+INH	Rv1258c_Y325C		Uncertain_significance
+INH	Rv2752c_A113G		Uncertain_significance
+INH	Rv2752c_A153V		Uncertain_significance
+INH	Rv2752c_A155T		Uncertain_significance
+INH	Rv2752c_A206V		Uncertain_significance
+INH	Rv2752c_A20E		Uncertain_significance
+INH	Rv2752c_A20P		Uncertain_significance
+INH	Rv2752c_A20V		Uncertain_significance
+INH	Rv2752c_A239V		Uncertain_significance
+INH	Rv2752c_A251V		Uncertain_significance
+INH	Rv2752c_A252T		Uncertain_significance
+INH	Rv2752c_A254V		Uncertain_significance
+INH	Rv2752c_A273T		Uncertain_significance
+INH	Rv2752c_A273V		Not_assoc_w_R
+INH	Rv2752c_A282G		Uncertain_significance
+INH	Rv2752c_A290P		Uncertain_significance
+INH	Rv2752c_A292D		Uncertain_significance
+INH	Rv2752c_A292V		Uncertain_significance
+INH	Rv2752c_A296V		Not_assoc_w_R
+INH	Rv2752c_A347T		Uncertain_significance
+INH	Rv2752c_A354S		Uncertain_significance
+INH	Rv2752c_A376G		Uncertain_significance
+INH	Rv2752c_A378T		Uncertain_significance
+INH	Rv2752c_A378V		Uncertain_significance
+INH	Rv2752c_A411V		Uncertain_significance
+INH	Rv2752c_A436T		Uncertain_significance
+INH	Rv2752c_A441S		Uncertain_significance
+INH	Rv2752c_A474V		Uncertain_significance
+INH	Rv2752c_A521S		Uncertain_significance
+INH	Rv2752c_A530T		Uncertain_significance
+INH	Rv2752c_A76V		Uncertain_significance
+INH	Rv2752c_A89E		Uncertain_significance
+INH	Rv2752c_C116F		Uncertain_significance
+INH	Rv2752c_C201R		Uncertain_significance
+INH	Rv2752c_C201Y		Uncertain_significance
+INH	Rv2752c_C45F		Uncertain_significance
+INH	Rv2752c_D152A		Uncertain_significance
+INH	Rv2752c_D170N		Uncertain_significance
+INH	Rv2752c_D174E		Uncertain_significance
+INH	Rv2752c_D184E		Uncertain_significance
+INH	Rv2752c_D184H		Uncertain_significance
+INH	Rv2752c_D202A		Uncertain_significance
+INH	Rv2752c_D230G		Uncertain_significance
+INH	Rv2752c_D250E		Uncertain_significance
+INH	Rv2752c_D450G		Uncertain_significance
+INH	Rv2752c_D63G		Uncertain_significance
+INH	Rv2752c_D85E		Uncertain_significance
+INH	Rv2752c_D85G		Uncertain_significance
+INH	Rv2752c_E114G		Uncertain_significance
+INH	Rv2752c_E130K		Uncertain_significance
+INH	Rv2752c_E207K		Uncertain_significance
+INH	Rv2752c_E207Q		Uncertain_significance
+INH	Rv2752c_E217D		Uncertain_significance
+INH	Rv2752c_E217G		Uncertain_significance
+INH	Rv2752c_E310A		Uncertain_significance
+INH	Rv2752c_E322!		Uncertain_significance
+INH	Rv2752c_E35D		Uncertain_significance
+INH	Rv2752c_E380A		Uncertain_significance
+INH	Rv2752c_E424G		Uncertain_significance
+INH	Rv2752c_E499!		Uncertain_significance
+INH	Rv2752c_E516!		Uncertain_significance
+INH	Rv2752c_E54A		Uncertain_significance
+INH	Rv2752c_E68D		Uncertain_significance
+INH	Rv2752c_E84D		Uncertain_significance
+INH	Rv2752c_F139V		Uncertain_significance
+INH	Rv2752c_F238S		Uncertain_significance
+INH	Rv2752c_F383L		Uncertain_significance
+INH	Rv2752c_F383V		Uncertain_significance
+INH	Rv2752c_G104A		Uncertain_significance
+INH	Rv2752c_G104S		Uncertain_significance
+INH	Rv2752c_G15R		Uncertain_significance
+INH	Rv2752c_G161C		Uncertain_significance
+INH	Rv2752c_G161S		Uncertain_significance
+INH	Rv2752c_G163R		Uncertain_significance
+INH	Rv2752c_G180C		Uncertain_significance
+INH	Rv2752c_G187D		Uncertain_significance
+INH	Rv2752c_G210R		Uncertain_significance
+INH	Rv2752c_G228C		Uncertain_significance
+INH	Rv2752c_G22C		Uncertain_significance
+INH	Rv2752c_G22V		Uncertain_significance
+INH	Rv2752c_G231V		Uncertain_significance
+INH	Rv2752c_G256V		Uncertain_significance
+INH	Rv2752c_G263D		Uncertain_significance
+INH	Rv2752c_G28V		Uncertain_significance
+INH	Rv2752c_G321T		Uncertain_significance
+INH	Rv2752c_G331V		Uncertain_significance
+INH	Rv2752c_G343C		Uncertain_significance
+INH	Rv2752c_G350E		Uncertain_significance
+INH	Rv2752c_G374S		Uncertain_significance
+INH	Rv2752c_G387E		Uncertain_significance
+INH	Rv2752c_G38S		Uncertain_significance
+INH	Rv2752c_G414S		Uncertain_significance
+INH	Rv2752c_G426A		Uncertain_significance
+INH	Rv2752c_G440S		Uncertain_significance
+INH	Rv2752c_G451D		Uncertain_significance
+INH	Rv2752c_G458R		Uncertain_significance
+INH	Rv2752c_G482V		Uncertain_significance
+INH	Rv2752c_G484D		Uncertain_significance
+INH	Rv2752c_G484S		Uncertain_significance
+INH	Rv2752c_G496A		Uncertain_significance
+INH	Rv2752c_G51S		Uncertain_significance
+INH	Rv2752c_G538D		Uncertain_significance
+INH	Rv2752c_G542E		Uncertain_significance
+INH	Rv2752c_G82E		Uncertain_significance
+INH	Rv2752c_G88W		Uncertain_significance
+INH	Rv2752c_H136D		Uncertain_significance
+INH	Rv2752c_H148Q		Uncertain_significance
+INH	Rv2752c_H148Y		Uncertain_significance
+INH	Rv2752c_H167R		Uncertain_significance
+INH	Rv2752c_H223R		Uncertain_significance
+INH	Rv2752c_H223Y		Uncertain_significance
+INH	Rv2752c_H36Q		Uncertain_significance
+INH	Rv2752c_H371D		Uncertain_significance
+INH	Rv2752c_H375R		Uncertain_significance
+INH	Rv2752c_H375Y		Uncertain_significance
+INH	Rv2752c_H491Y		Uncertain_significance
+INH	Rv2752c_H493P		Uncertain_significance
+INH	Rv2752c_H81R		Uncertain_significance
+INH	Rv2752c_H81Y		Uncertain_significance
+INH	Rv2752c_H83R		Uncertain_significance
+INH	Rv2752c_H83Y		Uncertain_significance
+INH	Rv2752c_H86R		Uncertain_significance
+INH	Rv2752c_H86Y		Uncertain_significance
+INH	Rv2752c_I121M		Uncertain_significance
+INH	Rv2752c_I165S		Uncertain_significance
+INH	Rv2752c_I234R		Uncertain_significance
+INH	Rv2752c_I248T		Uncertain_significance
+INH	Rv2752c_I249S		Uncertain_significance
+INH	Rv2752c_I43S		Uncertain_significance
+INH	Rv2752c_I453T		Uncertain_significance
+INH	Rv2752c_I460V		Uncertain_significance
+INH	Rv2752c_I527M		Uncertain_significance
+INH	Rv2752c_I529S		Uncertain_significance
+INH	Rv2752c_I551T		Uncertain_significance
+INH	Rv2752c_I556V		Uncertain_significance
+INH	Rv2752c_I87T		Uncertain_significance
+INH	Rv2752c_K172Q		Uncertain_significance
+INH	Rv2752c_K172T		Uncertain_significance
+INH	Rv2752c_K357T		Uncertain_significance
+INH	Rv2752c_K408R		Uncertain_significance
+INH	Rv2752c_K435E		Not_assoc_w_R
+INH	Rv2752c_K539T		Uncertain_significance
+INH	Rv2752c_L109W		Uncertain_significance
+INH	Rv2752c_L111R		Uncertain_significance
+INH	Rv2752c_L11R		Uncertain_significance
+INH	Rv2752c_L16F		Uncertain_significance
+INH	Rv2752c_L16W		Uncertain_significance
+INH	Rv2752c_L176S		Uncertain_significance
+INH	Rv2752c_L185P		Uncertain_significance
+INH	Rv2752c_L191P		Uncertain_significance
+INH	Rv2752c_L200R		Uncertain_significance
+INH	Rv2752c_L222P		Uncertain_significance
+INH	Rv2752c_L222Q		Uncertain_significance
+INH	Rv2752c_L222R		Uncertain_significance
+INH	Rv2752c_L225P		Uncertain_significance
+INH	Rv2752c_L276P		Uncertain_significance
+INH	Rv2752c_L37P		Uncertain_significance
+INH	Rv2752c_L37V		Uncertain_significance
+INH	Rv2752c_L403M		Uncertain_significance
+INH	Rv2752c_L403R		Uncertain_significance
+INH	Rv2752c_L41S		Uncertain_significance
+INH	Rv2752c_L422F		Uncertain_significance
+INH	Rv2752c_L487F		Uncertain_significance
+INH	Rv2752c_L48S		Uncertain_significance
+INH	Rv2752c_L5F		Uncertain_significance
+INH	Rv2752c_L5V		Uncertain_significance
+INH	Rv2752c_L61P		Uncertain_significance
+INH	Rv2752c_L77R		Uncertain_significance
+INH	Rv2752c_L93M		Uncertain_significance
+INH	Rv2752c_L93R		Uncertain_significance
+INH	Rv2752c_L94R		Uncertain_significance
+INH	Rv2752c_M188K		Uncertain_significance
+INH	Rv2752c_M312I		Uncertain_significance
+INH	Rv2752c_M312V		Uncertain_significance
+INH	Rv2752c_M31I		Not_assoc_w_R
+INH	Rv2752c_M394T		Uncertain_significance
+INH	Rv2752c_M447I		Uncertain_significance
+INH	Rv2752c_M447T		Uncertain_significance
+INH	Rv2752c_M64I		Uncertain_significance
+INH	Rv2752c_M64R		Uncertain_significance
+INH	Rv2752c_N30D		Uncertain_significance
+INH	Rv2752c_N30K		Uncertain_significance
+INH	Rv2752c_N30S		Uncertain_significance
+INH	Rv2752c_N406S		Uncertain_significance
+INH	Rv2752c_N425K		Uncertain_significance
+INH	Rv2752c_N522D		Uncertain_significance
+INH	Rv2752c_P101A		Uncertain_significance
+INH	Rv2752c_P101L		Uncertain_significance
+INH	Rv2752c_P10R		Uncertain_significance
+INH	Rv2752c_P123L		Not_assoc_w_R
+INH	Rv2752c_P123S		Uncertain_significance
+INH	Rv2752c_P182L		Uncertain_significance
+INH	Rv2752c_P186S		Uncertain_significance
+INH	Rv2752c_P209S		Uncertain_significance
+INH	Rv2752c_P213A		Uncertain_significance
+INH	Rv2752c_P220A		Uncertain_significance
+INH	Rv2752c_P220L		Uncertain_significance
+INH	Rv2752c_P390L		Uncertain_significance
+INH	Rv2752c_P416L		Uncertain_significance
+INH	Rv2752c_P443L		Uncertain_significance
+INH	Rv2752c_P486L		Uncertain_significance
+INH	Rv2752c_P50L		Uncertain_significance
+INH	Rv2752c_P549Q		Uncertain_significance
+INH	Rv2752c_P549S		Uncertain_significance
+INH	Rv2752c_P553L		Uncertain_significance
+INH	Rv2752c_P553S		Uncertain_significance
+INH	Rv2752c_P55L		Uncertain_significance
+INH	Rv2752c_P62S		Uncertain_significance
+INH	Rv2752c_P6R		Uncertain_significance
+INH	Rv2752c_P7Q		Uncertain_significance
+INH	Rv2752c_P8S		Uncertain_significance
+INH	Rv2752c_P91L		Uncertain_significance
+INH	Rv2752c_Q132P		Uncertain_significance
+INH	Rv2752c_Q246R		Uncertain_significance
+INH	Rv2752c_Q246!		Uncertain_significance
+INH	Rv2752c_Q247!		Uncertain_significance
+INH	Rv2752c_Q275!		Uncertain_significance
+INH	Rv2752c_Q299R		Uncertain_significance
+INH	Rv2752c_Q308E		Uncertain_significance
+INH	Rv2752c_Q308P		Uncertain_significance
+INH	Rv2752c_Q308!		Uncertain_significance
+INH	Rv2752c_Q367!		Uncertain_significance
+INH	Rv2752c_Q417!		Uncertain_significance
+INH	Rv2752c_Q485P		Uncertain_significance
+INH	Rv2752c_Q485R		Uncertain_significance
+INH	Rv2752c_Q531E		Uncertain_significance
+INH	Rv2752c_Q531!		Uncertain_significance
+INH	Rv2752c_R181C		Uncertain_significance
+INH	Rv2752c_R227G		Uncertain_significance
+INH	Rv2752c_R244Q		Uncertain_significance
+INH	Rv2752c_R244W		Uncertain_significance
+INH	Rv2752c_R258L		Uncertain_significance
+INH	Rv2752c_R268C		Uncertain_significance
+INH	Rv2752c_R268H		Uncertain_significance
+INH	Rv2752c_R271C		Uncertain_significance
+INH	Rv2752c_R29C		Uncertain_significance
+INH	Rv2752c_R29G		Uncertain_significance
+INH	Rv2752c_R317P		Uncertain_significance
+INH	Rv2752c_R320H		Uncertain_significance
+INH	Rv2752c_R320L		Uncertain_significance
+INH	Rv2752c_R320P		Uncertain_significance
+INH	Rv2752c_R361G		Uncertain_significance
+INH	Rv2752c_R361S		Uncertain_significance
+INH	Rv2752c_R369G		Uncertain_significance
+INH	Rv2752c_R389G		Uncertain_significance
+INH	Rv2752c_R401G		Uncertain_significance
+INH	Rv2752c_R404S		Uncertain_significance
+INH	Rv2752c_R465L		Uncertain_significance
+INH	Rv2752c_R465W		Uncertain_significance
+INH	Rv2752c_R481H		Uncertain_significance
+INH	Rv2752c_R481L		Uncertain_significance
+INH	Rv2752c_R528W		Uncertain_significance
+INH	Rv2752c_R65S		Uncertain_significance
+INH	Rv2752c_R97Q		Uncertain_significance
+INH	Rv2752c_R97!		Uncertain_significance
+INH	Rv2752c_S13Y		Uncertain_significance
+INH	Rv2752c_S149F		Uncertain_significance
+INH	Rv2752c_S240C		Uncertain_significance
+INH	Rv2752c_S240F		Uncertain_significance
+INH	Rv2752c_S316L		Uncertain_significance
+INH	Rv2752c_S319P		Uncertain_significance
+INH	Rv2752c_S325R		Uncertain_significance
+INH	Rv2752c_S337L		Uncertain_significance
+INH	Rv2752c_S337P		Uncertain_significance
+INH	Rv2752c_S373Y		Uncertain_significance
+INH	Rv2752c_S412R		Uncertain_significance
+INH	Rv2752c_S419!		Uncertain_significance
+INH	Rv2752c_S428G		Uncertain_significance
+INH	Rv2752c_S439C		Uncertain_significance
+INH	Rv2752c_S439F		Uncertain_significance
+INH	Rv2752c_S439P		Uncertain_significance
+INH	Rv2752c_S469L		Uncertain_significance
+INH	Rv2752c_S470L		Uncertain_significance
+INH	Rv2752c_S494P		Uncertain_significance
+INH	Rv2752c_S498A		Uncertain_significance
+INH	Rv2752c_T122I		Uncertain_significance
+INH	Rv2752c_T134A		Uncertain_significance
+INH	Rv2752c_T134S		Uncertain_significance
+INH	Rv2752c_T160I		Uncertain_significance
+INH	Rv2752c_T160P		Uncertain_significance
+INH	Rv2752c_T183I		Uncertain_significance
+INH	Rv2752c_T204A		Uncertain_significance
+INH	Rv2752c_T221A		Uncertain_significance
+INH	Rv2752c_T307P		Uncertain_significance
+INH	Rv2752c_T329P		Uncertain_significance
+INH	Rv2752c_T364P		Uncertain_significance
+INH	Rv2752c_T413I		Uncertain_significance
+INH	Rv2752c_T461I		Uncertain_significance
+INH	Rv2752c_T461P		Uncertain_significance
+INH	Rv2752c_T461S		Uncertain_significance
+INH	Rv2752c_T536M		Uncertain_significance
+INH	Rv2752c_T536S		Uncertain_significance
+INH	Rv2752c_T80A		Uncertain_significance
+INH	Rv2752c_T80I		Uncertain_significance
+INH	Rv2752c_V102A		Uncertain_significance
+INH	Rv2752c_V102I		Uncertain_significance
+INH	Rv2752c_V112I		Uncertain_significance
+INH	Rv2752c_V128G		Uncertain_significance
+INH	Rv2752c_V138A		Uncertain_significance
+INH	Rv2752c_V138L		Uncertain_significance
+INH	Rv2752c_V146L		Uncertain_significance
+INH	Rv2752c_V196A		Uncertain_significance
+INH	Rv2752c_V1V		Uncertain_significance
+INH	Rv2752c_V211I		Uncertain_significance
+INH	Rv2752c_V211L		Uncertain_significance
+INH	Rv2752c_V218L		Uncertain_significance
+INH	Rv2752c_V233M		Uncertain_significance
+INH	Rv2752c_V245I		Uncertain_significance
+INH	Rv2752c_V245L		Uncertain_significance
+INH	Rv2752c_V259A		Uncertain_significance
+INH	Rv2752c_V272A		Uncertain_significance
+INH	Rv2752c_V281E		Uncertain_significance
+INH	Rv2752c_V300A		Not_assoc_w_R
+INH	Rv2752c_V335M		Uncertain_significance
+INH	Rv2752c_V351A		Uncertain_significance
+INH	Rv2752c_V388E		Uncertain_significance
+INH	Rv2752c_V393M		Uncertain_significance
+INH	Rv2752c_V396G		Uncertain_significance
+INH	Rv2752c_V415I		Uncertain_significance
+INH	Rv2752c_V457I		Uncertain_significance
+INH	Rv2752c_V475L		Uncertain_significance
+INH	Rv2752c_V47A		Uncertain_significance
+INH	Rv2752c_V533A		Uncertain_significance
+INH	Rv2752c_V533G		Uncertain_significance
+INH	Rv2752c_V537F		Uncertain_significance
+INH	Rv2752c_V541G		Uncertain_significance
+INH	Rv2752c_V552A		Uncertain_significance
+INH	Rv2752c_V552G		Uncertain_significance
+INH	Rv2752c_V555I		Uncertain_significance
+INH	Rv2752c_V558G		Uncertain_significance
+INH	Rv2752c_W400R		Uncertain_significance
+INH	Rv2752c_W400!		Uncertain_significance
+INH	Rv2752c_Y143C		Uncertain_significance
+INH	Rv2752c_Y159!		Uncertain_significance
+INH	Rv2752c_Y385D		Uncertain_significance
+INH	Rv2752c_Y545C		Uncertain_significance
+INH	mshA_a-675c_(Rv0485_230)	574673	Uncertain_significance
+INH	mshA_a-675g_(Rv0485_230)	574673	Uncertain_significance
+INH	mshA_c-673t_(Rv0485_231)	574675	Uncertain_significance
+INH	mshA_g-672a_(Rv0485_231)	574676	Uncertain_significance
+INH	mshA_c-669g_(Rv0485_232)	574679	Uncertain_significance
+INH	mshA_c-669t_(Rv0485_232)	574679	Uncertain_significance
+INH	mshA_c-667t_(Rv0485_233)	574681	Uncertain_significance
+INH	mshA_t-665c_(Rv0485_234)	574683	Uncertain_significance
+INH	mshA_a-662g_(Rv0485_235)	574686	Uncertain_significance
+INH	mshA_g-660a_(Rv0485_235)	574688	Uncertain_significance
+INH	mshA_g-660c_(Rv0485_235)	574688	Uncertain_significance
+INH	mshA_c-651t_(Rv0485_238)	574697	Uncertain_significance
+INH	mshA_g-650a_(Rv0485_239)	574698	Uncertain_significance
+INH	mshA_a-646t_(Rv0485_240)	574702	Uncertain_significance
+INH	mshA_c-643t_(Rv0485_241)	574705	Uncertain_significance
+INH	mshA_c-642t_(Rv0485_241)	574706	Uncertain_significance
+INH	mshA_g-632a_(Rv0485_245)	574716	Uncertain_significance
+INH	mshA_g-629c_(Rv0485_246)	574719	Uncertain_significance
+INH	mshA_g-623a_(Rv0485_248)	574725	Uncertain_significance
+INH	mshA_c-622t_(Rv0485_248)	574726	Uncertain_significance
+INH	mshA_c-620t_(Rv0485_249)	574728	Uncertain_significance
+INH	mshA_a-614c_(Rv0485_251)	574734	Uncertain_significance
+INH	mshA_c-612t_(Rv0485_251)	574736	Uncertain_significance
+INH	mshA_c-605a_(Rv0485_254)	574743	Uncertain_significance
+INH	mshA_g-590a_(Rv0485_259)	574758	Uncertain_significance
+INH	mshA_c-589g_(Rv0485_259)	574759	Uncertain_significance
+INH	mshA_c-588t_(Rv0485_259)	574760	Uncertain_significance
+INH	mshA_t-582c_(Rv0485_261)	574766	Uncertain_significance
+INH	mshA_c-579a_(Rv0485_262)	574769	Uncertain_significance
+INH	mshA_c-579t_(Rv0485_262)	574769	Uncertain_significance
+INH	mshA_c-574g_(Rv0485_264)	574774	Uncertain_significance
+INH	mshA_c-574t_(Rv0485_264)	574774	Uncertain_significance
+INH	mshA_c-573t_(Rv0485_264)	574775	Uncertain_significance
+INH	mshA_c-570t_(Rv0485_265)	574778	Uncertain_significance
+INH	mshA_g-567t_(Rv0485_266)	574781	Uncertain_significance
+INH	mshA_c-566t_(Rv0485_267)	574782	Uncertain_significance
+INH	mshA_c-565g_(Rv0485_267)	574783	Uncertain_significance
+INH	mshA_g-561a_(Rv0485_268)	574787	Uncertain_significance
+INH	mshA_c-560t_(Rv0485_269)	574788	Uncertain_significance
+INH	mshA_a-553g_(Rv0485_271)	574795	Uncertain_significance
+INH	mshA_c-552g_(Rv0485_271)	574796	Uncertain_significance
+INH	mshA_c-552t_(Rv0485_271)	574796	Uncertain_significance
+INH	mshA_a-545g_(Rv0485_274)	574803	Uncertain_significance
+INH	mshA_a-545t_(Rv0485_274)	574803	Uncertain_significance
+INH	mshA_g-539c_(Rv0485_276)	574809	Uncertain_significance
+INH	mshA_c-537a_(Rv0485_276)	574811	Uncertain_significance
+INH	mshA_c-537t_(Rv0485_276)	574811	Uncertain_significance
+INH	mshA_g-530a_(Rv0485_279)	574818	Uncertain_significance
+INH	mshA_g-529a_(Rv0485_279)	574819	Uncertain_significance
+INH	mshA_g-528t_(Rv0485_279)	574820	Uncertain_significance
+INH	mshA_c-524t_(Rv0485_281)	574824	Uncertain_significance
+INH	mshA_g-521a_(Rv0485_282)	574827	Uncertain_significance
+INH	mshA_t-518c_(Rv0485_283)	574830	Uncertain_significance
+INH	mshA_t-518g_(Rv0485_283)	574830	Uncertain_significance
+INH	mshA_a-515g_(Rv0485_284)	574833	Uncertain_significance
+INH	mshA_t-513c_(Rv0485_284)	574835	Uncertain_significance
+INH	mshA_g-512a_(Rv0485_285)	574836	Uncertain_significance
+INH	mshA_g-506a_(Rv0485_287)	574842	Uncertain_significance
+INH	mshA_g-500a_(Rv0485_289)	574848	Uncertain_significance
+INH	mshA_c-484t_(Rv0485_294)	574864	Uncertain_significance
+INH	mshA_c-476t_(Rv0485_297)	574872	Uncertain_significance
+INH	mshA_g-474c_(Rv0485_297)	574874	Uncertain_significance
+INH	mshA_g-474t_(Rv0485_297)	574874	Uncertain_significance
+INH	mshA_g-461a_(Rv0485_302)	574887	Uncertain_significance
+INH	mshA_g-460a_(Rv0485_302)	574888	Uncertain_significance
+INH	mshA_c-456t_(Rv0485_303)	574892	Uncertain_significance
+INH	mshA_c-454t_(Rv0485_304)	574894	Uncertain_significance
+INH	mshA_t-453g_(Rv0485_304)	574895	Uncertain_significance
+INH	mshA_g-448c_(Rv0485_306)	574900	Uncertain_significance
+INH	mshA_g-447a_(Rv0485_306)	574901	Uncertain_significance
+INH	mshA_c-445t_(Rv0485_307)	574903	Uncertain_significance
+INH	mshA_c-443t_(Rv0485_308)	574905	Uncertain_significance
+INH	mshA_g-442a_(Rv0485_308)	574906	Uncertain_significance
+INH	mshA_c-438a_(Rv0485_309)	574910	Uncertain_significance
+INH	mshA_t-435g_(Rv0485_310)	574913	Uncertain_significance
+INH	mshA_g-434a_(Rv0485_311)	574914	Uncertain_significance
+INH	mshA_g-428a_(Rv0485_313)	574920	Uncertain_significance
+INH	mshA_c-427t_(Rv0485_313)	574921	Uncertain_significance
+INH	mshA_t-426g_(Rv0485_313)	574922	Uncertain_significance
+INH	mshA_c-424t_(Rv0485_314)	574924	Uncertain_significance
+INH	mshA_c-421t_(Rv0485_315)	574927	Uncertain_significance
+INH	mshA_c-420t_(Rv0485_315)	574928	Uncertain_significance
+INH	mshA_t-406g_(Rv0485_320)	574942	Uncertain_significance
+INH	mshA_g-399a_(Rv0485_322)	574949	Uncertain_significance
+INH	mshA_g-394t_(Rv0485_324)	574954	Uncertain_significance
+INH	mshA_g-392a_(Rv0485_325)	574956	Uncertain_significance
+INH	mshA_t-387c_(Rv0485_326)	574961	Uncertain_significance
+INH	mshA_a-378c_(Rv0485_329)	574970	Uncertain_significance
+INH	mshA_g-377t_(Rv0485_330)	574971	Uncertain_significance
+INH	mshA_c-376t_(Rv0485_330)	574972	Uncertain_significance
+INH	mshA_c-368t_(Rv0485_333)	574980	Uncertain_significance
+INH	mshA_g-354a_(Rv0485_337)	574994	Uncertain_significance
+INH	mshA_g-354c_(Rv0485_337)	574994	Uncertain_significance
+INH	mshA_g-353a_(Rv0485_338)	574995	Uncertain_significance
+INH	mshA_c-351t_(Rv0485_338)	574997	Uncertain_significance
+INH	mshA_g-347a_(Rv0485_340)	575001	Uncertain_significance
+INH	mshA_c-330t_(Rv0485_345)	575018	Uncertain_significance
+INH	mshA_c-303t_(Rv0485_354)	575045	Uncertain_significance
+INH	mshA_a-301g_(Rv0485_355)	575047	Uncertain_significance
+INH	mshA_a-297g_(Rv0485_356)	575051	Uncertain_significance
+INH	mshA_g-296a_(Rv0485_357)	575052	Uncertain_significance
+INH	mshA_t-285g_(Rv0485_360)	575063	Uncertain_significance
+INH	mshA_a-268g_(Rv0485_366)	575080	Uncertain_significance
+INH	mshA_a-265g_(Rv0485_367)	575083	Uncertain_significance
+INH	mshA_c-261t_(Rv0485_368)	575087	Uncertain_significance
+INH	mshA_g-260a_(Rv0485_369)	575088	Uncertain_significance
+INH	mshA_g-257a_(Rv0485_370)	575091	Uncertain_significance
+INH	mshA_a-247g_(Rv0485_373)	575101	Uncertain_significance
+INH	mshA_g-234a_(Rv0485_377)	575114	Uncertain_significance
+INH	mshA_c-220t_(Rv0485_382)	575128	Uncertain_significance
+INH	mshA_g-219c_(Rv0485_382)	575129	Uncertain_significance
+INH	mshA_c-215t_(Rv0485_384)	575133	Uncertain_significance
+INH	mshA_c-211t_(Rv0485_385)	575137	Uncertain_significance
+INH	mshA_a-202c_(Rv0485_388)	575146	Uncertain_significance
+INH	mshA_c-197t_(Rv0485_390)	575151	Uncertain_significance
+INH	mshA_g-194t_(Rv0485_391)	575154	Uncertain_significance
+INH	mshA_g-188a_(Rv0485_393)	575160	Uncertain_significance
+INH	mshA_c-183t_(Rv0485_394)	575165	Uncertain_significance
+INH	mshA_g-175a_(Rv0485_397)	575173	Uncertain_significance
+INH	mshA_a-166t_(Rv0485_400)	575182	Uncertain_significance
+INH	mshA_c-163t_(Rv0485_401)	575185	Uncertain_significance
+INH	mshA_a-156g_(Rv0485_403)	575192	Uncertain_significance
+INH	mshA_g-155c_(Rv0485_404)	575193	Uncertain_significance
+INH	mshA_c-153t_(Rv0485_404)	575195	Uncertain_significance
+INH	mshA_a-152g_(Rv0485_405)	575196	Uncertain_significance
+INH	mshA_c-132a_(Rv0485_411)	575216	Uncertain_significance
+INH	mshA_c-126t_(Rv0485_413)	575222	Uncertain_significance
+INH	mshA_g-125a_(Rv0485_414)	575223	Uncertain_significance
+INH	mshA_c-121t_(Rv0485_415)	575227	Uncertain_significance
+INH	mshA_g-117a_(Rv0485_416)	575231	Uncertain_significance
+INH	mshA_c-111g_(Rv0485_418)	575237	Uncertain_significance
+INH	mshA_c-111t_(Rv0485_418)	575237	Uncertain_significance
+INH	mshA_g-108a_(Rv0485_419)	575240	Uncertain_significance
+INH	mshA_c-96t_(Rv0485_423)	575252	Uncertain_significance
+INH	mshA_g-93a_(Rv0485_424)	575255	Uncertain_significance
+INH	mshA_g-93t_(Rv0485_424)	575255	Uncertain_significance
+INH	mshA_c-84t_(Rv0485_427)	575264	Uncertain_significance
+INH	mshA_c-83t_(Rv0485_428)	575265	Uncertain_significance
+INH	mshA_g-78t_(Rv0485_429)	575270	Uncertain_significance
+INH	mshA_a-73g_(Rv0485_431)	575275	Uncertain_significance
+INH	mshA_c-70a_(Rv0485_432)	575278	Uncertain_significance
+INH	mshA_c-67t_(Rv0485_433)	575281	Uncertain_significance
+INH	mshA_c-66g_(Rv0485_433)	575282	Uncertain_significance
+INH	mshA_c-66t_(Rv0485_433)	575282	Uncertain_significance
+INH	mshA_c-65g_(Rv0485_434)	575283	Uncertain_significance
+INH	mshA_c-65t_(Rv0485_434)	575283	Uncertain_significance
+INH	mshA_c-64a_(Rv0485_434)	575284	Uncertain_significance
+INH	mshA_c-64t_(Rv0485_434)	575284	Uncertain_significance
+INH	mshA_g-63t_(Rv0485_434)	575285	Uncertain_significance
+INH	mshA_g-60c_(Rv0485_435)	575288	Uncertain_significance
+INH	mshA_g-59a_(Rv0485_436)	575289	Uncertain_significance
+INH	mshA_g-44c	575304	Uncertain_significance
+INH	mshA_c-43t	575305	Uncertain_significance
+INH	mshA_c-34t	575314	Uncertain_significance
+INH	mshA_c-29t	575319	Uncertain_significance
+INH	mshA_c-28g	575320	Uncertain_significance
+INH	mshA_c-28t	575320	Uncertain_significance
+INH	mshA_c-26t	575322	Uncertain_significance
+INH	mshA_g-23a	575325	Uncertain_significance
+INH	mshA_t-16g	575332	Uncertain_significance
+INH	mshA_c-9t	575339	Uncertain_significance
+INH	mshA_g-2a	575346	Uncertain_significance
+INH	mshA_102_del_1_ca_c	575449	Uncertain_significance
+INH	mshA_1403_ins_15_a_agccccgccactggac	576750	Uncertain_significance
+INH	mshA_1428_del_3_cggg_c	576775	Uncertain_significance
+INH	mshA_1438_del_17_gcgtgacttcctccttgc_g	576785	Uncertain_significance
+INH	Rv1258c_893_ins_1_a_at	1406448	Uncertain_significance
+INH	Rv1258c_763_del_6693_ggtggtcggtgaagtatttcgggaacagcacgctctccatcggcagatac_g	1406578	Uncertain_significance
+INH	Rv1258c_741_ins_1_g_ga	1406600	Uncertain_significance
+INH	Rv1258c_726_del_1_ca_c	1406615	Uncertain_significance
+INH	Rv1258c_614_del_21_ggccgcgaggtgtggtgcggct_g	1406727	Uncertain_significance
+INH	Rv1258c_581_ins_1_tcgagttgcagggc_tgcgagttgcagggt	1406760	Uncertain_significance
+INH	Rv1258c_581_ins_1_tc_tgc	1406760	Uncertain_significance
+INH	Rv1258c_581_ins_1_t_tg	1406760	Not_assoc_w_R
+INH	Rv1258c_549_del_1_ca_c	1406792	Uncertain_significance
+INH	Rv1258c_521_del_2_attg_at	1406820	Uncertain_significance
+INH	Rv1258c_506_del_121_ccaaccgtcgcgatcatcaagccaccgatggccgggccgacaataaaggc_c	1406835	Uncertain_significance
+INH	Rv1258c_373_del_1_ca_c	1406968	Uncertain_significance
+INH	Rv1258c_354_del_1_cgggccgaaggc_ctggccgtatt	1406987	Uncertain_significance
+INH	Rv1258c_272_del_1_ag_a	1407069	Uncertain_significance
+INH	Rv1258c_272_ins_1_a_ag	1407069	Uncertain_significance
+INH	Rv1258c_262_del_1_cg_c	1407079	Uncertain_significance
+INH	Rv1258c_262_del_1_cggc_cgc	1407079	Uncertain_significance
+INH	Rv1258c_231_ins_1_c_ca	1407110	Uncertain_significance
+INH	Rv1258c_162_del_1_cg_c	1407179	Uncertain_significance
+INH	Rv1258c_151_del_28_tcgcactggccacgatcgaggcctgccca_t	1407190	Uncertain_significance
+INH	Rv1258c_113_del_10_tcgcgctgcaacac_tcac	1407228	Uncertain_significance
+INH	Rv1258c_113_del_10_tcgcgctgcaa_t	1407228	Uncertain_significance
+INH	Rv1258c_15_del_1_gt_g	1407326	Uncertain_significance
+INH	Rv1258c_c-8t_(udgB_4)	1407348	Uncertain_significance
+INH	Rv1258c_t-15c_(udgB_6)	1407355	Uncertain_significance
+INH	Rv1258c_t-16c_(udgB_6)	1407356	Uncertain_significance
+INH	Rv1258c_g-22c_(udgB_8)	1407362	Uncertain_significance
+INH	Rv1258c_g-25a_(udgB_9)	1407365	Uncertain_significance
+INH	Rv1258c_g-30a_(udgB_11)	1407370	Uncertain_significance
+INH	Rv1258c_-35_del_1_tg_t_(udgB_37)	1407375	Uncertain_significance
+INH	Rv1258c_c-36t_(udgB_13)	1407376	Uncertain_significance
+INH	Rv1258c_c-40t_(udgB_14)	1407380	Uncertain_significance
+INH	Rv1258c_g-45t_(udgB_16)	1407385	Uncertain_significance
+INH	Rv1258c_g-52a_(udgB_18)	1407392	Uncertain_significance
+INH	Rv1258c_-54_del_9_gcgctgccgca_gc_(udgB_56)	1407394	Uncertain_significance
+INH	Rv1258c_-55_del_9_cgctgccgca_c_(udgB_57)	1407395	Uncertain_significance
+INH	Rv1258c_g-66a_(udgB_23)	1407406	Uncertain_significance
+INH	Rv1258c_g-67a_(udgB_23)	1407407	Uncertain_significance
+INH	inhA_g-864a_(Rv1482c_c-39t,_fabG1_g-102a)	1673338	Not_assoc_w_R_Interim
+INH	inhA_g-862a_(Rv1482c_c-41t)	1673340	Uncertain_significance
+INH	inhA_c-857t_(Rv1482c_g-46a)	1673345	Uncertain_significance
+INH	inhA_c-856t_(Rv1482c_g-47a)	1673346	Uncertain_significance
+INH	inhA_a-854g_(Rv1482c_t-49c)	1673348	Uncertain_significance
+INH	inhA_t-852g_(Rv1482c_a-51c)	1673350	Uncertain_significance
+INH	inhA_g-839a_(Rv1482c_c-64t)	1673363	Uncertain_significance
+INH	inhA_c-837t_(Rv1482c_g-66a)	1673365	Uncertain_significance
+INH	inhA_g-836a_(Rv1482c_c-67t)	1673366	Uncertain_significance
+INH	inhA_a-834g_(Rv1482c_t-69c)	1673368	Uncertain_significance
+INH	inhA_a-827c_(Rv1482c_t-76g)	1673375	Uncertain_significance
+INH	inhA_a-823g_(Rv1482c_t-80c)	1673379	Uncertain_significance
+INH	inhA_t-820c_(Rv1482c_a-83g)	1673382	Uncertain_significance
+INH	inhA_c-815a_(Rv1482c_g-88t)	1673387	Uncertain_significance
+INH	inhA_c-815t_(Rv1482c_g-88a)	1673387	Uncertain_significance
+INH	inhA_c-813t_(Rv1482c_g-90a)	1673389	Uncertain_significance
+INH	inhA_g-809a_(Rv1482c_c-94t)	1673393	Uncertain_significance
+INH	inhA_g-809c_(Rv1482c_c-94g)	1673393	Uncertain_significance
+INH	inhA_-808_del_14_acataccgatttcggcccggccg_acataccgg_(Rv1482c_acataccgatttcggcccggccg-95acataccgg)	1673394	Uncertain_significance
+INH	inhA_-808_del_1_acataccgatttcggcccggccg_acataccgatttggcccggccg_(Rv1482c_acataccgatttcggcccggccg-95acataccgatttggcccggccg)	1673394	Uncertain_significance
+INH	inhA_a-808g_(Rv1482c_t-95c)	1673394	Uncertain_significance
+INH	inhA_c-807g_(Rv1482c_g-96c)	1673395	Uncertain_significance
+INH	inhA_g-801a_(fabG1_g-39a)	1673401	Uncertain_significance
+INH	inhA_-797_del_1_tc_t_(fabG1_tc-35t)	1673405	Uncertain_significance
+INH	inhA_c-796g_(fabG1_c-34g)	1673406	Uncertain_significance
+INH	inhA_c-796t_(fabG1_c-34t)	1673406	Uncertain_significance
+INH	inhA_g-794t_(fabG1_g-32t)	1673408	Uncertain_significance
+INH	inhA_c-793t_(fabG1_c-31t)	1673409	Uncertain_significance
+INH	inhA_c-792t_(fabG1_c-30t)	1673410	Uncertain_significance
+INH	inhA_g-789c_(fabG1_g-27c)	1673413	Uncertain_significance
+INH	inhA_g-783a_(fabG1_g-21a)	1673419	Uncertain_significance
+INH	inhA_c-782t_(fabG1_c-20t)	1673420	Uncertain_significance
+INH	inhA_g-779t_(fabG1_g-17t)	1673423	Uncertain_significance
+INH	inhA_a-778g	1673424	Assoc_w_R_Interim
+INH	fabG1_a-16g	1673424	Assoc_w_R_Interim
+INH	inhA_c-777t	1673425	Assoc_w_R
+INH	fabG1_c-15t	1673425	Assoc_w_R
+INH	inhA_g-771a_(fabG1_g-9a)	1673431	Uncertain_significance
+INH	inhA_t-770a	1673432	Assoc_w_R_Interim
+INH	fabG1_t-8c	1673432	Assoc_w_R_Interim
+INH	inhA_t-770g_(fabG1_t-8g)	1673432	Uncertain_significance
+INH	inhA_t-767c_(fabG1_t-5c)	1673435	Uncertain_significance
+INH	inhA_g-764a_(fabG1_g-2a)	1673438	Uncertain_significance
+INH	inhA_c-752a_(fabG1_T4K)	1673450	Uncertain_significance
+INH	inhA_c-752g_(fabG1_T4R)	1673450	Uncertain_significance
+INH	inhA_c-752t_(fabG1_T4I)	1673450	Uncertain_significance
+INH	inhA_a-747g_(fabG1_T6A)	1673455	Uncertain_significance
+INH	inhA_g-744a_(fabG1_E7K)	1673458	Uncertain_significance
+INH	inhA_a-742c_(fabG1_E7D)	1673460	Uncertain_significance
+INH	inhA_c-730t_(fabG1_P11P)	1673472	Uncertain_significance
+INH	inhA_c-728g_(fabG1_P12R)	1673474	Uncertain_significance
+INH	inhA_a-727g_(fabG1_P12P)	1673475	Uncertain_significance
+INH	inhA_g-723a_(fabG1_V14I)	1673479	Uncertain_significance
+INH	inhA_c-718t_(fabG1_S15S)	1673484	Uncertain_significance
+INH	inhA_t-715c_(fabG1_R16R)	1673487	Uncertain_significance
+INH	inhA_g-705a_(fabG1_V20I)	1673497	Uncertain_significance
+INH	inhA_t-703c_(fabG1_V20V)	1673499	Uncertain_significance
+INH	inhA_c-700t_(fabG1_T21T)	1673502	Uncertain_significance
+INH	inhA_a-692g_(fabG1_N24S)	1673510	Uncertain_significance
+INH	inhA_g-676a_(fabG1_L29L)	1673526	Uncertain_significance
+INH	inhA_c-674a_(fabG1_A30E)	1673528	Uncertain_significance
+INH	inhA_g-664a_(fabG1_Q33Q)	1673538	Uncertain_significance
+INH	inhA_c-649t_(fabG1_D38D)	1673553	Uncertain_significance
+INH	inhA_a-641g_(fabG1_K41R)	1673561	Uncertain_significance
+INH	inhA_t-622c_(fabG1_R47R)	1673580	Uncertain_significance
+INH	inhA_t-618c_(fabG1_S49P)	1673584	Uncertain_significance
+INH	inhA_c-616t_(fabG1_S49S)	1673586	Uncertain_significance
+INH	inhA_g-612a_(fabG1_A51T)	1673590	Uncertain_significance
+INH	inhA_c-611t_(fabG1_A51V)	1673591	Uncertain_significance
+INH	inhA_g-602a_(fabG1_G54E)	1673600	Uncertain_significance
+INH	inhA_g-598a_(fabG1_L55L)	1673604	Uncertain_significance
+INH	inhA_c-589t_(fabG1_V58V)	1673613	Uncertain_significance
+INH	inhA_c-580g_(fabG1_D61E)	1673622	Uncertain_significance
+INH	inhA_g-552a_(fabG1_A71T)	1673650	Uncertain_significance
+INH	inhA_c-547t_(fabG1_F72F)	1673655	Uncertain_significance
+INH	inhA_c-542a_(fabG1_A74E)	1673660	Uncertain_significance
+INH	inhA_c-542t_(fabG1_A74V)	1673660	Uncertain_significance
+INH	inhA_g-541a_(fabG1_A74A)	1673661	Uncertain_significance
+INH	inhA_g-541c_(fabG1_A74A)	1673661	Uncertain_significance
+INH	inhA_c-529a_(fabG1_H78Q)	1673673	Uncertain_significance
+INH	inhA_c-529t_(fabG1_H78H)	1673673	Uncertain_significance
+INH	inhA_t-523c_(fabG1_G80G)	1673679	Uncertain_significance
+INH	inhA_c-522g_(fabG1_P81A)	1673680	Not_assoc_w_R
+INH	inhA_g-520c_(fabG1_P81P)	1673682	Uncertain_significance
+INH	inhA_g-520t_(fabG1_P81P)	1673682	Uncertain_significance
+INH	inhA_c-517g_(fabG1_V82V)	1673685	Uncertain_significance
+INH	inhA_g-511a_(fabG1_V84V)	1673691	Uncertain_significance
+INH	inhA_c-510g_(fabG1_L85V)	1673692	Uncertain_significance
+INH	inhA_c-487g_(fabG1_S92S)	1673715	Uncertain_significance
+INH	inhA_g-486a_(fabG1_A93T)	1673716	Uncertain_significance
+INH	inhA_a-478c_(fabG1_A95A)	1673724	Uncertain_significance
+INH	inhA_c-472t_(fabG1_L97L)	1673730	Uncertain_significance
+INH	inhA_g-466t_(fabG1_R99R)	1673736	Uncertain_significance
+INH	inhA_c-460t_(fabG1_T101T)	1673742	Uncertain_significance
+INH	inhA_c-436t_(fabG1_I109I)	1673766	Uncertain_significance
+INH	inhA_c-431t_(fabG1_A111V)	1673771	Uncertain_significance
+INH	inhA_c-424t_(fabG1_L113L)	1673778	Uncertain_significance
+INH	inhA_g-415a_(fabG1_A116A)	1673787	Uncertain_significance
+INH	inhA_g-415t_(fabG1_A116A)	1673787	Uncertain_significance
+INH	inhA_c-411t_(fabG1_R118W)	1673791	Uncertain_significance
+INH	inhA_c-395t_(fabG1_A123V)	1673807	Uncertain_significance
+INH	inhA_g-386a_(fabG1_S126N)	1673816	Uncertain_significance
+INH	inhA_a-375c_(fabG1_N130H)	1673827	Uncertain_significance
+INH	inhA_g-358t_(fabG1_M135I)	1673844	Uncertain_significance
+INH	inhA_a-351g_(fabG1_I138V)	1673851	Uncertain_significance
+INH	inhA_g-343t_(fabG1_S140S)	1673859	Uncertain_significance
+INH	inhA_c-337t_(fabG1_S142S)	1673865	Uncertain_significance
+INH	inhA_g-285t_(fabG1_V160L)	1673917	Uncertain_significance
+INH	inhA_a-282g_(fabG1_I161V)	1673920	Uncertain_significance
+INH	inhA_c-277t_(fabG1_G162G)	1673925	Uncertain_significance
+INH	inhA_g-253a_(fabG1_E170E)	1673949	Uncertain_significance
+INH	inhA_c-232t_(fabG1_T177T)	1673970	Uncertain_significance
+INH	inhA_g-229c_(fabG1_A178A)	1673973	Uncertain_significance
+INH	inhA_c-208t_(fabG1_Y185Y)	1673994	Uncertain_significance
+INH	inhA_c-205t_(fabG1_I186I)	1673997	Uncertain_significance
+INH	inhA_c-202t_(fabG1_D187D)	1674000	Uncertain_significance
+INH	inhA_c-187t_(fabG1_R192R)	1674015	Uncertain_significance
+INH	inhA_g-186a_(fabG1_A193T)	1674016	Uncertain_significance
+INH	inhA_g-181a_(fabG1_L194L)	1674021	Uncertain_significance
+INH	inhA_g-180a_(fabG1_D195N)	1674022	Uncertain_significance
+INH	inhA_a-176c_(fabG1_E196A)	1674026	Uncertain_significance
+INH	inhA_g-173t_(fabG1_R197L)	1674029	Uncertain_significance
+INH	inhA_g-160a_(fabG1_G201G)	1674042	Uncertain_significance
+INH	inhA_g-160c_(fabG1_G201G)	1674042	Uncertain_significance
+INH	inhA_g-159t_(fabG1_A202S)	1674043	Uncertain_significance
+INH	inhA_c-158t_(fabG1_A202V)	1674044	Uncertain_significance
+INH	inhA_c-156t_(fabG1_L203L)	1674046	Uncertain_significance
+INH	inhA_g-154a	1674048	Assoc_w_R
+INH	fabG1_L203L	1674048	Assoc_w_R
+INH	inhA_c-140a_(fabG1_A208E)	1674062	Uncertain_significance
+INH	inhA_g-139a_(fabG1_A208A)	1674063	Uncertain_significance
+INH	inhA_c-127a_(fabG1_G212G)	1674075	Uncertain_significance
+INH	inhA_g-120a_(fabG1_A215T)	1674082	Uncertain_significance
+INH	inhA_c-112t_(fabG1_V217V)	1674090	Uncertain_significance
+INH	inhA_c-110g_(fabG1_A218G)	1674092	Uncertain_significance
+INH	inhA_g-106a_(fabG1_G219G)	1674096	Uncertain_significance
+INH	inhA_c-100a_(fabG1_V221V)	1674102	Uncertain_significance
+INH	inhA_c-94t_(fabG1_F223F)	1674108	Uncertain_significance
+INH	inhA_c-93t_(fabG1_L224L)	1674109	Uncertain_significance
+INH	inhA_t-88a_(fabG1_A225A)	1674114	Uncertain_significance
+INH	inhA_g-76a_(fabG1_A229A)	1674126	Uncertain_significance
+INH	inhA_c-67t_(fabG1_I232I)	1674135	Uncertain_significance
+INH	inhA_c-40t_(fabG1_G241G)	1674162	Not_assoc_w_R
+INH	inhA_c-40t_(fabG1_G241G)	1674162	Not_assoc_w_R
+INH	inhA_c-25t_(fabG1_G246G)	1674177	Uncertain_significance
+INH	inhA_g-20a_(fabG1_!248!)	1674182	Uncertain_significance
+INH	inhA_c-18t	1674184	Uncertain_significance
+INH	inhA_c-16g	1674186	Uncertain_significance
+INH	inhA_a-14g	1674188	Uncertain_significance
+INH	inhA_-13_ins_20_c_cacaaggacgcacatgacagg	1674189	Uncertain_significance
+INH	inhA_-12_ins_4_ac_acaagg	1674190	Uncertain_significance
+INH	inhA_-11_ins_5_c_caagga	1674191	Uncertain_significance
+INH	inhA_c-11a	1674191	Uncertain_significance
+INH	inhA_c-3g	1674199	Uncertain_significance
+INH	ndh_1349_del_9_gcggccagct_g	2101694	Uncertain_significance
+INH	ndh_997_del_9_ccacacccggcacaccct_ccacaccct	2102046	Uncertain_significance
+INH	ndh_934_ins_1_g_ga	2102109	Uncertain_significance
+INH	ndh_904_del_3_ggcc_g	2102139	Uncertain_significance
+INH	ndh_775_ins_1_c_cg	2102268	Uncertain_significance
+INH	ndh_487_del_1_cg_c	2102556	Uncertain_significance
+INH	ndh_484_del_691_tggaccgttcggcttgctcgaaagcgctcaatatgcggccacgcaactcc_t	2102559	Uncertain_significance
+INH	ndh_456_ins_1_c_ca	2102587	Uncertain_significance
+INH	ndh_411_del_1_gc_g	2102632	Uncertain_significance
+INH	ndh_324_ins_1_g_gt	2102719	Uncertain_significance
+INH	ndh_179_del_4_gtggc_g	2102864	Uncertain_significance
+INH	ndh_-5_del_5_cgctgct_cg	2103047	Uncertain_significance
+INH	ndh_g-12a	2103054	Uncertain_significance
+INH	ndh_t-16c	2103058	Uncertain_significance
+INH	ndh_g-17a	2103059	Uncertain_significance
+INH	ndh_g-23a	2103065	Uncertain_significance
+INH	ndh_t-24c	2103066	Uncertain_significance
+INH	ndh_a-31g	2103073	Uncertain_significance
+INH	ndh_c-34t	2103076	Uncertain_significance
+INH	ndh_c-38a	2103080	Uncertain_significance
+INH	ndh_-42_ins_13_a_agttagctactacg	2103084	Uncertain_significance
+INH	ndh_a-45g	2103087	Uncertain_significance
+INH	ndh_t-46g	2103088	Uncertain_significance
+INH	ndh_c-55a	2103097	Uncertain_significance
+INH	ndh_g-65a	2103107	Uncertain_significance
+INH	ndh_-69_del_217_ccgctgcaggcccagttgaggacatgtgtcatcagccacaccacagcgtg_c	2103111	Uncertain_significance
+INH	ndh_g-70t	2103112	Not_assoc_w_R_Interim
+INH	ndh_t-76c	2103118	Uncertain_significance
+INH	ndh_g-79a	2103121	Uncertain_significance
+INH	ndh_c-89t	2103131	Uncertain_significance
+INH	ndh_g-91a	2103133	Uncertain_significance
+INH	ndh_c-94t	2103136	Uncertain_significance
+INH	katG_2186_del_1_tc_t	2153926	Assoc_w_R_Interim
+INH	katG_2152_del_407_gctgcgcgtcatcggcgccatagacctcgacaagcgcccgcaactccgag_g	2153960	Assoc_w_R_Interim
+INH	katG_2087_del_1_ag_a	2154025	Assoc_w_R_Interim
+INH	katG_2084_ins_5_t_tccacg	2154028	Assoc_w_R_Interim
+INH	katG_2006_ins_1_t_tc	2154106	Assoc_w_R_Interim
+INH	katG_2006_ins_3_t_tccc	2154106	Assoc_w_R_Interim
+INH	katG_2003_ins_1_c_ca	2154109	Assoc_w_R_Interim
+INH	katG_1977_del_10_cacgaagaagt_c	2154135	Assoc_w_R_Interim
+INH	katG_1955_ins_1_g_gc	2154157	Assoc_w_R_Interim
+INH	katG_1949_ins_5_g_gaggcc	2154163	Assoc_w_R_Interim
+INH	katG_1933_del_12_cgcccagcggtaa_c	2154179	Assoc_w_R_Interim
+INH	katG_1920_ins_1_g_gc	2154192	Assoc_w_R_Interim
+INH	katG_1901_ins_1_a_ag	2154211	Assoc_w_R_Interim
+INH	katG_1866_del_1_ag_a	2154246	Assoc_w_R_Interim
+INH	katG_1770_del_1_ct_c	2154342	Assoc_w_R_Interim
+INH	katG_1753_ins_1_c_ca	2154359	Assoc_w_R_Interim
+INH	katG_1707_del_1_cg_c	2154405	Assoc_w_R_Interim
+INH	katG_1700_ins_1_a_at	2154412	Assoc_w_R_Interim
+INH	katG_1689_del_1_ga_g	2154423	Assoc_w_R_Interim
+INH	katG_1677_del_1_agccgcc_accgcc	2154435	Assoc_w_R_Interim
+INH	katG_1677_del_6_agccgcc_t	2154435	Assoc_w_R_Interim
+INH	katG_1671_del_1_ct_c	2154441	Assoc_w_R_Interim
+INH	katG_1652_del_1_gc_g	2154460	Assoc_w_R_Interim
+INH	katG_1612_ins_1_c_ct	2154500	Assoc_w_R_Interim
+INH	katG_1603_del_1_tc_t	2154509	Assoc_w_R_Interim
+INH	katG_1576_del_14_cctggatctcttcca_c	2154536	Assoc_w_R_Interim
+INH	katG_1575_ins_1_c_ca	2154537	Assoc_w_R_Interim
+INH	katG_1553_del_4_atgac_a	2154559	Assoc_w_R_Interim
+INH	katG_1541_ins_3_a_agat	2154571	Assoc_w_R_Interim
+INH	katG_1538_del_1_tc_t	2154574	Assoc_w_R_Interim
+INH	katG_1487_ins_1_c_cg	2154625	Assoc_w_R_Interim
+INH	katG_1482_del_1_ac_a	2154630	Assoc_w_R_Interim
+INH	katG_1442_del_3_gacgc_ga	2154670	Assoc_w_R_Interim
+INH	katG_1441_del_3_acgc_a	2154671	Assoc_w_R_Interim
+INH	katG_1441_ins_27_a_acgccgccgcccatgcggtcgaaactag	2154671	Assoc_w_R_Interim
+INH	katG_1433_del_1_gc_g	2154679	Assoc_w_R_Interim
+INH	katG_1366_del_1_ca_c	2154746	Assoc_w_R_Interim
+INH	katG_1351_del_12_cgacgaggtcgtg_c	2154761	Assoc_w_R_Interim
+INH	katG_1340_del_1_tg_t	2154772	Assoc_w_R_Interim
+INH	katG_1334_ins_1_a_ac	2154778	Assoc_w_R_Interim
+INH	katG_1329_ins_1_a_at	2154783	Assoc_w_R_Interim
+INH	katG_1293_ins_1_g_ga	2154819	Assoc_w_R_Interim
+INH	katG_1289_del_3_agcg_a	2154823	Assoc_w_R_Interim
+INH	katG_1285_del_1_gc_g	2154827	Assoc_w_R_Interim
+INH	katG_1197_ins_2_t_ttc	2154915	Assoc_w_R_Interim
+INH	katG_1178_ins_2_a_atc	2154934	Assoc_w_R_Interim
+INH	katG_1177_ins_1_t_tc	2154935	Assoc_w_R_Interim
+INH	katG_1157_ins_2_a_acc	2154955	Assoc_w_R_Interim
+INH	katG_1145_ins_1_a_ag	2154967	Assoc_w_R_Interim
+INH	katG_1061_ins_3_g_gtgt	2155051	Assoc_w_R_Interim
+INH	katG_1025_ins_1_t_tc	2155087	Assoc_w_R_Interim
+INH	katG_1018_del_1_cgt_cg	2155094	Assoc_w_R_Interim
+INH	katG_1003_ins_1_t_tc	2155109	Assoc_w_R_Interim
+INH	katG_986_del_1_tc_t	2155126	Assoc_w_R_Interim
+INH	katG_975_del_1_cg_c	2155137	Assoc_w_R_Interim
+INH	katG_957_del_1_ga_g	2155155	Assoc_w_R_Interim
+INH	katG_925_del_1184_cggttccggtgccatacgagctcttccagcccaagcccatctgctccagc_c	2155187	Assoc_w_R_Interim
+INH	katG_867_del_6_ctcgggt_c	2155245	Assoc_w_R_Interim
+INH	katG_836_ins_5_c_ccggcg	2155276	Assoc_w_R_Interim
+INH	katG_634_ins_1_c_ca	2155478	Assoc_w_R_Interim
+INH	katG_607_del_1_tg_t	2155505	Assoc_w_R_Interim
+INH	katG_603_ins_2_t_ttc	2155509	Assoc_w_R_Interim
+INH	katG_597_del_1_gc_g	2155515	Assoc_w_R_Interim
+INH	katG_537_del_1_ct_c	2155575	Assoc_w_R_Interim
+INH	katG_530_del_13_cccatcgattccag_c	2155582	Assoc_w_R_Interim
+INH	katG_486_ins_1_c_cg	2155626	Assoc_w_R_Interim
+INH	katG_448_ins_2_g_gcc	2155664	Assoc_w_R_Interim
+INH	katG_392_del_2_ggc_g	2155720	Assoc_w_R_Interim
+INH	katG_372_del_1_gcccccggcgc_gccccggcgc	2155740	Assoc_w_R_Interim
+INH	katG_372_del_1_gc_g	2155740	Assoc_w_R_Interim
+INH	katG_372_del_3_gcccccggcgc_gcccccgg	2155740	Assoc_w_R_Interim
+INH	katG_372_del_3_gcccccggcgc_gccggcgc	2155740	Assoc_w_R_Interim
+INH	katG_293_del_8_tagtggccg_t	2155819	Assoc_w_R_Interim
+INH	katG_261_del_23_cgaggtggtcatcacttcctcgat_c	2155851	Assoc_w_R_Interim
+INH	katG_204_del_3_gacct_ga	2155908	Assoc_w_R_Interim
+INH	katG_157_del_6_ccgggtt_c	2155955	Assoc_w_R_Interim
+INH	katG_152_ins_3_t_tttg	2155960	Assoc_w_R_Interim
+INH	katG_150_del_3_ttgg_t	2155962	Assoc_w_R_Interim
+INH	katG_136_ins_1_t_ta	2155976	Assoc_w_R_Interim
+INH	katG_99_ins_10_g_gccgccctcga	2156013	Assoc_w_R_Interim
+INH	katG_89_del_3_acgg_a	2156023	Assoc_w_R_Interim
+INH	katG_88_del_1_cg_c	2156024	Assoc_w_R_Interim
+INH	katG_72_ins_2_a_acc	2156040	Assoc_w_R_Interim
+INH	katG_59_del_1_ca_c	2156053	Assoc_w_R_Interim
+INH	katG_59_ins_2_ca_caga	2156053	Assoc_w_R_Interim
+INH	katG_54_del_1_gt_g	2156058	Assoc_w_R_Interim
+INH	katG_46_ins_1_c_ct	2156066	Assoc_w_R_Interim
+INH	katG_33_del_6_ggtttctgtaatgggt_gtaatgggtt	2156079	Assoc_w_R_Interim
+INH	katG_23_ins_1_a_at	2156089	Assoc_w_R_Interim
+INH	katG_22_ins_1_t_ta	2156090	Assoc_w_R_Interim
+INH	katG_19_del_1_gtg_gg	2156093	Assoc_w_R_Interim
+INH	katG_19_del_1_gtg_gt	2156093	Assoc_w_R_Interim
+INH	katG_-1_ins_5_a_agcatt	2156112	Uncertain_significance
+INH	katG_t-1c	2156112	Uncertain_significance
+INH	katG_t-1g	2156112	Uncertain_significance
+INH	katG_c-2t	2156113	Uncertain_significance
+INH	katG_g-3a	2156114	Uncertain_significance
+INH	katG_a-6g	2156117	Uncertain_significance
+INH	katG_g-8a	2156119	Uncertain_significance
+INH	katG_g-8c	2156119	Uncertain_significance
+INH	katG_a-9c	2156120	Uncertain_significance
+INH	katG_a-10c	2156121	Uncertain_significance
+INH	katG_a-10g	2156121	Uncertain_significance
+INH	katG_g-12t	2156123	Uncertain_significance
+INH	katG_t-13c	2156124	Uncertain_significance
+INH	katG_t-16c	2156127	Uncertain_significance
+INH	katG_-17_ins_1_g_gc	2156128	Uncertain_significance
+INH	katG_c-20t	2156131	Uncertain_significance
+INH	katG_c-21a	2156132	Uncertain_significance
+INH	katG_c-21g	2156132	Uncertain_significance
+INH	katG_c-21t	2156132	Uncertain_significance
+INH	katG_a-27g	2156138	Uncertain_significance
+INH	katG_g-28a	2156139	Uncertain_significance
+INH	katG_g-28t	2156139	Uncertain_significance
+INH	katG_c-29a	2156140	Uncertain_significance
+INH	katG_-31_del_12_gctgtgatcacggatgtgatcg_gctgtgatca	2156142	Uncertain_significance
+INH	katG_c-31t	2156142	Uncertain_significance
+INH	katG_c-34t	2156145	Uncertain_significance
+INH	katG_a-35g	2156146	Uncertain_significance
+INH	katG_c-36t	2156147	Uncertain_significance
+INH	katG_t-40c_(furA_!148R)	2156151	Uncertain_significance
+INH	katG_g-53t_(furA_S143S)	2156164	Uncertain_significance
+INH	katG_c-54a_(furA_S143!)	2156165	Uncertain_significance
+INH	katG_t-64c_(furA_S140P)	2156175	Uncertain_significance
+INH	katG_g-76a_(furA_D136N)	2156187	Uncertain_significance
+INH	katG_t-77c_(furA_P135P)	2156188	Uncertain_significance
+INH	katG_c-79t_(furA_P135S)	2156190	Uncertain_significance
+INH	katG_-80_del_4_acatag_aa_(furA_402)	2156191	Uncertain_significance
+INH	katG_t-80g_(furA_C134W)	2156191	Uncertain_significance
+INH	katG_t-82c_(furA_C134R)	2156193	Uncertain_significance
+INH	katG_c-85t_(furA_L133L)	2156196	Not_assoc_w_R
+INH	katG_g-89a_(furA_W131!)	2156200	Uncertain_significance
+INH	katG_a-93g_(furA_Y130C)	2156204	Uncertain_significance
+INH	katG_g-100a_(furA_V128I)	2156211	Uncertain_significance
+INH	katG_a-102g_(furA_E127G)	2156213	Uncertain_significance
+INH	katG_g-109a_(furA_E125K)	2156220	Uncertain_significance
+INH	katG_a-111g_(furA_D124G)	2156222	Uncertain_significance
+INH	katG_g-116c_(furA_L122L)	2156227	Uncertain_significance
+INH	katG_t-120c_(furA_F121S)	2156231	Uncertain_significance
+INH	katG_g-124a_(furA_G120S)	2156235	Uncertain_significance
+INH	katG_t-128g_(furA_H118Q)	2156239	Uncertain_significance
+INH	katG_c-131g_(furA_D117E)	2156242	Uncertain_significance
+INH	katG_a-132g_(furA_D117G)	2156243	Uncertain_significance
+INH	katG_c-141a_(furA_T114K)	2156252	Uncertain_significance
+INH	katG_c-141t_(furA_T114M)	2156252	Uncertain_significance
+INH	katG_t-146c_(furA_C112C)	2156257	Uncertain_significance
+INH	katG_a-152c_(furA_A110A)	2156263	Uncertain_significance
+INH	katG_a-152g_(furA_A110A)	2156263	Uncertain_significance
+INH	katG_a-156c_(furA_E109A)	2156267	Uncertain_significance
+INH	katG_g-163a_(furA_V107I)	2156274	Uncertain_significance
+INH	katG_a-171g_(furA_D104G)	2156282	Uncertain_significance
+INH	katG_g-172a_(furA_D104N)	2156283	Uncertain_significance
+INH	katG_-186_del_1_ac_a_(furA_296)	2156297	Uncertain_significance
+INH	katG_t-186c_(furA_V99A)	2156297	Uncertain_significance
+INH	katG_g-187t_(furA_V99F)	2156298	Uncertain_significance
+INH	katG_g-197a_(furA_R95R)	2156308	Uncertain_significance
+INH	katG_c-206a_(furA_I92I)	2156317	Uncertain_significance
+INH	katG_t-207c_(furA_I92T)	2156318	Uncertain_significance
+INH	katG_a-208g_(furA_I92V)	2156319	Uncertain_significance
+INH	katG_c-209t_(furA_H91H)	2156320	Uncertain_significance
+INH	katG_a-210c_(furA_H91P)	2156321	Uncertain_significance
+INH	katG_t-212c_(furA_H90H)	2156323	Uncertain_significance
+INH	katG_-216_del_118_tggttgtcgccgaccctggactcgtagcgcgcgacggagcccgagggttg_t_(furA_266)	2156327	Uncertain_significance
+INH	katG_c-221a_(furA_D87E)	2156332	Uncertain_significance
+INH	katG_g-229a_(furA_V85I)	2156340	Uncertain_significance
+INH	katG_g-231a_(furA_R84K)	2156342	Uncertain_significance
+INH	katG_c-233a_(furA_S83S)	2156344	Uncertain_significance
+INH	katG_c-233g_(furA_S83S)	2156344	Uncertain_significance
+INH	katG_g-243a_(furA_R80H)	2156354	Uncertain_significance
+INH	katG_c-246t_(furA_A79V)	2156357	Uncertain_significance
+INH	katG_t-249g_(furA_V78G)	2156360	Uncertain_significance
+INH	katG_g-256a_(furA_G76S)	2156367	Uncertain_significance
+INH	katG_t-259g_(furA_S75A)	2156370	Uncertain_significance
+INH	katG_a-268g_(furA_I72V)	2156379	Uncertain_significance
+INH	katG_g-273a_(furA_R70Q)	2156384	Uncertain_significance
+INH	katG_c-274g_(furA_R70G)	2156385	Uncertain_significance
+INH	katG_g-278c_(furA_L68F)	2156389	Not_assoc_w_R_Interim
+INH	katG_g-282a_(furA_G67D)	2156393	Uncertain_significance
+INH	katG_g-284a_(furA_A66A)	2156395	Uncertain_significance
+INH	katG_g-286a_(furA_A66T)	2156397	Uncertain_significance
+INH	katG_c-287t_(furA_A65A)	2156398	Uncertain_significance
+INH	katG_g-289a_(furA_A65T)	2156400	Uncertain_significance
+INH	katG_c-291g_(furA_T64S)	2156402	Uncertain_significance
+INH	katG_a-292g_(furA_T64A)	2156403	Uncertain_significance
+INH	katG_g-293a_(furA_L63L)	2156404	Uncertain_significance
+INH	katG_c-296t_(furA_A62A)	2156407	Uncertain_significance
+INH	katG_g-302c_(furA_L60L)	2156413	Uncertain_significance
+INH	katG_c-308t_(furA_D58D)	2156419	Uncertain_significance
+INH	katG_a-309g_(furA_D58G)	2156420	Uncertain_significance
+INH	katG_g-310t_(furA_D58Y)	2156421	Uncertain_significance
+INH	katG_g-316a_(furA_V56M)	2156427	Uncertain_significance
+INH	katG_c-317a_(furA_A55A)	2156428	Uncertain_significance
+INH	katG_c-326t_(furA_S52S)	2156437	Uncertain_significance
+INH	katG_c-337a_(furA_P49T)	2156448	Uncertain_significance
+INH	katG_t-339c_(furA_L48P)	2156450	Uncertain_significance
+INH	katG_-342_ins_1_g_gc_(furA_140)	2156453	Uncertain_significance
+INH	katG_c-342t_(furA_A47V)	2156453	Uncertain_significance
+INH	katG_t-347c_(furA_R45R)	2156458	Uncertain_significance
+INH	katG_g-350a_(furA_V44V)	2156461	Uncertain_significance
+INH	katG_c-354t_(furA_A43V)	2156465	Not_assoc_w_R
+INH	katG_g-355a_(furA_A43T)	2156466	Uncertain_significance
+INH	katG_g-370a_(furA_E38K)	2156481	Uncertain_significance
+INH	katG_g-371a_(furA_T37T)	2156482	Uncertain_significance
+INH	katG_a-373g_(furA_T37A)	2156484	Uncertain_significance
+INH	katG_c-377t_(furA_A35A)	2156488	Uncertain_significance
+INH	katG_g-395a_(furA_V29V)	2156506	Uncertain_significance
+INH	katG_a-398c_(furA_A28A)	2156509	Uncertain_significance
+INH	katG_c-399t_(furA_A28V)	2156510	Uncertain_significance
+INH	katG_a-402c_(furA_E27A)	2156513	Uncertain_significance
+INH	katG_c-406a_(furA_L26M)	2156517	Uncertain_significance
+INH	katG_c-407t_(furA_V25V)	2156518	Uncertain_significance
+INH	katG_c-411t_(furA_A24V)	2156522	Uncertain_significance
+INH	katG_g-415a_(furA_V23I)	2156526	Uncertain_significance
+INH	katG_g-423a_(furA_R20Q)	2156534	Uncertain_significance
+INH	katG_g-428a_(furA_V18V)	2156539	Uncertain_significance
+INH	katG_g-434a_(furA_L16L)	2156545	Uncertain_significance
+INH	katG_c-436g_(furA_L16V)	2156547	Uncertain_significance
+INH	katG_c-437t_(furA_D15D)	2156548	Uncertain_significance
+INH	katG_g-439t_(furA_D15Y)	2156550	Uncertain_significance
+INH	katG_c-441t_(furA_A14V)	2156552	Uncertain_significance
+INH	katG_g-443a_(furA_T13T)	2156554	Uncertain_significance
+INH	katG_g-447a_(furA_R12Q)	2156558	Uncertain_significance
+INH	katG_c-449g_(furA_L11L)	2156560	Uncertain_significance
+INH	katG_c-449t_(furA_L11L)	2156560	Uncertain_significance
+INH	katG_g-452a_(furA_Q10Q)	2156563	Uncertain_significance
+INH	katG_a-455g_(furA_E9E)	2156566	Uncertain_significance
+INH	katG_c-458t_(furA_A8A)	2156569	Uncertain_significance
+INH	katG_c-459a_(furA_A8D)	2156570	Uncertain_significance
+INH	katG_c-459t_(furA_A8V)	2156570	Uncertain_significance
+INH	katG_g-460t_(furA_A8S)	2156571	Uncertain_significance
+INH	katG_c-461t_(furA_Y7Y)	2156572	Uncertain_significance
+INH	katG_g-467a_(furA_P5P)	2156578	Uncertain_significance
+INH	katG_c-468t_(furA_P5L)	2156579	Uncertain_significance
+INH	katG_t-473g_(furA_S3S)	2156584	Uncertain_significance
+INH	katG_t-475c_(furA_S3P)	2156586	Uncertain_significance
+INH	katG_t-475g_(furA_S3A)	2156586	Uncertain_significance
+INH	katG_-477_del_2_gac_g_(furA_5)	2156588	Uncertain_significance
+INH	katG_c-477t_(furA_S2F)	2156588	Uncertain_significance
+INH	katG_g-479t_(furA_V1V)	2156590	Uncertain_significance
+INH	katG_g-481t_(furA_V1L)	2156592	Uncertain_significance
+INH	katG_-484_ins_5_t_tagaca_(furA_t-3tagaca)	2156595	Uncertain_significance
+INH	katG_-485_del_1_agacaatatgactcccttttctggaatcagtcaagac_agacaatatgactccttttctggaatcagtcaagac_(furA_agacaatatgactcccttttctggaatcagtcaagac-4agacaatatgactccttttctggaatcagtcaagac)	2156596	Uncertain_significance
+INH	katG_-485_del_34_agacaatatgactcccttttctggaatcagtcaagac_aga_(furA_agacaatatgactcccttttctggaatcagtcaagac-4aga)	2156596	Uncertain_significance
+INH	katG_t-485g_(furA_t-4g)	2156596	Uncertain_significance
+INH	katG_c-486t_(furA_c-5t)	2156597	Uncertain_significance
+INH	katG_-489_del_4_aatatgactcccttttctggaatc_agtatgactcccttttctga_(furA_aatatgactcccttttctggaatc-8agtatgactcccttttctga)	2156600	Uncertain_significance
+INH	katG_t-489c_(furA_t-8c)	2156600	Uncertain_significance
+INH	katG_t-490c_(furA_t-9c)	2156601	Uncertain_significance
+INH	katG_t-495g_(furA_t-14g)	2156606	Uncertain_significance
+INH	katG_-496_del_1_ct_c_(furA_ct-15c)	2156607	Uncertain_significance
+INH	katG_g-499a_(furA_g-18a)	2156610	Uncertain_significance
+INH	katG_-500_del_1_ct_c_(furA_ct-19c)	2156611	Uncertain_significance
+INH	katG_g-500t_(furA_g-19t)	2156611	Uncertain_significance
+INH	katG_a-504g_(furA_a-23g)	2156615	Uncertain_significance
+INH	katG_g-505c_(furA_g-24c)	2156616	Uncertain_significance
+INH	katG_c-507g_(furA_c-26g)	2156618	Uncertain_significance
+INH	katG_c-507t_(furA_c-26t)	2156618	Uncertain_significance
+INH	katG_g-512a_(furA_g-31a)	2156623	Uncertain_significance
+INH	katG_t-520c_(furA_t-39c)	2156631	Uncertain_significance
+INH	katG_g-521t_(furA_g-40t)	2156632	Uncertain_significance
+INH	katG_a-522c_(furA_a-41c)	2156633	Uncertain_significance
+INH	katG_-526_del_1_gc_g_(furA_gc-45g)	2156637	Uncertain_significance
+INH	katG_g-527a_(furA_g-46a)	2156638	Uncertain_significance
+INH	katG_g-531c_(furA_g-50c)	2156642	Uncertain_significance
+INH	katG_c-538t_(furA_c-57t)	2156649	Uncertain_significance
+INH	ahpC_c-140t	2726053	Uncertain_significance
+INH	ahpC_c-139t	2726054	Uncertain_significance
+INH	ahpC_g-138a	2726055	Uncertain_significance
+INH	ahpC_c-136g	2726057	Uncertain_significance
+INH	ahpC_c-133t	2726060	Uncertain_significance
+INH	ahpC_g-123a	2726070	Uncertain_significance
+INH	ahpC_a-121c	2726072	Uncertain_significance
+INH	ahpC_g-114t	2726079	Uncertain_significance
+INH	ahpC_g-111a	2726082	Uncertain_significance
+INH	ahpC_g-108c	2726085	Uncertain_significance
+INH	ahpC_g-105a	2726088	Uncertain_significance
+INH	ahpC_-103_ins_7_c_cgataaat	2726090	Uncertain_significance
+INH	ahpC_a-101g	2726092	Uncertain_significance
+INH	ahpC_a-98c	2726095	Uncertain_significance
+INH	ahpC_-97_ins_4_a_atatg	2726096	Uncertain_significance
+INH	ahpC_-93_ins_2_g_ggt	2726100	Uncertain_significance
+INH	ahpC_g-93a	2726100	Uncertain_significance
+INH	ahpC_g-93c	2726100	Uncertain_significance
+INH	ahpC_g-93t	2726100	Uncertain_significance
+INH	ahpC_g-90a	2726103	Uncertain_significance
+INH	ahpC_g-90c	2726103	Uncertain_significance
+INH	ahpC_-89_del_1_tgatatatcacct_taatatatcacc	2726104	Uncertain_significance
+INH	ahpC_-89_del_1_tgatatatcacctttg_taatatatcaccttg	2726104	Uncertain_significance
+INH	ahpC_-89_del_2_tgatatatcacctttg_taatatcacctttg	2726104	Uncertain_significance
+INH	ahpC_-89_del_8_tgatatatcacctttg_taatatat	2726104	Uncertain_significance
+INH	ahpC_t-89a	2726104	Uncertain_significance
+INH	ahpC_t-89g	2726104	Uncertain_significance
+INH	ahpC_-88_ins_2_g_gat	2726105	Uncertain_significance
+INH	ahpC_g-88a	2726105	Not_assoc_w_R
+INH	ahpC_a-87g	2726106	Uncertain_significance
+INH	ahpC_t-86g	2726107	Uncertain_significance
+INH	ahpC_t-84c	2726109	Uncertain_significance
+INH	ahpC_a-83c	2726110	Uncertain_significance
+INH	ahpC_a-83g	2726110	Uncertain_significance
+INH	ahpC_c-81t	2726112	Uncertain_significance
+INH	ahpC_a-80g	2726113	Uncertain_significance
+INH	ahpC_c-79a	2726114	Uncertain_significance
+INH	ahpC_c-79t	2726114	Uncertain_significance
+INH	ahpC_c-78a	2726115	Uncertain_significance
+INH	ahpC_t-77a	2726116	Uncertain_significance
+INH	ahpC_t-77c	2726116	Uncertain_significance
+INH	ahpC_t-77g	2726116	Uncertain_significance
+INH	ahpC_-76_del_1_tt_t	2726117	Uncertain_significance
+INH	ahpC_t-76a	2726117	Uncertain_significance
+INH	ahpC_t-76g	2726117	Uncertain_significance
+INH	ahpC_t-75g	2726118	Uncertain_significance
+INH	ahpC_g-74a	2726119	Uncertain_significance
+INH	ahpC_g-74t	2726119	Uncertain_significance
+INH	ahpC_c-73t	2726120	Uncertain_significance
+INH	ahpC_c-72t	2726121	Uncertain_significance
+INH	ahpC_a-63c	2726130	Uncertain_significance
+INH	ahpC_c-62t	2726131	Uncertain_significance
+INH	ahpC_c-57t	2726136	Uncertain_significance
+INH	ahpC_-55_ins_1_gcacgatggaat_gtacgatggaatc	2726138	Uncertain_significance
+INH	ahpC_c-54t	2726139	Uncertain_significance
+INH	ahpC_-53_ins_1_acgatggaatgtc_acgatggtaatgtc	2726140	Uncertain_significance
+INH	ahpC_a-53g	2726140	Uncertain_significance
+INH	ahpC_c-52a	2726141	Uncertain_significance
+INH	ahpC_c-52g	2726141	Uncertain_significance
+INH	ahpC_c-52t	2726141	Uncertain_significance
+INH	ahpC_g-51a	2726142	Uncertain_significance
+INH	ahpC_g-48a	2726145	Uncertain_significance
+INH	ahpC_-47_ins_1_g_gt	2726146	Uncertain_significance
+INH	ahpC_a-45g	2726148	Uncertain_significance
+INH	ahpC_t-42c	2726151	Uncertain_significance
+INH	ahpC_t-42g	2726151	Uncertain_significance
+INH	ahpC_c-41a	2726152	Uncertain_significance
+INH	ahpC_c-41t	2726152	Uncertain_significance
+INH	ahpC_g-40a	2726153	Uncertain_significance
+INH	ahpC_c-36a	2726157	Uncertain_significance
+INH	ahpC_c-36t	2726157	Uncertain_significance
+INH	ahpC_g-16a	2726177	Uncertain_significance
+INH	ahpC_g-13t	2726180	Uncertain_significance
+INH	ahpC_g-7a	2726186	Uncertain_significance
+INH	ahpC_-3_ins_1_g_gt	2726190	Uncertain_significance
+INH	ahpC_g-3c	2726190	Uncertain_significance
+INH	ahpC_-2_del_297_tcatgccactgctaaccattggcgatcaattccccgcctaccagctcacc_t	2726191	Uncertain_significance
+INH	ahpC_85_del_2_aag_a	2726277	Uncertain_significance
+INH	ahpC_227_ins_1_aggaccgcg_aggaaccgcg	2726419	Uncertain_significance
+INH	ahpC_248_del_1_tg_t	2726440	Uncertain_significance
+INH	ahpC_251_del_12_gggtttcgattgacagcgaattcgcgcattt_ggagcgaattcgcgcattt	2726443	Uncertain_significance
+INH	ahpC_323_del_1_tc_t	2726515	Uncertain_significance
+INH	ahpC_409_ins_1_a_at	2726601	Uncertain_significance
+INH	ahpC_499_del_1_gc_g	2726691	Uncertain_significance
+INH	ahpC_585_ins_1_ctaaccgggat_ctataccgggat	2726777	Uncertain_significance
+INH	Rv2752c_1674_del_1_cac_ca	3064518	Uncertain_significance
+INH	Rv2752c_1673_del_1_ac_a	3064519	Uncertain_significance
+INH	Rv2752c_1633_del_1_aggtttc_aggttt	3064559	Uncertain_significance
+INH	Rv2752c_1631_ins_1_g_gt	3064561	Uncertain_significance
+INH	Rv2752c_1596_del_64_cccttgagcgatccggatcggatcggtgacgttggcggccaccaacgatt_c	3064596	Uncertain_significance
+INH	Rv2752c_1596_ins_7_c_cccttgag	3064596	Uncertain_significance
+INH	Rv2752c_1584_del_5_ccggat_c	3064608	Uncertain_significance
+INH	Rv2752c_1510_ins_1_g_gc	3064682	Uncertain_significance
+INH	Rv2752c_1486_ins_3_c_cccg	3064706	Uncertain_significance
+INH	Rv2752c_1473_del_1_at_a	3064719	Uncertain_significance
+INH	Rv2752c_1404_del_1_ca_c	3064788	Uncertain_significance
+INH	Rv2752c_1384_ins_1_g_gc	3064808	Uncertain_significance
+INH	Rv2752c_1335_ins_1_g_gc	3064857	Uncertain_significance
+INH	Rv2752c_1278_del_11_accgttctcggc_a	3064914	Uncertain_significance
+INH	Rv2752c_1153_del_82_agaggaacagcagctcaccggcgtacgcgtggccggaaacatgcaccctt_a	3065039	Uncertain_significance
+INH	Rv2752c_1106_del_1_ct_c	3065086	Uncertain_significance
+INH	Rv2752c_1014_del_1_cg_c	3065178	Uncertain_significance
+INH	Rv2752c_1006_ins_1_a_ac	3065186	Uncertain_significance
+INH	Rv2752c_991_ins_1_c_ca	3065201	Uncertain_significance
+INH	Rv2752c_960_ins_9_a_acgcgacatt	3065232	Uncertain_significance
+INH	Rv2752c_878_del_3_tcgg_t	3065314	Uncertain_significance
+INH	Rv2752c_826_del_1_gt_g	3065366	Uncertain_significance
+INH	Rv2752c_789_del_1_gc_g	3065403	Uncertain_significance
+INH	Rv2752c_684_del_1_ac_a	3065508	Uncertain_significance
+INH	Rv2752c_637_ins_2_g_gcc	3065555	Uncertain_significance
+INH	Rv2752c_628_del_1_cg_c	3065564	Uncertain_significance
+INH	Rv2752c_594_ins_1_c_ca	3065598	Uncertain_significance
+INH	Rv2752c_493_ins_2_t_tgg	3065699	Uncertain_significance
+INH	Rv2752c_433_ins_3_c_cgaa	3065759	Uncertain_significance
+INH	Rv2752c_418_ins_1_c_ca	3065774	Uncertain_significance
+INH	Rv2752c_414_del_2_cacg_ca	3065778	Uncertain_significance
+INH	Rv2752c_397_del_1_tct_tc	3065795	Uncertain_significance
+INH	Rv2752c_393_ins_1_g_gc	3065799	Uncertain_significance
+INH	Rv2752c_363_del_1_ta_t	3065829	Uncertain_significance
+INH	Rv2752c_327_ins_1_c_ct	3065865	Uncertain_significance
+INH	Rv2752c_286_ins_11_g_gcttgagcagaa	3065906	Uncertain_significance
+INH	Rv2752c_274_del_1_ac_a	3065918	Uncertain_significance
+INH	Rv2752c_166_del_1_cg_c	3066026	Uncertain_significance
+INH	Rv2752c_86_del_1_cg_c	3066106	Uncertain_significance
+INH	Rv2752c_25_del_2_ctg_c	3066167	Uncertain_significance
+INH	Rv2752c_24_ins_1_tggcg_tggccg	3066168	Uncertain_significance
+INH	Rv2752c_21_del_1_cg_c	3066171	Uncertain_significance
+INH	Rv2752c_16_del_1_gaaggtctacatccacttctgggccaccctttggctca_gaaggtctacatccacttctgggcaccctttggctca	3066176	Uncertain_significance
+INH	Rv2752c_12_del_2_gtc_g	3066180	Uncertain_significance
+INH	Rv2752c_-7_del_1_gc_g	3066198	Uncertain_significance
+INH	Rv2752c_t-10c	3066201	Uncertain_significance
+INH	Rv2752c_c-17g	3066208	Uncertain_significance
+INH	Rv2752c_a-26g	3066217	Uncertain_significance
+INH	Rv2752c_c-29t	3066220	Uncertain_significance
+INH	Rv2752c_-935_del_2_gct_g_(dapA_gct-2g)	3067126	Uncertain_significance
+INH	Rv2752c_-944_del_1_gt_g_(dapA_gt-11g)	3067135	Uncertain_significance
+INH	Rv2752c_c-944t_(dapA_c-11t)	3067135	Uncertain_significance
+INH	Rv2752c_-950_del_1_tg_t_(dapA_tg-17t)	3067141	Uncertain_significance
+INH	Rv2752c_a-960g_(dapA_a-27g)	3067151	Uncertain_significance
+INH	Rv2752c_g-961a_(dapA_g-28a)	3067152	Uncertain_significance
+INH	Rv2752c_g-966t_(dapA_g-33t)	3067157	Uncertain_significance
+INH	Rv2752c_g-967a_(dapA_g-34a)	3067158	Uncertain_significance
+INH	Rv2752c_g-973a_(dapA_g-40a)	3067164	Uncertain_significance
+INH	Rv2752c_a-981g_(dapA_a-48g)	3067172	Uncertain_significance
+INH	Rv2752c_-989_ins_20_g_gcgacacgccgcctcaggctt_(dapA_g-56gcgacacgccgcctcaggctt)	3067180	Uncertain_significance
+INH	Rv2752c_c-989a_(dapA_c-56a)	3067180	Uncertain_significance
+INH	Rv2752c_c-989t_(dapA_c-56t)	3067180	Uncertain_significance

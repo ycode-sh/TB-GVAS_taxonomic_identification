@@ -1,0 +1,3 @@
+##INFO=<ID=gene_ann_region,Number=.,Type=String,Description="Genes, coding strand, exons or other features">
+##INFO=<ID=gene_annotation,Number=.,Type=String,Description="Biological description genomic features of region">
+

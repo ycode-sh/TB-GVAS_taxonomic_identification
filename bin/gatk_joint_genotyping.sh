@@ -6,12 +6,14 @@
 
 # Initialize an empty array
 vcf_array=""
-# Iterate through the command line options and grow the intitailized array
+# Iterate through the command line options and grow the initialized array
 for file in "$@"; do
-    if [[ $file =~ [[:alnum:]]*\.fas?t?a?$ ]]; then # Match and extract fastafile
-        ref=$file
-    else
-        vcf_array="$vcf_array --variant $file"
+    if [ -s "$file" ]; then
+        if [[ $file =~ [[:alnum:]]*\.fas?t?a?$ ]]; then # Match and extract fastafile
+            ref=$file
+        else
+            vcf_array="$vcf_array --variant $file"
+        fi
     fi
 done
 

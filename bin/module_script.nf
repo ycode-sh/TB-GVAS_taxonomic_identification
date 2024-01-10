@@ -1,14 +1,8 @@
 // 1. Trimming with trimmomatic
-// Inputs: reads, adapters; output:trimmed paired and unpaired reads
-
-//reads = "reads"
-//reads_pair_id = "pair_id"
-
-
 
 
 process trim_fastq_se {    
-    publishDir "${params.out_dir_int}/Trimmed_reads", mode: 'copy', overwrite: true
+    //publishDir "${params.out_dir_int}/Trimmed_reads", mode: 'copy', overwrite: true
     
     input:
     val(trim_sample_script)
@@ -32,7 +26,7 @@ process trim_fastq_se {
 }
 
 process trim_fastq_pe {    
-    publishDir "${params.out_dir_int}/Trimmed_reads", mode: 'copy', overwrite: true
+    //publishDir "${params.out_dir_int}/Trimmed_reads", mode: 'copy', overwrite: true
     
     input:
     val(trim_sample_script)
@@ -61,19 +55,33 @@ workflow trim_fastq {
         input_read_type
         se_reads_wf
     main:
-        if (params.in_data_type != "minion_ont_reads"){
-            if (params.in_data_type == "pe_illumina_reads"){
+        if (params.cohort_joint_genotype == "ncgvcf"){
+            if (params.in_data_type != "minion_ont_reads"){
+                if (params.in_data_type == "pe_illumina_reads"){
+                    trim_fastq_pe(trim_sample_script_wf, pe_reads_wf, adapter_seq, input_read_type)
+                    trimmed_reads = trim_fastq_pe.out.trimmed_reads | flatten | filter { it =~/P.fastq/ } | map { [it.name - ~/_[12]P.fastq/, it] } | groupTuple
+                } else if (params.in_data_type == "se_illumina_reads"){
+                    trim_fastq_se(trim_sample_script_wf, se_reads_wf, adapter_seq, input_read_type)
+                    trimmed_reads = trim_fastq_se.out
+                }
+            } else {
+                trimmed_reads = se_reads_wf
+            }
+        } else if(params.cohort_joint_genotype == "cgvcf"){
+            if (params.in_data_type == "pe_min"){
                 trim_fastq_pe(trim_sample_script_wf, pe_reads_wf, adapter_seq, input_read_type)
                 trimmed_reads = trim_fastq_pe.out.trimmed_reads | flatten | filter { it =~/P.fastq/ } | map { [it.name - ~/_[12]P.fastq/, it] } | groupTuple
-            } else if (params.in_data_type == "se_illumina_reads"){
-                trim_fastq_se(trim_sample_script_wf, se_reads_wf, adapter_seq, input_read_type)
-                trimmed_reads = trim_fastq_se.out
+                trimmed_reads_2 = se_reads_wf
             }
-        } else {
-            trimmed_reads = se_reads_wf
+            else if(params.in_data_type == "pe_only"){
+                trim_fastq_pe(trim_sample_script_wf, pe_reads_wf, adapter_seq, input_read_type)
+                trimmed_reads = trim_fastq_pe.out.trimmed_reads | flatten | filter { it =~/P.fastq/ } | map { [it.name - ~/_[12]P.fastq/, it] } | groupTuple
+            }      
+            
         }
     emit:
         trimmed_reads
+        //trimmed_reads_2
 }
 
 
@@ -190,6 +198,8 @@ process find_16s_hit {
 process genome_assembly_se {
     publishDir "${params.out_dir_int}/Contigs", mode: 'copy', overwrite: true
     errorStrategy 'ignore'
+    cpus = 8
+    memory = 30.GB
     
     input:
         val (genome_assembly_script)
@@ -207,6 +217,8 @@ process genome_assembly_se {
 }
 
 process genome_assembly_pe {
+    cpus = 8
+    memory = 30.GB
     publishDir "${params.out_dir_int}/Contigs", mode: 'copy', overwrite: true
     errorStrategy 'ignore'
     
@@ -250,7 +262,9 @@ workflow genome_assembly {
 // 5. Map reads to Reference
 // Emit sam with either bwa or minimap
 process emit_sam_se {
-    publishDir "${params.out_dir_int}/Sam_files", mode: 'copy', overwrite: true
+    //publishDir "${params.out_dir_int}/Sam_files", mode: 'copy', overwrite: true
+    cpus = 8
+    memory = 30.GB
     input:
         val (emit_sam_script)
         path(se_reads)
@@ -271,7 +285,9 @@ process emit_sam_se {
 }
 
 process emit_sam_pe {
-    publishDir "${params.out_dir_int}/Sam_files", mode: 'copy', overwrite: true
+    //publishDir "${params.out_dir_int}/Sam_files", mode: 'copy', overwrite: true
+    cpus = 8
+    memory = 30.GB
     input:
         val (emit_sam_script)
         tuple val(reads_pair_id), path(pe_reads)
@@ -290,10 +306,34 @@ process emit_sam_pe {
         """
 }
 
+process emit_sam_pe_min {
+    //publishDir "${params.out_dir_int}/Sam_files", mode: 'copy', overwrite: true
+    cpus = 8
+    memory = 30.GB
+    input:
+        val (emit_sam_script)
+        tuple val(reads_pair_id), path(pe_reads)
+        val (fastafile)
+        val (input_read_type)
+        path (se_reads)
+        
+
+
+    output:
+        path "*_sam", emit: reads_sam
+
+    script:
+        """
+        bash ${emit_sam_script} ${pe_reads[0]} ${pe_reads[1]} ${fastafile} ${reads_pair_id} ${input_read_type} ${se_reads}
+        
+        """
+}
+
 workflow emit_sam {
     take:
         emit_sam_script_wf
         trimmed_reads
+        trimmed_reads_2
         fastafile
         input_read_type
 
@@ -301,9 +341,17 @@ workflow emit_sam {
         if (params.in_data_type == "se_illumina_reads" | params.in_data_type == "minion_ont_reads"){
             emit_sam_se(emit_sam_script_wf, trimmed_reads, fastafile, input_read_type)
             emitted_sam = emit_sam_se.out
-        } else if (params.in_data_type == "pe_illumina_reads"){
+        } else if (params.in_data_type == "pe_illumina_reads" | params.in_data_type == "pe_only"){
             emit_sam_pe(emit_sam_script_wf, trimmed_reads, fastafile, input_read_type)
             emitted_sam = emit_sam_pe.out
+        } else if(params.in_data_type == "pe_min"){
+            //emit_sam_pe_min(emit_sam_script_wf, trimmed_reads, fastafile, input_read_type, trimmed_reads_2)
+            //emitted_sam = emit_sam_pe_min.out | collect | flatten
+            emit_sam_pe(emit_sam_script_wf, trimmed_reads, fastafile, input_read_type)
+            emit_sam_se(emit_sam_script_wf, trimmed_reads_2, fastafile, input_read_type)
+
+            emitted_sam = emit_sam_pe.out.concat(emit_sam_se.out)
+            
         }
     emit:
         emitted_sam
@@ -418,6 +466,7 @@ process parse_kraken {
 
 process bcf_call {
     publishDir "${params.out_dir_int}/bcf_call", mode: 'copy', overwrite: true
+    errorStrategy 'ignore'
     input:
     val bcf_call_script
     path aligned_sam
@@ -449,6 +498,7 @@ process bcf_call {
 
 process gatk_call {
     publishDir "${params.out_dir_int}/gatk_call", mode: 'copy', overwrite: true
+    errorStrategy 'ignore'
     input:
         val gatk_call_script
         path coord_sort_bam
@@ -469,6 +519,7 @@ process gatk_call {
 
 process gatk_call_gvcf {
     publishDir "${params.out_dir_int}/gvcf_call", mode: 'copy', overwrite: true
+    errorStrategy 'ignore'
     input:
         val gatk_call_script
         path coord_sort_bam
@@ -490,6 +541,7 @@ process gatk_call_gvcf {
 
 process gatk_joint_genotyping {
     publishDir "${params.out_dir_int}/gatk_joint_call", mode: 'copy', overwrite: true
+    errorStrategy 'ignore'
     input:
         val gatk_joint_geno_script
         path flattened_gvcfs
@@ -525,14 +577,16 @@ process adjudicate_var_pe {
     tuple val(sample_id), path(reads), path(vcf_1, stageAs: 'ist_vcf'), path(vcf_2)
     //tuple val(sample_id), path(items)
     val reference  
-    
+    val (frs)
+    val (gcp)
     
     output:
     path  "*_minos.vcf", emit: minos_call_out_vcf
 
     script:
     """
-    bash ${var_adj_script} ${input_read_type} ${sample_id} ${reads[0]} ${reads[1]} ${vcf_1} ${vcf_1} ${reference}
+    bash ${var_adj_script} ${input_read_type} ${sample_id} ${reads[0]} ${reads[1]} ${vcf_1} ${vcf_1} ${reference} ${frs} ${gcp}
+
 
     """
 }
@@ -548,6 +602,8 @@ process adjudicate_var_se {
     path (se_reads) 
     val reference 
     tuple val(sample_id), path(vcf_1, stageAs: 'ist_vcf'), path(vcf_2)
+    val (frs)
+    val (gcp)
     
     
     output:
@@ -555,7 +611,7 @@ process adjudicate_var_se {
 
     script:
     """
-    bash ${var_adj_script} ${input_read_type} ${se_reads} ${reference} ${vcf_1} ${vcf_2} 
+    bash ${var_adj_script} ${input_read_type} ${se_reads} ${reference} ${vcf_1} ${vcf_2} ${frs} ${gcp}
 
     """
 }
@@ -568,6 +624,10 @@ workflow adjudicate_var {
         var_adj_script_wf
         input_read_type
         fastafile
+        min_frs
+        min_gcp
+
+
 
     main:
         if (params.in_data_type != "minion_ont_reads"){
@@ -576,10 +636,10 @@ workflow adjudicate_var {
             joined_vcfs = bcf_call_tuple.join(gatk_call_tuple)
             if (params.in_data_type == "pe_illumina_reads") {
                 reads_vcf_files = trimmed_reads.combine(joined_vcfs, by:0)
-                adjudicate_var_pe(var_adj_script_wf, input_read_type, reads_vcf_files, fastafile)
+                adjudicate_var_pe(var_adj_script_wf, input_read_type, reads_vcf_files, fastafile, min_frs, min_gcp)
                 adj_var = adjudicate_var_pe.out
             } else if (params.in_data_type == "se_illumina_reads"){
-                adjudicate_var_se(var_adj_script_wf, input_read_type, trimmed_reads, fastafile, joined_vcfs)
+                adjudicate_var_se(var_adj_script_wf, input_read_type, trimmed_reads, fastafile, joined_vcfs, min_frs, min_gcp)
                 adj_var = adjudicate_var_se.out
             }
 
@@ -714,3 +774,238 @@ workflow joint_genotyping {
         
 }
 
+// Bedtools manipulation
+
+process bedtools_epi_assay {
+    publishDir "${params.out_dir_int}/sub_repeat", mode: 'copy', overwrite: true
+    input:
+        val bedtools_script
+        path vcf_file
+        val variable_region_interval
+        val assay_type
+
+    output:
+        path "*repeat.vcf"
+
+    script:
+        """
+
+        bash ${bedtools_script} ${vcf_file} ${variable_region_interval} ${assay_type}
+
+        """
+
+}
+
+
+process bedtools_clin_assay {
+    publishDir "${params.out_dir_int}/intersect", mode: 'copy', overwrite: true
+    input:
+        val bedtools_script
+        path vcf_file
+        val amr_genomic_interval
+        val lineage_snps
+        val assay_type
+
+
+    output:
+        path "*intersect.vcf"
+
+
+    script:
+        """
+
+        bash ${bedtools_script} ${vcf_file} ${amr_genomic_interval} ${lineage_snps} ${assay_type}
+
+        """
+}
+
+// Annotations
+
+process snpEff_annotation {
+    publishDir "${params.out_dir_int}/snpeff_annot", mode: 'copy', overwrite: true
+    input:
+        val (snpEff_annot_script) 
+        path (vcf_file) 
+        val (snpeff_jar_path)
+        val (snpeff_config_path)
+
+
+    output:
+        path "*.vcf" , emit: snpeff_annotated_vcf
+        path "*.html" 
+        path "*.txt" 
+
+
+    script:
+    """
+
+    bash ${snpEff_annot_script} ${vcf_file} ${snpeff_jar_path} ${snpeff_config_path}
+
+    """
+}
+
+process custom_annotations {
+    publishDir "${params.out_dir_int}/custom_annot", mode: 'copy', overwrite: true
+
+    input:
+        val custom_annotations_script
+        val gene_annotation_file
+        val gene_annotation_header
+        val lineage_annotation_file
+        val lineage_annotation_header
+        val amr_region_file
+        val amr_region_header
+        val variable_region_annotation_file
+        val variable_region_annotation_header
+        path vcf_file
+
+    output:
+        path "*c_ann.vcf", emit: custom_annotated_vcf
+
+    script:
+        """
+        bash ${custom_annotations_script} ${gene_annotation_file} ${gene_annotation_header} ${lineage_annotation_file} ${lineage_annotation_header} ${amr_region_file} ${amr_region_header} ${variable_region_annotation_file} ${variable_region_annotation_header} ${vcf_file}
+        """
+
+}
+
+process generate_consensus_fasta {
+    publishDir "${params.out_dir_int}/consensus", mode: 'copy', overwrite: true
+    
+    input:
+        val(generate_consensus_script)
+        val(ref_fasta)
+        path vcf_file
+
+    output:
+        path "*consensus.vcf", emit: consensus_fasta_file
+
+    script:
+        """
+
+        bash ${generate_consensus_script} ${ref_fasta} ${vcf_file}
+
+
+        """
+}
+
+
+
+process generate_tree_data {
+
+    publishDir "${params.out_dir_int}/tree", mode: 'copy', overwrite: true
+    input:
+        path collected_fasta
+
+    output:
+        path "tree.nhx", emit: tree_data
+        path "multi-fasta_consensus.fasta", emit: multi_fasta
+        path "multi-fasta_matrix.tsv", emit: snp_matrix
+
+    script:
+        """
+        cat ${collected_fasta} >  multi-fasta_consensus.fasta
+        snp-dists -b multi-fasta_consensus.fasta > multi-fasta_matrix.tsv
+        sreformat stockholm multi-fasta_consensus.fasta > multi-fasta_consensus.stockholm
+        quicktree multi-fasta_consensus.stockholm > tree.nhx
+         
+
+        """
+}
+
+workflow phylo_tree {
+    take:
+        generate_consensus_script_wf
+        fastafile
+        vcf_file_wf
+
+    main:
+        generate_consensus_fasta(generate_consensus_script_wf, fastafile, vcf_file_wf)
+        collected_consensus = generate_consensus_fasta.out | collect
+        generate_tree_data(collected_consensus)
+
+    emit:
+        generate_tree_data.out.tree_data
+
+}
+
+
+process drug_res_profiling {
+    publishDir "${params.out_dir_int}/Drug_resistance_profiling", mode: 'copy', overwrite: true
+    input:
+        val dr_profiling_script
+        path collected_preped_vcfs
+        path collected_sorted_dr_res_catalogue
+        val variant_caller
+        val dp_cov
+        val dr_res_scrpt_2
+        val dr_res_script_3
+        val dr_formatting_script
+
+    output:
+        path "all_dr_variants.json", emit: dr_res_json
+        path "intergenic_dr_variants.json", emit: dr_res_int_json
+        path "dr_profiling_summary.txt"
+        path "detailed_drug_resistance_profile.tsv"
+        path "short_drug_resistance_profile.tsv"
+
+    script:
+        """
+
+        python ${dr_profiling_script} ${collected_preped_vcfs} ${collected_sorted_dr_res_catalogue} ${variant_caller} ${dp_cov} > "dr_profiling_summary.txt"
+
+        Rscript ${dr_formatting_script} --files "all_dr_variants.json" "intergenic_dr_variants.json"
+        
+        """
+}
+
+process snp_typing {
+    publishDir "${params.out_dir_int}/Snp_typing", mode: 'copy', overwrite: true
+
+    input:
+        val snp_typing_python_script
+        path collected_preped_vcfs
+        val prepped_lineage_file
+        val variant_caller
+        val dp_cov
+        val dr_res_scrpt_2
+        val dr_res_script_3
+        val snp_typing_R_formating_script
+
+    
+    output:
+        path "lineage.json", emit: lineage_json
+        path "snp_typing_summary.txt"
+        path "detailed_lineage_assignments.tsv"
+    
+    script:
+    """
+
+    python ${snp_typing_python_script} ${collected_preped_vcfs} ${prepped_lineage_file} ${variant_caller} ${dp_cov} > snp_typing_summary.txt
+
+    Rscript ${snp_typing_R_formating_script} "--files" "lineage.json"
+    """
+}
+
+
+/*process format_dr_lin_in_R {
+    publishDir "${params.out_dir_int}/formatted_dr_lin_results", mode: 'copy', overwrite: true
+    input:
+        val main_formatting_script
+        path dr_res_json
+        path dr_res_int_json
+        path lineage_json
+
+    output:
+        path "detailed_drug_resistance_profile.tsv"
+        path "short_drug_resistance_profile.tsv"
+        path "detailed_lineage_assignments.tsv"
+
+    script:
+        """
+        Rscript ${main_formatting_script} "--files" ${dr_res_json} ${dr_res_int_json} ${lineage_json}
+
+        """
+
+}
+*/

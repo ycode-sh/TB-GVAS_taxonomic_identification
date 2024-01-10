@@ -1,0 +1,5 @@
+##INFO=<ID=lineage,Number=.,Type=String,Description="lineage_annotation">
+##INFO=<ID=exp_allele,Number=.,Type=String,Description="Alternative allele">
+##INFO=<ID=lsp,Number=.,Type=String,Description="Large structural polymorphism">
+##INFO=<ID=spoligotype,Number=.,Type=String,Description="spoligotype">
+##INFO=<ID=lin_ref,Number=.,Type=String,Description="lineage reference">

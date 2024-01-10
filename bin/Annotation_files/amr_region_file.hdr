@@ -1,0 +1,3 @@
+##INFO=<ID=antibiotics_gene,Number=.,Type=String,Description="Genes related to antibiotics resistance">
+##INFO=<ID=related_antibiotics,Number=.,Type=String,Description="Antibiotics implicated in resistance">
+

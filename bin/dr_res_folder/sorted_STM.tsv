@@ -1,0 +1,1523 @@
+STM	gid_A10P		Uncertain_significance
+STM	gid_A10V		Uncertain_significance
+STM	gid_A119D		Uncertain_significance
+STM	gid_A119T		Uncertain_significance
+STM	gid_A119V		Uncertain_significance
+STM	gid_A133G		Uncertain_significance
+STM	gid_A133P		Uncertain_significance
+STM	gid_A133T		Uncertain_significance
+STM	gid_A134E		Assoc_w_R
+STM	gid_A134T		Uncertain_significance
+STM	gid_A138E		Uncertain_significance
+STM	gid_A138L		Uncertain_significance
+STM	gid_A138P		Uncertain_significance
+STM	gid_A138T		Uncertain_significance
+STM	gid_A138V		Uncertain_significance
+STM	gid_A140V		Uncertain_significance
+STM	gid_A141E		Uncertain_significance
+STM	gid_A141T		Uncertain_significance
+STM	gid_A161D		Uncertain_significance
+STM	gid_A161G		Uncertain_significance
+STM	gid_A161P		Uncertain_significance
+STM	gid_A161V		Uncertain_significance
+STM	gid_A167P		Uncertain_significance
+STM	gid_A180G		Uncertain_significance
+STM	gid_A180S		Uncertain_significance
+STM	gid_A183E		Uncertain_significance
+STM	gid_A183T		Uncertain_significance
+STM	gid_A183V		Uncertain_significance
+STM	gid_A193G		Uncertain_significance
+STM	gid_A193P		Uncertain_significance
+STM	gid_A19G		Uncertain_significance
+STM	gid_A19P		Uncertain_significance
+STM	gid_A19S		Uncertain_significance
+STM	gid_A19T		Uncertain_significance
+STM	gid_A200E		Uncertain_significance
+STM	gid_A205E		Uncertain_significance
+STM	gid_A205T		Uncertain_significance
+STM	gid_A219V		Uncertain_significance
+STM	gid_A23P		Uncertain_significance
+STM	gid_A25G		Uncertain_significance
+STM	gid_A25P		Uncertain_significance
+STM	gid_A25V		Uncertain_significance
+STM	gid_A27P		Uncertain_significance
+STM	gid_A53D		Uncertain_significance
+STM	gid_A72T		Uncertain_significance
+STM	gid_A80P		Uncertain_significance
+STM	gid_A80V		Uncertain_significance
+STM	gid_A82E		Uncertain_significance
+STM	gid_A82P		Uncertain_significance
+STM	gid_A8E		Uncertain_significance
+STM	gid_A8V		Uncertain_significance
+STM	gid_C191F		Uncertain_significance
+STM	gid_C191Y		Uncertain_significance
+STM	gid_C52!		Assoc_w_R_Interim
+STM	gid_C52F		Uncertain_significance
+STM	gid_C52R		Uncertain_significance
+STM	gid_C52W		Uncertain_significance
+STM	gid_C52Y		Uncertain_significance
+STM	gid_D107G		Uncertain_significance
+STM	gid_D107H		Uncertain_significance
+STM	gid_D132E		Uncertain_significance
+STM	gid_D169G		Uncertain_significance
+STM	gid_D169H		Uncertain_significance
+STM	gid_D67A		Uncertain_significance
+STM	gid_D67E		Uncertain_significance
+STM	gid_D67G		Uncertain_significance
+STM	gid_D67H		Uncertain_significance
+STM	gid_D85A		Uncertain_significance
+STM	gid_E103!		Assoc_w_R_Interim
+STM	gid_E120A		Uncertain_significance
+STM	gid_E121D		Uncertain_significance
+STM	gid_E170!		Assoc_w_R_Interim
+STM	gid_E170D		Uncertain_significance
+STM	gid_E170K		Uncertain_significance
+STM	gid_E173!		Assoc_w_R_Interim
+STM	gid_E173A		Uncertain_significance
+STM	gid_E32D		Uncertain_significance
+STM	gid_E40A		Uncertain_significance
+STM	gid_E40D		Uncertain_significance
+STM	gid_E40G		Uncertain_significance
+STM	gid_E40K		Uncertain_significance
+STM	gid_E40Q		Uncertain_significance
+STM	gid_E57K		Uncertain_significance
+STM	gid_E57Q		Uncertain_significance
+STM	gid_E60!		Assoc_w_R_Interim
+STM	gid_E92!		Assoc_w_R_Interim
+STM	gid_E92D		Not_assoc_w_R
+STM	gid_E92G		Uncertain_significance
+STM	gid_E92K		Uncertain_significance
+STM	gid_E92Q		Uncertain_significance
+STM	gid_E99!		Assoc_w_R_Interim
+STM	gid_E99G		Uncertain_significance
+STM	gid_E99K		Uncertain_significance
+STM	gid_F100L		Uncertain_significance
+STM	gid_F100V		Uncertain_significance
+STM	gid_F12L		Uncertain_significance
+STM	gid_F12S		Uncertain_significance
+STM	gid_F204L		Uncertain_significance
+STM	gid_F204S		Uncertain_significance
+STM	gid_G109A		Uncertain_significance
+STM	gid_G109D		Uncertain_significance
+STM	gid_G117E		Uncertain_significance
+STM	gid_G117R		Uncertain_significance
+STM	gid_G117V		Uncertain_significance
+STM	gid_G130R		Uncertain_significance
+STM	gid_G157R		Uncertain_significance
+STM	gid_G164C		Uncertain_significance
+STM	gid_G164D		Uncertain_significance
+STM	gid_G164R		Uncertain_significance
+STM	gid_G164V		Uncertain_significance
+STM	gid_G182C		Uncertain_significance
+STM	gid_G192R		Uncertain_significance
+STM	gid_G208E		Uncertain_significance
+STM	gid_G214R		Uncertain_significance
+STM	gid_G221R		Uncertain_significance
+STM	gid_G222R		Uncertain_significance
+STM	gid_G28!		Assoc_w_R_Interim
+STM	gid_G28E		Uncertain_significance
+STM	gid_G28R		Uncertain_significance
+STM	gid_G28V		Uncertain_significance
+STM	gid_G30D		Uncertain_significance
+STM	gid_G30R		Uncertain_significance
+STM	gid_G30V		Uncertain_significance
+STM	gid_G34A		Uncertain_significance
+STM	gid_G34E		Uncertain_significance
+STM	gid_G34R		Uncertain_significance
+STM	gid_G34V		Uncertain_significance
+STM	gid_G34W		Uncertain_significance
+STM	gid_G37!		Assoc_w_R_Interim
+STM	gid_G37A		Uncertain_significance
+STM	gid_G37E		Uncertain_significance
+STM	gid_G37R		Uncertain_significance
+STM	gid_G42V		Uncertain_significance
+STM	gid_G62V		Uncertain_significance
+STM	gid_G69D		Assoc_w_R
+STM	gid_G69I		Uncertain_significance
+STM	gid_G69R		Uncertain_significance
+STM	gid_G69S		Uncertain_significance
+STM	gid_G71!		Assoc_w_R_Interim
+STM	gid_G71E		Uncertain_significance
+STM	gid_G71R		Uncertain_significance
+STM	gid_G73A		Assoc_w_R_Interim
+STM	gid_G73R		Uncertain_significance
+STM	gid_G73W		Uncertain_significance
+STM	gid_G76D		Uncertain_significance
+STM	gid_G76R		Uncertain_significance
+STM	gid_G76S		Uncertain_significance
+STM	gid_H168D		Uncertain_significance
+STM	gid_H174R		Uncertain_significance
+STM	gid_H174Y		Uncertain_significance
+STM	gid_H48D		Uncertain_significance
+STM	gid_H48N		Uncertain_significance
+STM	gid_H48P		Uncertain_significance
+STM	gid_H48Q		Uncertain_significance
+STM	gid_H48R		Uncertain_significance
+STM	gid_H48Y		Uncertain_significance
+STM	gid_I114N		Uncertain_significance
+STM	gid_I11N		Uncertain_significance
+STM	gid_I11T		Uncertain_significance
+STM	gid_I162S		Uncertain_significance
+STM	gid_I179S		Uncertain_significance
+STM	gid_I55V		Uncertain_significance
+STM	gid_I68F		Uncertain_significance
+STM	gid_I68S		Uncertain_significance
+STM	gid_I81R		Uncertain_significance
+STM	gid_K144!		Assoc_w_R_Interim
+STM	gid_K163!		Assoc_w_R_Interim
+STM	gid_K163E		Uncertain_significance
+STM	gid_K163N		Uncertain_significance
+STM	gid_L101F		Uncertain_significance
+STM	gid_L101P		Uncertain_significance
+STM	gid_L101V		Uncertain_significance
+STM	gid_L108P		Uncertain_significance
+STM	gid_L108R		Uncertain_significance
+STM	gid_L108V		Uncertain_significance
+STM	gid_L142S		Uncertain_significance
+STM	gid_L142W		Uncertain_significance
+STM	gid_L145F		Uncertain_significance
+STM	gid_L145S		Uncertain_significance
+STM	gid_L152S		Uncertain_significance
+STM	gid_L160F		Uncertain_significance
+STM	gid_L160R		Uncertain_significance
+STM	gid_L160V		Uncertain_significance
+STM	gid_L16P		Uncertain_significance
+STM	gid_L16R		Not_assoc_w_R
+STM	gid_L26!		Assoc_w_R_Interim
+STM	gid_L26F		Uncertain_significance
+STM	gid_L26S		Uncertain_significance
+STM	gid_L26W		Uncertain_significance
+STM	gid_L35M		Uncertain_significance
+STM	gid_L35P		Uncertain_significance
+STM	gid_L35R		Uncertain_significance
+STM	gid_L44Q		Uncertain_significance
+STM	gid_L44R		Uncertain_significance
+STM	gid_L49P		Uncertain_significance
+STM	gid_L49R		Uncertain_significance
+STM	gid_L49V		Uncertain_significance
+STM	gid_L50M		Uncertain_significance
+STM	gid_L50P		Uncertain_significance
+STM	gid_L50R		Uncertain_significance
+STM	gid_L58F		Uncertain_significance
+STM	gid_L58P		Uncertain_significance
+STM	gid_L59R		Uncertain_significance
+STM	gid_L74!		Assoc_w_R_Interim
+STM	gid_L74F		Uncertain_significance
+STM	gid_L74S		Uncertain_significance
+STM	gid_L79!		Assoc_w_R_Interim
+STM	gid_L79F		Uncertain_significance
+STM	gid_L79S		Uncertain_significance
+STM	gid_L79W		Uncertain_significance
+STM	gid_L86F		Uncertain_significance
+STM	gid_L86H		Uncertain_significance
+STM	gid_L86P		Uncertain_significance
+STM	gid_L86R		Uncertain_significance
+STM	gid_L90F		Uncertain_significance
+STM	gid_L90P		Uncertain_significance
+STM	gid_L90R		Uncertain_significance
+STM	gid_L90V		Uncertain_significance
+STM	gid_L91I		Uncertain_significance
+STM	gid_L91P		Uncertain_significance
+STM	gid_L91R		Uncertain_significance
+STM	gid_L91V		Uncertain_significance
+STM	gid_L94R		Uncertain_significance
+STM	gid_L95V		Uncertain_significance
+STM	gid_M104K		Uncertain_significance
+STM	gid_M104R		Uncertain_significance
+STM	gid_M150R		Uncertain_significance
+STM	gid_M150T		Uncertain_significance
+STM	gid_M159T		Uncertain_significance
+STM	gid_M178I		Uncertain_significance
+STM	gid_M178R		Uncertain_significance
+STM	gid_M218V		Uncertain_significance
+STM	gid_N51D		Uncertain_significance
+STM	gid_N51K		Uncertain_significance
+STM	gid_P151L		Uncertain_significance
+STM	gid_P151S		Uncertain_significance
+STM	gid_P155S		Uncertain_significance
+STM	gid_P198L		Uncertain_significance
+STM	gid_P198R		Uncertain_significance
+STM	gid_P199A		Uncertain_significance
+STM	gid_P38S		Uncertain_significance
+STM	gid_P3S		Uncertain_significance
+STM	gid_P6A		Uncertain_significance
+STM	gid_P6L		Uncertain_significance
+STM	gid_P6R		Uncertain_significance
+STM	gid_P6T		Uncertain_significance
+STM	gid_P75A		Uncertain_significance
+STM	gid_P75L		Uncertain_significance
+STM	gid_P75R		Assoc_w_R
+STM	gid_P75S		Uncertain_significance
+STM	gid_P75T		Uncertain_significance
+STM	gid_P78L		Uncertain_significance
+STM	gid_P78Q		Uncertain_significance
+STM	gid_P78R		Uncertain_significance
+STM	gid_P84L		Assoc_w_R_Interim
+STM	gid_P84T		Uncertain_significance
+STM	gid_P93L		Uncertain_significance
+STM	gid_P93Q		Uncertain_significance
+STM	gid_Q125!		Assoc_w_R
+STM	gid_Q127!		Assoc_w_R_Interim
+STM	gid_Q127E		Uncertain_significance
+STM	gid_Q210H		Uncertain_significance
+STM	gid_Q87!		Assoc_w_R_Interim
+STM	gid_Q87E		Uncertain_significance
+STM	gid_Q87P		Uncertain_significance
+STM	gid_R102!		Assoc_w_R_Interim
+STM	gid_R102G		Uncertain_significance
+STM	gid_R102P		Uncertain_significance
+STM	gid_R116W		Uncertain_significance
+STM	gid_R118L		Uncertain_significance
+STM	gid_R118P		Uncertain_significance
+STM	gid_R118S		Uncertain_significance
+STM	gid_R137G		Uncertain_significance
+STM	gid_R137L		Uncertain_significance
+STM	gid_R137P		Uncertain_significance
+STM	gid_R137Q		Uncertain_significance
+STM	gid_R137W		Uncertain_significance
+STM	gid_R154P		Uncertain_significance
+STM	gid_R154W		Uncertain_significance
+STM	gid_R15W		Uncertain_significance
+STM	gid_R166W		Uncertain_significance
+STM	gid_R172Q		Uncertain_significance
+STM	gid_R175G		Uncertain_significance
+STM	gid_R176C		Uncertain_significance
+STM	gid_R187S		Uncertain_significance
+STM	gid_R197C		Uncertain_significance
+STM	gid_R197P		Uncertain_significance
+STM	gid_R206!		Assoc_w_R_Interim
+STM	gid_R207H		Uncertain_significance
+STM	gid_R20G		Uncertain_significance
+STM	gid_R20P		Uncertain_significance
+STM	gid_R20Q		Uncertain_significance
+STM	gid_R213!		Assoc_w_R_Interim
+STM	gid_R217W		Uncertain_significance
+STM	gid_R21P		Uncertain_significance
+STM	gid_R33P		Uncertain_significance
+STM	gid_R39C		Uncertain_significance
+STM	gid_R47L		Uncertain_significance
+STM	gid_R47Q		Uncertain_significance
+STM	gid_R47W		Uncertain_significance
+STM	gid_R64P		Uncertain_significance
+STM	gid_R64Q		Uncertain_significance
+STM	gid_R64W		Uncertain_significance
+STM	gid_R83G		Uncertain_significance
+STM	gid_R83L		Uncertain_significance
+STM	gid_R83P		Uncertain_significance
+STM	gid_R83Q		Uncertain_significance
+STM	gid_R83W		Uncertain_significance
+STM	gid_R96C		Uncertain_significance
+STM	gid_R96H		Uncertain_significance
+STM	gid_R96L		Uncertain_significance
+STM	gid_R96P		Uncertain_significance
+STM	gid_R97C		Uncertain_significance
+STM	gid_R97H		Uncertain_significance
+STM	gid_R97L		Uncertain_significance
+STM	gid_S131R		Uncertain_significance
+STM	gid_S131T		Uncertain_significance
+STM	gid_S136!		Assoc_w_R_Interim
+STM	gid_S136A		Uncertain_significance
+STM	gid_S136P		Uncertain_significance
+STM	gid_S149C		Uncertain_significance
+STM	gid_S149N		Uncertain_significance
+STM	gid_S149R		Uncertain_significance
+STM	gid_S149T		Uncertain_significance
+STM	gid_S181L		Uncertain_significance
+STM	gid_S70G		Uncertain_significance
+STM	gid_S70N		Uncertain_significance
+STM	gid_S70R		Uncertain_significance
+STM	gid_S9P		Uncertain_significance
+STM	gid_T146A		Uncertain_significance
+STM	gid_T146K		Uncertain_significance
+STM	gid_T146M		Uncertain_significance
+STM	gid_T190A		Uncertain_significance
+STM	gid_T190I		Uncertain_significance
+STM	gid_T190P		Uncertain_significance
+STM	gid_T201N		Uncertain_significance
+STM	gid_T98P		Uncertain_significance
+STM	gid_V105E		Uncertain_significance
+STM	gid_V105G		Uncertain_significance
+STM	gid_V110A		Uncertain_significance
+STM	gid_V110G		Not_assoc_w_R_Interim
+STM	gid_V112G		Uncertain_significance
+STM	gid_V115G		Uncertain_significance
+STM	gid_V124A		Uncertain_significance
+STM	gid_V124G		Uncertain_significance
+STM	gid_V124L		Uncertain_significance
+STM	gid_V135G		Uncertain_significance
+STM	gid_V135M		Uncertain_significance
+STM	gid_V139A		Uncertain_significance
+STM	gid_V139L		Uncertain_significance
+STM	gid_V171G		Uncertain_significance
+STM	gid_V171L		Uncertain_significance
+STM	gid_V177L		Uncertain_significance
+STM	gid_V177M		Uncertain_significance
+STM	gid_V186F		Uncertain_significance
+STM	gid_V188A		Uncertain_significance
+STM	gid_V188G		Uncertain_significance
+STM	gid_V202A		Uncertain_significance
+STM	gid_V202G		Uncertain_significance
+STM	gid_V202L		Uncertain_significance
+STM	gid_V203E		Uncertain_significance
+STM	gid_V203L		Uncertain_significance
+STM	gid_V36A		Uncertain_significance
+STM	gid_V36G		Uncertain_significance
+STM	gid_V41A		Uncertain_significance
+STM	gid_V41G		Uncertain_significance
+STM	gid_V41I		Uncertain_significance
+STM	gid_V41L		Uncertain_significance
+STM	gid_V65A		Uncertain_significance
+STM	gid_V65F		Uncertain_significance
+STM	gid_V65G		Uncertain_significance
+STM	gid_V65I		Uncertain_significance
+STM	gid_V66G		Uncertain_significance
+STM	gid_V66M		Uncertain_significance
+STM	gid_V77A		Uncertain_significance
+STM	gid_V77G		Uncertain_significance
+STM	gid_V88A		Uncertain_significance
+STM	gid_V88G		Uncertain_significance
+STM	gid_V89A		Uncertain_significance
+STM	gid_W148!		Assoc_w_R_Interim
+STM	gid_W148C		Uncertain_significance
+STM	gid_W148L		Uncertain_significance
+STM	gid_W148R		Uncertain_significance
+STM	gid_W45!		Assoc_w_R_Interim
+STM	gid_W45C		Uncertain_significance
+STM	gid_W45R		Uncertain_significance
+STM	gid_W45S		Uncertain_significance
+STM	gid_Y195!		Assoc_w_R_Interim
+STM	gid_Y195H		Not_assoc_w_R
+STM	gid_Y22!		Assoc_w_R_Interim
+STM	gid_Y22C		Uncertain_significance
+STM	gid_Y22H		Uncertain_significance
+STM	gid_Y22N		Uncertain_significance
+STM	gid_Y22S		Uncertain_significance
+STM	rpsL_A113G		Uncertain_significance
+STM	rpsL_D14E		Uncertain_significance
+STM	rpsL_E122K		Uncertain_significance
+STM	rpsL_E70A		Uncertain_significance
+STM	rpsL_E76A		Uncertain_significance
+STM	rpsL_G106C		Uncertain_significance
+STM	rpsL_G124S		Uncertain_significance
+STM	rpsL_G71D		Uncertain_significance
+STM	rpsL_I16T		Uncertain_significance
+STM	rpsL_I16V		Uncertain_significance
+STM	rpsL_K108T		Uncertain_significance
+STM	rpsL_K10T		Uncertain_significance
+STM	rpsL_K123!		Uncertain_significance
+STM	rpsL_K43M		Uncertain_significance
+STM	rpsL_K43N		Uncertain_significance
+STM	rpsL_K43R		Assoc_w_R
+STM	rpsL_K43R		combo
+STM	rrs_a1401g		combo
+STM	rpsL_K43T		Uncertain_significance
+STM	rpsL_K88M		Assoc_w_R
+STM	rpsL_K88Q		Assoc_w_R_Interim
+STM	rpsL_K88R		Assoc_w_R
+STM	rpsL_K88T		Uncertain_significance
+STM	rpsL_N73K		Uncertain_significance
+STM	rpsL_P2R		Uncertain_significance
+STM	rpsL_P91S		Uncertain_significance
+STM	rpsL_Q105E		Uncertain_significance
+STM	rpsL_R86Q		Uncertain_significance
+STM	rpsL_S17N		Uncertain_significance
+STM	rpsL_S17R		Uncertain_significance
+STM	rpsL_T35A		Uncertain_significance
+STM	rpsL_T58A		Uncertain_significance
+STM	rpsL_T64M		Uncertain_significance
+STM	rpsL_V107A		Uncertain_significance
+STM	rpsL_V55M		Uncertain_significance
+STM	rpsL_V63I		Uncertain_significance
+STM	Rv1258c_A113E		Uncertain_significance
+STM	Rv1258c_A113V		Uncertain_significance
+STM	Rv1258c_A135T		Uncertain_significance
+STM	Rv1258c_A148T		Uncertain_significance
+STM	Rv1258c_A166T		Uncertain_significance
+STM	Rv1258c_A178V		Uncertain_significance
+STM	Rv1258c_A19T		Uncertain_significance
+STM	Rv1258c_A237G		Uncertain_significance
+STM	Rv1258c_A237V		Uncertain_significance
+STM	Rv1258c_A275V		Uncertain_significance
+STM	Rv1258c_A294S		Uncertain_significance
+STM	Rv1258c_A29E		Uncertain_significance
+STM	Rv1258c_A29V		Uncertain_significance
+STM	Rv1258c_A367G		Uncertain_significance
+STM	Rv1258c_A367T		Uncertain_significance
+STM	Rv1258c_A373V		Uncertain_significance
+STM	Rv1258c_A374P		Uncertain_significance
+STM	Rv1258c_A394T		Uncertain_significance
+STM	Rv1258c_A399V		Uncertain_significance
+STM	Rv1258c_A41G		Uncertain_significance
+STM	Rv1258c_A58S		Uncertain_significance
+STM	Rv1258c_A65T		Uncertain_significance
+STM	Rv1258c_A78T		Uncertain_significance
+STM	Rv1258c_D23V		Uncertain_significance
+STM	Rv1258c_D404N		Uncertain_significance
+STM	Rv1258c_D67N		Uncertain_significance
+STM	Rv1258c_E214K		Uncertain_significance
+STM	Rv1258c_E243A		Uncertain_significance
+STM	Rv1258c_E38K		Uncertain_significance
+STM	Rv1258c_G195D		Uncertain_significance
+STM	Rv1258c_G211R		Uncertain_significance
+STM	Rv1258c_G215E		Uncertain_significance
+STM	Rv1258c_G229R		Uncertain_significance
+STM	Rv1258c_G24C		Uncertain_significance
+STM	Rv1258c_G360D		Uncertain_significance
+STM	Rv1258c_G363V		Uncertain_significance
+STM	Rv1258c_G391R		Uncertain_significance
+STM	Rv1258c_G70R		Uncertain_significance
+STM	Rv1258c_G95E		Uncertain_significance
+STM	Rv1258c_G97D		Uncertain_significance
+STM	Rv1258c_H254R		Uncertain_significance
+STM	Rv1258c_I185T		Uncertain_significance
+STM	Rv1258c_I283V		Uncertain_significance
+STM	Rv1258c_L240P		Uncertain_significance
+STM	Rv1258c_L240R		Uncertain_significance
+STM	Rv1258c_L296V		Uncertain_significance
+STM	Rv1258c_L370P		Uncertain_significance
+STM	Rv1258c_L397P		Uncertain_significance
+STM	Rv1258c_L60V		Uncertain_significance
+STM	Rv1258c_M121V		Uncertain_significance
+STM	Rv1258c_M18T		Uncertain_significance
+STM	Rv1258c_M1I		Uncertain_significance
+STM	Rv1258c_M242T		Uncertain_significance
+STM	Rv1258c_M315I		Uncertain_significance
+STM	Rv1258c_M76V		Uncertain_significance
+STM	Rv1258c_N151K		Uncertain_significance
+STM	Rv1258c_P129R		Uncertain_significance
+STM	Rv1258c_P248T		Uncertain_significance
+STM	Rv1258c_P257L		Uncertain_significance
+STM	Rv1258c_P361S		Uncertain_significance
+STM	Rv1258c_P369T		Uncertain_significance
+STM	Rv1258c_P414S		Uncertain_significance
+STM	Rv1258c_P54L		Uncertain_significance
+STM	Rv1258c_P8L		Uncertain_significance
+STM	Rv1258c_P90H		Uncertain_significance
+STM	Rv1258c_Q259L		Uncertain_significance
+STM	Rv1258c_Q329!		Uncertain_significance
+STM	Rv1258c_Q337P		Uncertain_significance
+STM	Rv1258c_Q43H		Uncertain_significance
+STM	Rv1258c_R345C		Uncertain_significance
+STM	Rv1258c_R347Q		Uncertain_significance
+STM	Rv1258c_R396W		Uncertain_significance
+STM	Rv1258c_S126L		Uncertain_significance
+STM	Rv1258c_S184P		Uncertain_significance
+STM	Rv1258c_S40N		Uncertain_significance
+STM	Rv1258c_T167P		Uncertain_significance
+STM	Rv1258c_T16M		Uncertain_significance
+STM	Rv1258c_T173I		Uncertain_significance
+STM	Rv1258c_T173P		Uncertain_significance
+STM	Rv1258c_T202A		Uncertain_significance
+STM	Rv1258c_T290I		Uncertain_significance
+STM	Rv1258c_T297I		Uncertain_significance
+STM	Rv1258c_T338A		Uncertain_significance
+STM	Rv1258c_T371I		Uncertain_significance
+STM	Rv1258c_T379K		Uncertain_significance
+STM	Rv1258c_T390S		Uncertain_significance
+STM	Rv1258c_T51A		Uncertain_significance
+STM	Rv1258c_T59A		Uncertain_significance
+STM	Rv1258c_T64S		Uncertain_significance
+STM	Rv1258c_V219A		Uncertain_significance
+STM	Rv1258c_V224A		Uncertain_significance
+STM	Rv1258c_V245M		Uncertain_significance
+STM	Rv1258c_V25I		Uncertain_significance
+STM	Rv1258c_V280L		Uncertain_significance
+STM	Rv1258c_V285I		Uncertain_significance
+STM	Rv1258c_V304A		Uncertain_significance
+STM	Rv1258c_V335M		Uncertain_significance
+STM	Rv1258c_V388M		Uncertain_significance
+STM	Rv1258c_V66I		Uncertain_significance
+STM	Rv1258c_W220C		Uncertain_significance
+STM	Rv1258c_W220!		Uncertain_significance
+STM	Rv1258c_Y250H		Uncertain_significance
+STM	Rv1258c_Y325C		Uncertain_significance
+STM	Rv1258c_Y334C		Uncertain_significance
+STM	whiB6_A25P		Uncertain_significance
+STM	whiB6_A25T		Uncertain_significance
+STM	whiB6_A49D		Uncertain_significance
+STM	whiB6_A49V		Uncertain_significance
+STM	whiB6_A55D		Uncertain_significance
+STM	whiB6_A55P		Uncertain_significance
+STM	whiB6_A66T		Uncertain_significance
+STM	whiB6_A66V		Uncertain_significance
+STM	whiB6_A6E		Uncertain_significance
+STM	whiB6_A6V		Uncertain_significance
+STM	whiB6_A72E		Uncertain_significance
+STM	whiB6_A72G		Uncertain_significance
+STM	whiB6_A77V		Uncertain_significance
+STM	whiB6_A87S		Uncertain_significance
+STM	whiB6_A89E		Uncertain_significance
+STM	whiB6_A89T		Uncertain_significance
+STM	whiB6_A91G		Uncertain_significance
+STM	whiB6_A91S		Uncertain_significance
+STM	whiB6_A91V		Uncertain_significance
+STM	whiB6_A99V		Uncertain_significance
+STM	whiB6_A9S		Uncertain_significance
+STM	whiB6_C34Y		Uncertain_significance
+STM	whiB6_C53G		Uncertain_significance
+STM	whiB6_C53R		Uncertain_significance
+STM	whiB6_C53W		Uncertain_significance
+STM	whiB6_C56W		Uncertain_significance
+STM	whiB6_C62S		Uncertain_significance
+STM	whiB6_D37G		Uncertain_significance
+STM	whiB6_D39G		Uncertain_significance
+STM	whiB6_D46A		Uncertain_significance
+STM	whiB6_D65Y		Uncertain_significance
+STM	whiB6_E28K		Uncertain_significance
+STM	whiB6_E83K		Uncertain_significance
+STM	whiB6_E8D		Uncertain_significance
+STM	whiB6_E8G		Uncertain_significance
+STM	whiB6_E8K		Uncertain_significance
+STM	whiB6_F5S		Uncertain_significance
+STM	whiB6_F90C		Uncertain_significance
+STM	whiB6_G32S		Uncertain_significance
+STM	whiB6_G71A		Uncertain_significance
+STM	whiB6_G74E		Uncertain_significance
+STM	whiB6_G74R		Uncertain_significance
+STM	whiB6_G85S		Uncertain_significance
+STM	whiB6_H109Y		Uncertain_significance
+STM	whiB6_K50E		Uncertain_significance
+STM	whiB6_L52Q		Uncertain_significance
+STM	whiB6_L75Q		Uncertain_significance
+STM	whiB6_L92S		Uncertain_significance
+STM	whiB6_L95P		Uncertain_significance
+STM	whiB6_L98P		Uncertain_significance
+STM	whiB6_L98R		Uncertain_significance
+STM	whiB6_M1T		Uncertain_significance
+STM	whiB6_M1V		Uncertain_significance
+STM	whiB6_M21I		Uncertain_significance
+STM	whiB6_M21T		Uncertain_significance
+STM	whiB6_N102D		Uncertain_significance
+STM	whiB6_P105Q		Uncertain_significance
+STM	whiB6_P30S		Uncertain_significance
+STM	whiB6_P38L		Uncertain_significance
+STM	whiB6_P38S		Uncertain_significance
+STM	whiB6_P45S		Uncertain_significance
+STM	whiB6_P82L		Uncertain_significance
+STM	whiB6_Q36!		Uncertain_significance
+STM	whiB6_Q94E		Uncertain_significance
+STM	whiB6_R101C		Uncertain_significance
+STM	whiB6_R107C		Uncertain_significance
+STM	whiB6_R107P		Uncertain_significance
+STM	whiB6_R110W		Uncertain_significance
+STM	whiB6_R17G		Uncertain_significance
+STM	whiB6_R17K		Uncertain_significance
+STM	whiB6_R17T		Uncertain_significance
+STM	whiB6_R40C		Uncertain_significance
+STM	whiB6_R40H		Uncertain_significance
+STM	whiB6_R40L		Uncertain_significance
+STM	whiB6_R54G		Uncertain_significance
+STM	whiB6_R54P		Uncertain_significance
+STM	whiB6_R54Q		Not_assoc_w_R
+STM	whiB6_R58G		Uncertain_significance
+STM	whiB6_R59L		Uncertain_significance
+STM	whiB6_R64C		Uncertain_significance
+STM	whiB6_R64S		Uncertain_significance
+STM	whiB6_R88W		Uncertain_significance
+STM	whiB6_S115A		Uncertain_significance
+STM	whiB6_S69P		Uncertain_significance
+STM	whiB6_T11A		Uncertain_significance
+STM	whiB6_T22K		Uncertain_significance
+STM	whiB6_T42M		Uncertain_significance
+STM	whiB6_T42P		Uncertain_significance
+STM	whiB6_T43M		Uncertain_significance
+STM	whiB6_T43P		Uncertain_significance
+STM	whiB6_T44P		Uncertain_significance
+STM	whiB6_T51P		Uncertain_significance
+STM	whiB6_V106M		Uncertain_significance
+STM	whiB6_V33G		Uncertain_significance
+STM	whiB6_V79A		Uncertain_significance
+STM	whiB6_V79G		Uncertain_significance
+STM	whiB6_V80I		Uncertain_significance
+STM	whiB6_W16C		Uncertain_significance
+STM	whiB6_W16R		Uncertain_significance
+STM	whiB6_W16S		Uncertain_significance
+STM	whiB6_W41S		Uncertain_significance
+STM	whiB6_W41!		Uncertain_significance
+STM	whiB6_W76G		Uncertain_significance
+STM	whiB6_W76R		Uncertain_significance
+STM	whiB6_W76!		Uncertain_significance
+STM	whiB6_Y27!		Uncertain_significance
+STM	whiB6_Y3C		Uncertain_significance
+STM	whiB6_Y3S		Uncertain_significance
+STM	whiB7_A39T		Uncertain_significance
+STM	whiB7_A55E		Uncertain_significance
+STM	whiB7_C20Y		Uncertain_significance
+STM	whiB7_D24H		Uncertain_significance
+STM	whiB7_D26G		Uncertain_significance
+STM	whiB7_E69K		Uncertain_significance
+STM	whiB7_F29S		Uncertain_significance
+STM	whiB7_H79Q		Uncertain_significance
+STM	whiB7_K80Q		Uncertain_significance
+STM	whiB7_K88T		Uncertain_significance
+STM	whiB7_L18F		Uncertain_significance
+STM	whiB7_L36F		Uncertain_significance
+STM	whiB7_L42P		Uncertain_significance
+STM	whiB7_P11S		Uncertain_significance
+STM	whiB7_P33L		Uncertain_significance
+STM	whiB7_P62T		Uncertain_significance
+STM	whiB7_P82A		Uncertain_significance
+STM	whiB7_Q58H		Uncertain_significance
+STM	whiB7_R50L		Uncertain_significance
+STM	whiB7_R50P		Uncertain_significance
+STM	whiB7_R59W		Uncertain_significance
+STM	whiB7_R81C		Uncertain_significance
+STM	whiB7_R81H		Uncertain_significance
+STM	whiB7_R87C		Uncertain_significance
+STM	whiB7_S2A		Uncertain_significance
+STM	whiB7_S78N		Uncertain_significance
+STM	whiB7_V38L		Uncertain_significance
+STM	rpsL_c-259t_(Rv0681_194)	781301	Not_assoc_w_R
+STM	rpsL_-258_del_4_gtcaa_g_(Rv0681_582)	781302	Uncertain_significance
+STM	rpsL_a-254g_(Rv0681_196)	781306	Uncertain_significance
+STM	rpsL_g-247t	781313	Uncertain_significance
+STM	rpsL_c-244t	781316	Uncertain_significance
+STM	rpsL_-234_del_1_cg_c	781326	Uncertain_significance
+STM	rpsL_c-225g	781335	Uncertain_significance
+STM	rpsL_c-208g	781352	Uncertain_significance
+STM	rpsL_c-204t	781356	Uncertain_significance
+STM	rpsL_g-191a	781369	Uncertain_significance
+STM	rpsL_t-189a	781371	Uncertain_significance
+STM	rpsL_t-188c	781372	Uncertain_significance
+STM	rpsL_t-188g	781372	Uncertain_significance
+STM	rpsL_g-187c	781373	Uncertain_significance
+STM	rpsL_t-185a	781375	Uncertain_significance
+STM	rpsL_g-183a	781377	Uncertain_significance
+STM	rpsL_c-180t	781380	Uncertain_significance
+STM	rpsL_c-179t	781381	Uncertain_significance
+STM	rpsL_t-178g	781382	Uncertain_significance
+STM	rpsL_c-175g	781385	Uncertain_significance
+STM	rpsL_t-170c	781390	Uncertain_significance
+STM	rpsL_-166_ins_1_cttgatgtagggg_cctgatgtaggggc	781394	Uncertain_significance
+STM	rpsL_c-166t	781394	Uncertain_significance
+STM	rpsL_t-165c	781395	Not_assoc_w_R
+STM	rpsL_g-156c	781404	Uncertain_significance
+STM	rpsL_-154_ins_1_g_gc	781406	Uncertain_significance
+STM	rpsL_g-149a	781411	Uncertain_significance
+STM	rpsL_g-146a	781414	Uncertain_significance
+STM	rpsL_c-139a	781421	Uncertain_significance
+STM	rpsL_c-139t	781421	Uncertain_significance
+STM	rpsL_a-137g	781423	Uncertain_significance
+STM	rpsL_c-134t	781426	Uncertain_significance
+STM	rpsL_g-125c	781435	Uncertain_significance
+STM	rpsL_c-124a	781436	Uncertain_significance
+STM	rpsL_c-107t	781453	Uncertain_significance
+STM	rpsL_c-102t	781458	Uncertain_significance
+STM	rpsL_a-94t	781466	Uncertain_significance
+STM	rpsL_c-91t	781469	Uncertain_significance
+STM	rpsL_-81_del_4_gacac_g	781479	Uncertain_significance
+STM	rpsL_c-79a	781481	Uncertain_significance
+STM	rpsL_c-77t	781483	Uncertain_significance
+STM	rpsL_g-58t	781502	Uncertain_significance
+STM	rpsL_-40_ins_12_c_caaacagaacgtg	781520	Uncertain_significance
+STM	rpsL_c-31t	781529	Uncertain_significance
+STM	rpsL_c-19t	781541	Uncertain_significance
+STM	Rv1258c_1125_ins_1_t_tc	1406216	Uncertain_significance
+STM	Rv1258c_926_del_5663_ggcaggaacgcgatgaccatcgatgccaaacccagggtaagaaccgcggt_gtcg	1406415	Uncertain_significance
+STM	Rv1258c_893_ins_1_a_at	1406448	Uncertain_significance
+STM	Rv1258c_753_del_1_ga_g	1406588	Uncertain_significance
+STM	Rv1258c_741_ins_1_g_ga	1406600	Uncertain_significance
+STM	Rv1258c_614_del_21_ggccgcgaggtgtggtgcggct_g	1406727	Uncertain_significance
+STM	Rv1258c_585_ins_1_accct_atcctg	1406756	Uncertain_significance
+STM	Rv1258c_581_ins_1_tc_tgc	1406760	Uncertain_significance
+STM	Rv1258c_581_ins_1_t_tg	1406760	Not_assoc_w_R
+STM	Rv1258c_549_del_1_ca_c	1406792	Uncertain_significance
+STM	Rv1258c_521_del_2_attg_at	1406820	Uncertain_significance
+STM	Rv1258c_354_del_1_cgggccgaaggc_ctggccgtatt	1406987	Uncertain_significance
+STM	Rv1258c_297_del_3_gtcgc_gt	1407044	Uncertain_significance
+STM	Rv1258c_272_ins_1_a_ag	1407069	Uncertain_significance
+STM	Rv1258c_262_del_1_cg_c	1407079	Uncertain_significance
+STM	Rv1258c_162_del_1_cg_c	1407179	Uncertain_significance
+STM	Rv1258c_151_del_28_tcgcactggccacgatcgaggcctgccca_t	1407190	Uncertain_significance
+STM	Rv1258c_15_del_1_gt_g	1407326	Uncertain_significance
+STM	Rv1258c_t-16c_(udgB_6)	1407356	Uncertain_significance
+STM	Rv1258c_c-23t_(udgB_9)	1407363	Uncertain_significance
+STM	Rv1258c_g-25a_(udgB_9)	1407365	Uncertain_significance
+STM	Rv1258c_g-25t_(udgB_9)	1407365	Uncertain_significance
+STM	Rv1258c_g-30a_(udgB_11)	1407370	Uncertain_significance
+STM	Rv1258c_a-33g_(udgB_12)	1407373	Uncertain_significance
+STM	Rv1258c_-35_del_1_tg_t_(udgB_37)	1407375	Uncertain_significance
+STM	Rv1258c_c-40t_(udgB_14)	1407380	Uncertain_significance
+STM	Rv1258c_g-45t_(udgB_16)	1407385	Uncertain_significance
+STM	Rv1258c_-54_del_9_gcgctgccgca_gc_(udgB_56)	1407394	Uncertain_significance
+STM	Rv1258c_-55_del_6_cgctgccgca_cgct_(udgB_57)	1407395	Uncertain_significance
+STM	Rv1258c_-55_del_9_cgctgccgca_c_(udgB_57)	1407395	Uncertain_significance
+STM	Rv1258c_g-66a_(udgB_23)	1407406	Uncertain_significance
+STM	Rv1258c_g-67a_(udgB_23)	1407407	Uncertain_significance
+STM	rrs_t-324g_(murA_401)	1471522	Uncertain_significance
+STM	rrs_g-286a_(murA_414)	1471560	Uncertain_significance
+STM	rrs_c-275t_(murA_417)	1471571	Uncertain_significance
+STM	rrs_t-274c_(murA_418)	1471572	Uncertain_significance
+STM	rrs_g-263a	1471583	Uncertain_significance
+STM	rrs_a-259c	1471587	Uncertain_significance
+STM	rrs_a-255g	1471591	Uncertain_significance
+STM	rrs_t-254c	1471592	Uncertain_significance
+STM	rrs_t-246c	1471600	Uncertain_significance
+STM	rrs_a-245g	1471601	Uncertain_significance
+STM	rrs_g-239a	1471607	Uncertain_significance
+STM	rrs_-235_del_1_ga_g	1471611	Uncertain_significance
+STM	rrs_a-233g	1471613	Uncertain_significance
+STM	rrs_c-231g	1471615	Uncertain_significance
+STM	rrs_c-231t	1471615	Uncertain_significance
+STM	rrs_t-227a	1471619	Uncertain_significance
+STM	rrs_t-216c	1471630	Uncertain_significance
+STM	rrs_c-213g	1471633	Uncertain_significance
+STM	rrs_c-212t	1471634	Uncertain_significance
+STM	rrs_t-202c	1471644	Uncertain_significance
+STM	rrs_g-199a	1471647	Uncertain_significance
+STM	rrs_g-199c	1471647	Uncertain_significance
+STM	rrs_g-199t	1471647	Uncertain_significance
+STM	rrs_a-198c	1471648	Uncertain_significance
+STM	rrs_c-197a	1471649	Uncertain_significance
+STM	rrs_c-197g	1471649	Uncertain_significance
+STM	rrs_g-195c	1471651	Uncertain_significance
+STM	rrs_c-193t	1471653	Uncertain_significance
+STM	rrs_a-192g	1471654	Uncertain_significance
+STM	rrs_g-191a	1471655	Uncertain_significance
+STM	rrs_g-191c	1471655	Uncertain_significance
+STM	rrs_g-190a	1471656	Uncertain_significance
+STM	rrs_t-188c	1471658	Uncertain_significance
+STM	rrs_c-187t	1471659	Not_assoc_w_R
+STM	rrs_g-186a	1471660	Uncertain_significance
+STM	rrs_g-186c	1471660	Uncertain_significance
+STM	rrs_c-185t	1471661	Uncertain_significance
+STM	rrs_a-180c	1471666	Uncertain_significance
+STM	rrs_a-179g	1471667	Uncertain_significance
+STM	rrs_c-177t	1471669	Uncertain_significance
+STM	rrs_g-176a	1471670	Uncertain_significance
+STM	rrs_g-174a	1471672	Uncertain_significance
+STM	rrs_a-168c	1471678	Uncertain_significance
+STM	rrs_a-161g	1471685	Uncertain_significance
+STM	rrs_t-154c	1471692	Uncertain_significance
+STM	rrs_a-141g	1471705	Uncertain_significance
+STM	rrs_a-140c	1471706	Uncertain_significance
+STM	rrs_t-134c	1471712	Uncertain_significance
+STM	rrs_-118_ins_1_a_at	1471728	Uncertain_significance
+STM	rrs_a-118c	1471728	Uncertain_significance
+STM	rrs_g-112t	1471734	Uncertain_significance
+STM	rrs_-109_ins_1_gttatttttggc_gttatttttgggc	1471737	Uncertain_significance
+STM	rrs_-101_ins_1_t_tg	1471745	Uncertain_significance
+STM	rrs_t-92g	1471754	Uncertain_significance
+STM	rrs_t-89c	1471757	Uncertain_significance
+STM	rrs_c-82t	1471764	Uncertain_significance
+STM	rrs_t-78c	1471768	Uncertain_significance
+STM	rrs_g-77c	1471769	Uncertain_significance
+STM	rrs_t-76c	1471770	Uncertain_significance
+STM	rrs_t-76g	1471770	Uncertain_significance
+STM	rrs_g-74t	1471772	Uncertain_significance
+STM	rrs_g-71a	1471775	Uncertain_significance
+STM	rrs_g-70c	1471776	Uncertain_significance
+STM	rrs_c-69g	1471777	Uncertain_significance
+STM	rrs_c-69t	1471777	Uncertain_significance
+STM	rrs_g-68c	1471778	Uncertain_significance
+STM	rrs_t-67c	1471779	Uncertain_significance
+STM	rrs_g-65a	1471781	Uncertain_significance
+STM	rrs_c-63g	1471783	Uncertain_significance
+STM	rrs_t-56c	1471790	Uncertain_significance
+STM	rrs_t-52g	1471794	Uncertain_significance
+STM	rrs_-42_ins_1_tctaaatacc_tctaaaatacc	1471804	Uncertain_significance
+STM	rrs_-38_ins_1_a_ag	1471808	Uncertain_significance
+STM	rrs_a-35g	1471811	Uncertain_significance
+STM	rrs_t-32c	1471814	Uncertain_significance
+STM	rrs_t-32g	1471814	Uncertain_significance
+STM	rrs_c-27a	1471819	Uncertain_significance
+STM	rrs_-26_ins_10_tcccttt_tcccttttccaaaggga	1471820	Uncertain_significance
+STM	rrs_c-23t	1471823	Uncertain_significance
+STM	rrs_-20_ins_10_t_ttccaaaggga	1471826	Uncertain_significance
+STM	rrs_-20_ins_19_t_ttccaaagggagtgtttggg	1471826	Uncertain_significance
+STM	rrs_c-18t	1471828	Uncertain_significance
+STM	rrs_-15_ins_1_a_at	1471831	Uncertain_significance
+STM	rrs_g-7t	1471839	Uncertain_significance
+STM	rrs_t-4g	1471842	Uncertain_significance
+STM	rrs_g5t	1471850	Uncertain_significance
+STM	rrs_a13g	1471858	Uncertain_significance
+STM	rrs_t16a	1471861	Uncertain_significance
+STM	rrs_t16c	1471861	Uncertain_significance
+STM	rrs_t17g	1471862	Uncertain_significance
+STM	rrs_c22t	1471867	Uncertain_significance
+STM	rrs_t23c	1471868	Uncertain_significance
+STM	rrs_t23g	1471868	Uncertain_significance
+STM	rrs_c33t	1471878	Uncertain_significance
+STM	rrs_c37t	1471882	Uncertain_significance
+STM	rrs_c66a	1471911	Uncertain_significance
+STM	rrs_77_ins_2_g_gtc	1471922	Uncertain_significance
+STM	rrs_a87c	1471932	Uncertain_significance
+STM	rrs_a89g	1471934	Uncertain_significance
+STM	rrs_t93g	1471938	Uncertain_significance
+STM	rrs_a126g	1471971	Uncertain_significance
+STM	rrs_c136a	1471981	Uncertain_significance
+STM	rrs_t140g	1471985	Uncertain_significance
+STM	rrs_c141t	1471986	Uncertain_significance
+STM	rrs_159_ins_1_c_ct	1472004	Uncertain_significance
+STM	rrs_a170g	1472015	Uncertain_significance
+STM	rrs_c171g	1472016	Uncertain_significance
+STM	rrs_g173t	1472018	Uncertain_significance
+STM	rrs_g179c	1472024	Uncertain_significance
+STM	rrs_c181g	1472026	Uncertain_significance
+STM	rrs_c182g	1472027	Uncertain_significance
+STM	rrs_c184a	1472029	Uncertain_significance
+STM	rrs_g187a	1472032	Uncertain_significance
+STM	rrs_c196t	1472041	Uncertain_significance
+STM	rrs_t200a	1472045	Uncertain_significance
+STM	rrs_g204a	1472049	Uncertain_significance
+STM	rrs_205_ins_1_g_gt	1472050	Uncertain_significance
+STM	rrs_t213a	1472058	Uncertain_significance
+STM	rrs_t213c	1472058	Uncertain_significance
+STM	rrs_t213g	1472058	Uncertain_significance
+STM	rrs_g217a	1472062	Uncertain_significance
+STM	rrs_g217t	1472062	Uncertain_significance
+STM	rrs_g222t	1472067	Uncertain_significance
+STM	rrs_255_ins_1_t_tg	1472100	Uncertain_significance
+STM	rrs_c266t	1472111	Uncertain_significance
+STM	rrs_t268c	1472113	Uncertain_significance
+STM	rrs_c270t	1472115	Uncertain_significance
+STM	rrs_c276t	1472121	Uncertain_significance
+STM	rrs_c279a	1472124	Uncertain_significance
+STM	rrs_g280t	1472125	Uncertain_significance
+STM	rrs_g285a	1472130	Uncertain_significance
+STM	rrs_301_ins_2_g_ggt	1472146	Uncertain_significance
+STM	rrs_c306t	1472151	Uncertain_significance
+STM	rrs_c307t	1472152	Uncertain_significance
+STM	rrs_g319a	1472164	Uncertain_significance
+STM	rrs_a324c	1472169	Uncertain_significance
+STM	rrs_c340t	1472185	Uncertain_significance
+STM	rrs_g349a	1472194	Uncertain_significance
+STM	rrs_a365g	1472210	Uncertain_significance
+STM	rrs_a392g	1472237	Uncertain_significance
+STM	rrs_c397t	1472242	Uncertain_significance
+STM	rrs_g415a	1472260	Uncertain_significance
+STM	rrs_a440g	1472285	Uncertain_significance
+STM	rrs_a447g	1472292	Uncertain_significance
+STM	rrs_t454c	1472299	Uncertain_significance
+STM	rrs_c462t	1472307	Uncertain_significance
+STM	rrs_474_ins_3_c_cggt	1472319	Uncertain_significance
+STM	rrs_480_ins_1_g_gt	1472325	Uncertain_significance
+STM	rrs_a484t	1472329	Uncertain_significance
+STM	rrs_c492t	1472337	Not_assoc_w_R
+STM	rrs_c499t	1472344	Uncertain_significance
+STM	rrs_a504g	1472349	Uncertain_significance
+STM	rrs_c513t	1472358	Uncertain_significance
+STM	rrs_a514c	1472359	Assoc_w_R
+STM	rrs_a514t	1472359	Uncertain_significance
+STM	rrs_c517t	1472362	Assoc_w_R
+STM	rrs_t529c	1472374	Uncertain_significance
+STM	rrs_a554t	1472399	Uncertain_significance
+STM	rrs_c560t	1472405	Uncertain_significance
+STM	rrs_c569t	1472414	Uncertain_significance
+STM	rrs_c571t	1472416	Uncertain_significance
+STM	rrs_t596a	1472441	Uncertain_significance
+STM	rrs_a600g	1472445	Uncertain_significance
+STM	rrs_t603c	1472448	Uncertain_significance
+STM	rrs_642_ins_1_c_ct	1472487	Uncertain_significance
+STM	rrs_644_ins_1_a_ag	1472489	Uncertain_significance
+STM	rrs_c650t	1472495	Uncertain_significance
+STM	rrs_c653t	1472498	Uncertain_significance
+STM	rrs_g660t	1472505	Uncertain_significance
+STM	rrs_t663c	1472508	Uncertain_significance
+STM	rrs_c699t	1472544	Uncertain_significance
+STM	rrs_a700c	1472545	Uncertain_significance
+STM	rrs_a703c	1472548	Uncertain_significance
+STM	rrs_a703g	1472548	Uncertain_significance
+STM	rrs_g704a	1472549	Uncertain_significance
+STM	rrs_c708t	1472553	Uncertain_significance
+STM	rrs_c710t	1472555	Uncertain_significance
+STM	rrs_t727c	1472572	Uncertain_significance
+STM	rrs_c735g	1472580	Uncertain_significance
+STM	rrs_c735t	1472580	Uncertain_significance
+STM	rrs_c761g	1472606	Uncertain_significance
+STM	rrs_g765a	1472610	Uncertain_significance
+STM	rrs_g769a	1472614	Uncertain_significance
+STM	rrs_c799a	1472644	Uncertain_significance
+STM	rrs_g810t	1472655	Uncertain_significance
+STM	rrs_t822c	1472667	Uncertain_significance
+STM	rrs_t829g	1472674	Uncertain_significance
+STM	rrs_t837g	1472682	Uncertain_significance
+STM	rrs_g840a	1472685	Uncertain_significance
+STM	rrs_c845t	1472690	Uncertain_significance
+STM	rrs_t847c	1472692	Uncertain_significance
+STM	rrs_c850t	1472695	Uncertain_significance
+STM	rrs_c859t	1472704	Uncertain_significance
+STM	rrs_c861t	1472706	Uncertain_significance
+STM	rrs_g878a	1472723	Assoc_w_R
+STM	rrs_g887a	1472732	Uncertain_significance
+STM	rrs_g887t	1472732	Uncertain_significance
+STM	rrs_g891a	1472736	Uncertain_significance
+STM	rrs_c905a	1472750	Uncertain_significance
+STM	rrs_c905g	1472750	Uncertain_significance
+STM	rrs_c905t	1472750	Uncertain_significance
+STM	rrs_a906g	1472751	Uncertain_significance
+STM	rrs_a907c	1472752	Uncertain_significance
+STM	rrs_a907t	1472752	Uncertain_significance
+STM	rrs_908_ins_1_a_at	1472753	Uncertain_significance
+STM	rrs_a908c	1472753	Uncertain_significance
+STM	rrs_a908g	1472753	Uncertain_significance
+STM	rrs_a912g	1472757	Uncertain_significance
+STM	rrs_c923t	1472768	Uncertain_significance
+STM	rrs_c929t	1472774	Uncertain_significance
+STM	rrs_g935a	1472780	Uncertain_significance
+STM	rrs_a970c	1472815	Uncertain_significance
+STM	rrs_t983c	1472828	Uncertain_significance
+STM	rrs_c992t	1472837	Uncertain_significance
+STM	rrs_g996t	1472841	Uncertain_significance
+STM	rrs_c1001g	1472846	Uncertain_significance
+STM	rrs_t1005c	1472850	Uncertain_significance
+STM	rrs_a1012g	1472857	Uncertain_significance
+STM	rrs_g1013t	1472858	Uncertain_significance
+STM	rrs_g1016c	1472861	Uncertain_significance
+STM	rrs_g1016t	1472861	Uncertain_significance
+STM	rrs_c1021t	1472866	Uncertain_significance
+STM	rrs_t1022g	1472867	Uncertain_significance
+STM	rrs_t1025c	1472870	Uncertain_significance
+STM	rrs_t1025g	1472870	Uncertain_significance
+STM	rrs_g1031t	1472876	Uncertain_significance
+STM	rrs_a1037g	1472882	Uncertain_significance
+STM	rrs_a1058g	1472903	Uncertain_significance
+STM	rrs_c1062t	1472907	Uncertain_significance
+STM	rrs_g1068a	1472913	Uncertain_significance
+STM	rrs_1075_ins_1_g_gt	1472920	Uncertain_significance
+STM	rrs_g1079a	1472924	Uncertain_significance
+STM	rrs_c1091g	1472936	Uncertain_significance
+STM	rrs_g1099a	1472944	Uncertain_significance
+STM	rrs_g1108a	1472953	Uncertain_significance
+STM	rrs_g1108t	1472953	Uncertain_significance
+STM	rrs_t1109c	1472954	Uncertain_significance
+STM	rrs_c1112a	1472957	Uncertain_significance
+STM	rrs_c1112t	1472957	Uncertain_significance
+STM	rrs_a1113g	1472958	Uncertain_significance
+STM	rrs_c1141t	1472986	Uncertain_significance
+STM	rrs_g1148a	1472993	Uncertain_significance
+STM	rrs_t1151c	1472996	Uncertain_significance
+STM	rrs_c1153t	1472998	Uncertain_significance
+STM	rrs_g1157t	1473002	Uncertain_significance
+STM	rrs_c1160g	1473005	Uncertain_significance
+STM	rrs_t1164a	1473009	Uncertain_significance
+STM	rrs_g1176a	1473021	Uncertain_significance
+STM	rrs_t1191c	1473036	Uncertain_significance
+STM	rrs_c1199t	1473044	Uncertain_significance
+STM	rrs_1202_ins_1_c_ct	1473047	Uncertain_significance
+STM	rrs_1205_ins_1_a_at	1473050	Uncertain_significance
+STM	rrs_g1207a	1473052	Uncertain_significance
+STM	rrs_t1208c	1473053	Uncertain_significance
+STM	rrs_t1208g	1473053	Uncertain_significance
+STM	rrs_a1211g	1473056	Uncertain_significance
+STM	rrs_a1219g	1473064	Uncertain_significance
+STM	rrs_c1220g	1473065	Uncertain_significance
+STM	rrs_c1226g	1473071	Uncertain_significance
+STM	rrs_g1234a	1473079	Uncertain_significance
+STM	rrs_c1236t	1473081	Uncertain_significance
+STM	rrs_t1239c	1473084	Uncertain_significance
+STM	rrs_1241_ins_1_caaa_cgaat	1473086	Uncertain_significance
+STM	rrs_c1241t	1473086	Uncertain_significance
+STM	rrs_c1257t	1473102	Uncertain_significance
+STM	rrs_c1259g	1473104	Uncertain_significance
+STM	rrs_t1264c	1473109	Uncertain_significance
+STM	rrs_a1278g	1473123	Uncertain_significance
+STM	rrs_c1283t	1473128	Uncertain_significance
+STM	rrs_g1285a	1473130	Uncertain_significance
+STM	rrs_g1286a	1473131	Uncertain_significance
+STM	rrs_g1302a	1473147	Uncertain_significance
+STM	rrs_g1303a	1473148	Uncertain_significance
+STM	rrs_c1319a	1473164	Uncertain_significance
+STM	rrs_g1323t	1473168	Uncertain_significance
+STM	rrs_a1325c	1473170	Uncertain_significance
+STM	rrs_t1360c	1473205	Uncertain_significance
+STM	rrs_a1367g	1473212	Uncertain_significance
+STM	rrs_a1370g	1473215	Uncertain_significance
+STM	rrs_g1379a	1473224	Uncertain_significance
+STM	rrs_c1382g	1473227	Uncertain_significance
+STM	rrs_a1401g	1473246	Uncertain_significance
+STM	rrs_c1402t	1473247	Uncertain_significance
+STM	rrs_a1409g	1473254	Uncertain_significance
+STM	rrs_g1415t	1473260	Uncertain_significance
+STM	rrs_g1416a	1473261	Uncertain_significance
+STM	rrs_g1435a	1473280	Uncertain_significance
+STM	rrs_c1436t	1473281	Uncertain_significance
+STM	rrs_a1440g	1473285	Uncertain_significance
+STM	rrs_c1441t	1473286	Uncertain_significance
+STM	rrs_c1443g	1473288	Uncertain_significance
+STM	rrs_g1446a	1473291	Uncertain_significance
+STM	rrs_a1449g	1473294	Uncertain_significance
+STM	rrs_g1450a	1473295	Uncertain_significance
+STM	rrs_g1457a	1473302	Uncertain_significance
+STM	rrs_g1460a	1473305	Uncertain_significance
+STM	rrs_a1461g	1473306	Uncertain_significance
+STM	rrs_a1469g	1473314	Uncertain_significance
+STM	rrs_g1481t	1473326	Uncertain_significance
+STM	rrs_g1484t	1473329	Uncertain_significance
+STM	rrs_c1489t	1473334	Uncertain_significance
+STM	rrs_t1491a	1473336	Uncertain_significance
+STM	rrs_a1500t	1473345	Uncertain_significance
+STM	rrs_g1523a	1473368	Uncertain_significance
+STM	whiB7_264_del_12_cttgcgcggacgtcc_ctt	3568416	Uncertain_significance
+STM	whiB7_263_del_12_ttgcgcggacgtcc_tt	3568417	Uncertain_significance
+STM	whiB7_262_del_12_tgcgcggacgtcc_t	3568418	Uncertain_significance
+STM	whiB7_246_ins_2_c_caa	3568434	Uncertain_significance
+STM	whiB7_193_del_1_cgc_cg	3568487	Uncertain_significance
+STM	whiB7_193_ins_1_c_cg	3568487	Uncertain_significance
+STM	whiB7_192_del_1_gc_g	3568488	Not_assoc_w_R
+STM	whiB7_189_del_1_cc_c	3568491	Uncertain_significance
+STM	whiB7_179_del_1_gc_g	3568501	Uncertain_significance
+STM	whiB7_125_ins_2_a_agt	3568555	Uncertain_significance
+STM	whiB7_96_del_213_ggtatcggcgaaccacagatcgggatcaccgacgtggcacggcaaaaccg_g	3568584	Uncertain_significance
+STM	whiB7_34_ins_1_t_tg	3568646	Uncertain_significance
+STM	whiB7_32_ins_1_g_ga	3568648	Uncertain_significance
+STM	whiB7_-1_del_176_gtcctgtttcacctgcttcctggtctggtggcggttcttcgaaagtgatc_ga	3568680	Uncertain_significance
+STM	whiB7_c-1a	3568680	Uncertain_significance
+STM	whiB7_a-7g	3568686	Uncertain_significance
+STM	whiB7_c-22t	3568701	Uncertain_significance
+STM	whiB7_a-26c	3568705	Uncertain_significance
+STM	whiB7_c-31t	3568710	Uncertain_significance
+STM	whiB7_c-33g	3568712	Uncertain_significance
+STM	whiB7_a-49g	3568728	Uncertain_significance
+STM	whiB7_g-50a	3568729	Uncertain_significance
+STM	whiB7_-51_ins_1_c_cg	3568730	Uncertain_significance
+STM	whiB7_c-52t	3568731	Uncertain_significance
+STM	whiB7_c-53t	3568732	Uncertain_significance
+STM	whiB7_-54_del_1_ac_a	3568733	Uncertain_significance
+STM	whiB7_g-55a	3568734	Uncertain_significance
+STM	whiB7_g-55t	3568734	Uncertain_significance
+STM	whiB7_-56_del_1_ca_c	3568735	Uncertain_significance
+STM	whiB7_g-56a	3568735	Uncertain_significance
+STM	whiB7_g-56t	3568735	Uncertain_significance
+STM	whiB7_t-57g	3568736	Uncertain_significance
+STM	whiB7_c-58t	3568737	Uncertain_significance
+STM	whiB7_t-61c	3568740	Uncertain_significance
+STM	whiB7_a-65g	3568744	Uncertain_significance
+STM	whiB7_c-66g	3568745	Uncertain_significance
+STM	whiB7_c-71g	3568750	Uncertain_significance
+STM	whiB7_a-78g	3568757	Uncertain_significance
+STM	whiB7_a-80c	3568759	Uncertain_significance
+STM	whiB7_g-94t	3568773	Uncertain_significance
+STM	whiB7_t-100c	3568779	Not_assoc_w_R
+STM	whiB7_c-114t	3568793	Uncertain_significance
+STM	whiB7_a-116g	3568795	Uncertain_significance
+STM	whiB7_g-118a	3568797	Uncertain_significance
+STM	whiB7_g-118t	3568797	Uncertain_significance
+STM	whiB7_a-126g	3568805	Uncertain_significance
+STM	whiB7_t-147c	3568826	Uncertain_significance
+STM	whiB7_g-159a	3568838	Uncertain_significance
+STM	whiB7_g-166a	3568845	Uncertain_significance
+STM	whiB7_a-172g	3568851	Uncertain_significance
+STM	whiB7_c-178t	3568857	Uncertain_significance
+STM	whiB7_g-182a	3568861	Uncertain_significance
+STM	whiB7_c-195t	3568874	Uncertain_significance
+STM	whiB7_c-203t	3568882	Uncertain_significance
+STM	whiB7_c-210t	3568889	Uncertain_significance
+STM	whiB7_-213_del_1_atggggggttc_atgggggttc	3568892	Uncertain_significance
+STM	whiB7_-214_del_1_tg_t	3568893	Uncertain_significance
+STM	whiB7_c-215t	3568894	Uncertain_significance
+STM	whiB7_c-217g	3568896	Uncertain_significance
+STM	whiB7_c-217t	3568896	Uncertain_significance
+STM	whiB7_c-232t	3568911	Uncertain_significance
+STM	whiB7_c-238t	3568917	Uncertain_significance
+STM	whiB7_c-240g	3568919	Uncertain_significance
+STM	whiB7_g-242c	3568921	Uncertain_significance
+STM	whiB7_c-252t	3568931	Uncertain_significance
+STM	whiB7_g-272a	3568951	Uncertain_significance
+STM	whiB7_g-279t	3568958	Uncertain_significance
+STM	whiB7_g-287c	3568966	Uncertain_significance
+STM	whiB7_a-290c	3568969	Uncertain_significance
+STM	whiB7_a-295c	3568974	Uncertain_significance
+STM	whiB7_c-302a	3568981	Uncertain_significance
+STM	whiB7_-306_ins_2_g_gcc	3568985	Uncertain_significance
+STM	whiB7_-316_ins_1_g_gc	3568995	Uncertain_significance
+STM	whiB7_g-322c	3569001	Uncertain_significance
+STM	whiB7_t-335c	3569014	Uncertain_significance
+STM	whiB7_c-336t	3569015	Uncertain_significance
+STM	whiB7_c-340t	3569019	Uncertain_significance
+STM	whiB7_c-341t	3569020	Uncertain_significance
+STM	whiB7_a-350g	3569029	Uncertain_significance
+STM	whiB7_c-353a	3569032	Uncertain_significance
+STM	whiB7_t-354g	3569033	Uncertain_significance
+STM	whiB7_-356_del_6_ctggagg_c	3569035	Uncertain_significance
+STM	whiB7_t-360c	3569039	Uncertain_significance
+STM	whiB7_t-360g	3569039	Uncertain_significance
+STM	whiB7_g-368a	3569047	Uncertain_significance
+STM	whiB7_t-386c	3569065	Uncertain_significance
+STM	whiB7_g-390t	3569069	Uncertain_significance
+STM	whiB7_c-407g	3569086	Uncertain_significance
+STM	whiB6_351_ins_1_t_ta	4338171	Uncertain_significance
+STM	whiB6_343_ins_1_a_at	4338179	Uncertain_significance
+STM	whiB6_341_ins_2_t_tgg	4338181	Uncertain_significance
+STM	whiB6_323_del_6_tcgcgca_t	4338199	Uncertain_significance
+STM	whiB6_315_del_1_cg_c	4338207	Uncertain_significance
+STM	whiB6_315_ins_1_c_cg	4338207	Uncertain_significance
+STM	whiB6_307_del_1_cgttgcgctcggcca_cgttgcgctcgcca	4338215	Uncertain_significance
+STM	whiB6_298_del_1_cg_c	4338224	Uncertain_significance
+STM	whiB6_279_del_1_gc_g	4338243	Uncertain_significance
+STM	whiB6_255_ins_1_g_gc	4338267	Uncertain_significance
+STM	whiB6_236_del_1_ac_a	4338286	Uncertain_significance
+STM	whiB6_214_ins_1_c_ca	4338308	Uncertain_significance
+STM	whiB6_213_del_1196_acccgcggactcgacggcgtcgcgtgcacacagccaccggcgcgggcaag_a	4338309	Uncertain_significance
+STM	whiB6_199_del_1_cg_c	4338323	Uncertain_significance
+STM	whiB6_181_del_499_gccaccggcgcgggcaagcccggcacagggtcttggcctcgtcgtcggga_g	4338341	Uncertain_significance
+STM	whiB6_180_del_174_ccaccggcgcgggcaagcccggcacagggtcttggcctcgtcgtcgggag_c	4338342	Uncertain_significance
+STM	whiB6_167_del_1_ca_c	4338355	Uncertain_significance
+STM	whiB6_156_del_1_cag_cg	4338366	Uncertain_significance
+STM	whiB6_106_ins_1_g_gc	4338416	Uncertain_significance
+STM	whiB6_105_del_183_cgtgcaaacgccgagcgggacctcatacagggcggttactgtcatgtcta_c	4338417	Uncertain_significance
+STM	whiB6_93_del_107_gagcgggacctcatacagggcggttactgtcatgtctacgttcctccaga_g	4338429	Uncertain_significance
+STM	whiB6_93_del_309_gagcgggacctcatacagggcggttactgtcatgtctacgttcctccaga_g	4338429	Uncertain_significance
+STM	whiB6_88_del_83_ggacctcatacagggcggttactgtcatgtctacgttcctccagaaagcg_g	4338434	Uncertain_significance
+STM	whiB6_83_ins_1_t_tc	4338439	Uncertain_significance
+STM	whiB6_82_ins_1_c_ca	4338440	Uncertain_significance
+STM	whiB6_81_ins_1_a_aa	4338441	Uncertain_significance
+STM	whiB6_77_del_1_agggcggt_aggcggt	4338445	Uncertain_significance
+STM	whiB6_56_del_7_acgttcct_a	4338466	Uncertain_significance
+STM	whiB6_8_del_316_tatcgcattaaccatagcgatgcaacagtttcctcctctgcctgcctagc_tt	4338514	Uncertain_significance
+STM	whiB6_7_del_7_atcgcattaac_atcg	4338515	Uncertain_significance
+STM	whiB6_6_ins_42_t_tcgcattaaccgacgggtcggcccaggctgtcggggcgggaag	4338516	Uncertain_significance
+STM	whiB6_4_del_7_gcattaac_g	4338518	Uncertain_significance
+STM	whiB6_2_del_1_at_a	4338520	Uncertain_significance
+STM	whiB6_-5_ins_42_c_cgacgggtcggcccaggctgtcggggcgggaagcgcattaacc	4338526	Uncertain_significance
+STM	whiB6_t-12c	4338533	Uncertain_significance
+STM	whiB6_c-14t	4338535	Uncertain_significance
+STM	whiB6_t-16c	4338537	Uncertain_significance
+STM	whiB6_t-17c	4338538	Uncertain_significance
+STM	whiB6_t-19c	4338540	Uncertain_significance
+STM	whiB6_c-20t	4338541	Uncertain_significance
+STM	whiB6_-23_del_480_tcctcctctgcctgcctagcggtgctgcggctccggttcggcgagctccg_t	4338544	Uncertain_significance
+STM	whiB6_g-24a	4338545	Uncertain_significance
+STM	whiB6_g-24t	4338545	Uncertain_significance
+STM	whiB6_g-25a	4338546	Uncertain_significance
+STM	whiB6_g-25c	4338546	Uncertain_significance
+STM	whiB6_a-26g	4338547	Uncertain_significance
+STM	whiB6_-27_del_233_cctctgcctgcctagcggtgctgcggctccggttcggcgagctccgagct_c	4338548	Uncertain_significance
+STM	whiB6_g-27a	4338548	Uncertain_significance
+STM	whiB6_g-27t	4338548	Uncertain_significance
+STM	whiB6_a-29g	4338550	Uncertain_significance
+STM	whiB6_a-29t	4338550	Uncertain_significance
+STM	whiB6_-32_del_156_gcctgcctagcggtgctgcggctccggttcggcgagctccgagctctagt_gtgacatgcgacagttcaggtgta	4338553	Uncertain_significance
+STM	whiB6_g-34a	4338555	Uncertain_significance
+STM	whiB6_g-42t	4338563	Uncertain_significance
+STM	whiB6_-43_del_1_ggtgctgcggctccggttcggcgagctccgagc_gatgctgcggctccggttcggcgagctccgag	4338564	Uncertain_significance
+STM	whiB6_-44_del_1_gtgctgcggctccggttcggcgagctccgagc_gcgctgcggctccggttcggcgagctccgag	4338565	Uncertain_significance
+STM	whiB6_-44_del_1_gtgctgcggctccggttcggcgagctccgagct_gcgctgcggctccggttcggcgagctccgagt	4338565	Uncertain_significance
+STM	whiB6_a-45g	4338566	Uncertain_significance
+STM	whiB6_-49_del_1_gcggctccggttcggcgagctccgagc_gaggctccggttcggcgagctccgag	4338570	Uncertain_significance
+STM	whiB6_-49_del_1_gcggctccggttcggcgagctccgagc_gtggctccggttcggcgagctccgag	4338570	Uncertain_significance
+STM	whiB6_-53_del_1_ctccggttcggcgagctccgagc_ccccggttcggcgagctccgag	4338574	Uncertain_significance
+STM	whiB6_a-54g	4338575	Uncertain_significance
+STM	whiB6_-57_del_1_ggttcggcgagctccgagc_gattcggcgagctccgag	4338578	Uncertain_significance
+STM	whiB6_a-59c	4338580	Uncertain_significance
+STM	whiB6_-65_del_142_gagctccgagctctagtgcgcgcaccgccgagtaccagggcatagatcct_gtgta	4338586	Uncertain_significance
+STM	whiB6_-65_del_1_gagctccgagc_gggctccgag	4338586	Uncertain_significance
+STM	whiB6_-66_del_1_agctccgagctctagt_agctcccagtctagt	4338587	Uncertain_significance
+STM	whiB6_-66_del_1_agctccgagctctagt_agctccgagtccagt	4338587	Uncertain_significance
+STM	whiB6_-66_del_1_agctccgagctctagt_agctccgagtctagt	4338587	Uncertain_significance
+STM	whiB6_-66_del_1_agctccgagctctagt_agctccgagtctcgt	4338587	Uncertain_significance
+STM	whiB6_-66_del_1_agctccgagctctagt_agctccgagtctggt	4338587	Uncertain_significance
+STM	whiB6_-66_del_1_agctccgagctctagt_agctccgagtttagt	4338587	Uncertain_significance
+STM	whiB6_-66_del_1_agctccgagctctagt_agctccgcgtctagt	4338587	Uncertain_significance
+STM	whiB6_-66_del_1_agctccgagctctagt_agctccgggtctagt	4338587	Uncertain_significance
+STM	whiB6_-66_del_1_agctccgagctctagt_agctccgtgtctagt	4338587	Uncertain_significance
+STM	whiB6_-66_del_3_agctccgagctctagt_agctccgagtcta	4338587	Uncertain_significance
+STM	whiB6_-67_del_1_gctccgagctctagtg_gatccgagtctagta	4338588	Uncertain_significance
+STM	whiB6_-68_del_1_ctccgagc_caccgag	4338589	Uncertain_significance
+STM	whiB6_-68_del_1_ctccgagc_cgccgag	4338589	Not_assoc_w_R
+STM	whiB6_-68_del_1_ctccgagct_cgccgagt	4338589	Uncertain_significance
+STM	whiB6_-69_del_1_tccgagc_ttcgag	4338590	Uncertain_significance
+STM	whiB6_-70_del_1_ccgagc_cagag	4338591	Uncertain_significance
+STM	whiB6_-70_del_1_ccgagc_cggag	4338591	Uncertain_significance
+STM	whiB6_-70_del_1_ccgagc_ctgag	4338591	Uncertain_significance
+STM	whiB6_-70_del_1_ccgagct_cagagt	4338591	Uncertain_significance
+STM	whiB6_-71_del_10_cgagctctagt_c	4338592	Uncertain_significance
+STM	whiB6_-71_del_1_cgagc_caag	4338592	Uncertain_significance
+STM	whiB6_-71_del_1_cgagc_cggg	4338592	Uncertain_significance
+STM	whiB6_-71_del_1_cgagc_ctag	4338592	Uncertain_significance
+STM	whiB6_-72_del_1_gagc_gaa	4338593	Uncertain_significance
+STM	whiB6_-72_del_1_gagc_gag	4338593	Uncertain_significance
+STM	whiB6_-72_del_1_gagc_gcg	4338593	Uncertain_significance
+STM	whiB6_-72_del_1_gagc_ggg	4338593	Uncertain_significance
+STM	whiB6_-72_del_1_gagc_gtg	4338593	Uncertain_significance
+STM	whiB6_-72_del_1_gagctctagtg_gagtctagta	4338593	Uncertain_significance
+STM	whiB6_-72_del_1_gagct_gagt	4338593	Uncertain_significance
+STM	whiB6_-72_del_1_gagct_gcgt	4338593	Uncertain_significance
+STM	whiB6_-73_del_1_ag_a	4338594	Uncertain_significance
+STM	whiB6_-73_del_1_agc_aa	4338594	Uncertain_significance
+STM	whiB6_-73_del_1_agc_ag	4338594	Uncertain_significance
+STM	whiB6_-73_del_1_agct_agt	4338594	Uncertain_significance
+STM	whiB6_-73_del_1_agctc_agtt	4338594	Uncertain_significance
+STM	whiB6_-73_del_1_agctct_agtcg	4338594	Uncertain_significance
+STM	whiB6_-73_del_1_agctct_agtct	4338594	Uncertain_significance
+STM	whiB6_-73_del_1_agctctagtg_agtctagta	4338594	Uncertain_significance
+STM	whiB6_-73_del_1_agctctagtg_attctagta	4338594	Uncertain_significance
+STM	whiB6_-73_del_20_agctctagtgcgcgcaccgccgagtaccagggcatagatcctgttaatca_agtctagtgcgcgcaccgccgagtaccagggctgtgtatctggcctcgcc	4338594	Uncertain_significance
+STM	whiB6_-74_del_1_gc_g	4338595	Not_assoc_w_R
+STM	whiB6_-74_del_1_gctc_gtc	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctc_gtg	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctc_gtt	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctcta_gtcgg	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctcta_gtctc	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctcta_gtctg	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctctagtgcgcgcaccgccgagtaccagggcatag_gtctagtacgcgcaccgccgagtaccagggcataa	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctctagtgcgcgcaccgccgagtaccagggcat_gtctagtacgcgcaccgccgagtaccagggcac	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctctagtgcgcgcaccgccgagtaccaggg_gtctagtgcgcgcaccgccgagtaccagga	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctctagtgcgcgcaccgccgagtaccagg_gtctagtgcgcgcaccgccgagtaccaga	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctctagtgcgcgcaccgccgagtaccagg_gtctagtgcgcgcaccgccgagtaccagc	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctctagtgcgcgcaccgccgagtacc_gtctagtacgcgcaccgccgagtact	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctctagtgcgcgcaccgcc_gtctagtgcgcgcaccgcg	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctctagtgcgcgca_gtctagtgcgcgcc	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctctagtgc_gtctagtgt	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctctagtg_ggctagta	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctctagtg_gtatagta	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctctagtg_gtcgagta	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctctagtg_gtctagta	4338595	Not_assoc_w_R
+STM	whiB6_-74_del_1_gctctagtg_gtttagta	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctct_gtcc	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctct_gtcg	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctct_gtct	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gctct_gttc	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gct_gg	4338595	Uncertain_significance
+STM	whiB6_-74_del_1_gct_gt	4338595	Not_assoc_w_R
+STM	whiB6_-74_del_2_gct_g	4338595	Uncertain_significance
+STM	whiB6_-74_del_3_gctctagtgcgcgc_gtctagtgcgc	4338595	Uncertain_significance
+STM	whiB6_-75_del_1_ct_c	4338596	Uncertain_significance
+STM	whiB6_-75_del_1_ctctagtg_cctagta	4338596	Uncertain_significance
+STM	whiB6_g-75a	4338596	Uncertain_significance
+STM	whiB6_a-76g	4338597	Uncertain_significance
+STM	whiB6_-77_del_1_ctagt_cgga	4338598	Uncertain_significance
+STM	whiB6_g-77a	4338598	Uncertain_significance
+STM	whiB6_g-77c	4338598	Uncertain_significance
+STM	whiB6_a-78g	4338599	Uncertain_significance
+STM	whiB6_a-78t	4338599	Uncertain_significance
+STM	whiB6_t-79c	4338600	Uncertain_significance
+STM	whiB6_t-79g	4338600	Uncertain_significance
+STM	whiB6_c-80a	4338601	Uncertain_significance
+STM	whiB6_a-81c	4338602	Uncertain_significance
+STM	whiB6_a-81t	4338602	Uncertain_significance
+STM	whiB6_c-82g	4338603	Uncertain_significance
+STM	whiB6_c-82t	4338603	Uncertain_significance
+STM	whiB6_g-83c	4338604	Uncertain_significance
+STM	whiB6_-94_del_3_gagt_g	4338615	Uncertain_significance
+STM	whiB6_g-100a	4338621	Uncertain_significance
+STM	whiB6_-106_del_51_atagatcctgttaatcagctgtgtatctggcctcgccggcgcgtatccga_a	4338627	Uncertain_significance
+STM	whiB6_t-108g	4338629	Uncertain_significance
+STM	whiB6_c-109a	4338630	Uncertain_significance
+STM	whiB6_a-111g	4338632	Uncertain_significance
+STM	whiB6_g-113c	4338634	Uncertain_significance
+STM	whiB6_-114_ins_1_t_tg	4338635	Uncertain_significance
+STM	whiB6_a-114c	4338635	Uncertain_significance
+STM	whiB6_a-114g	4338635	Uncertain_significance
+STM	whiB6_a-114t	4338635	Uncertain_significance
+STM	whiB6_a-116g	4338637	Uncertain_significance
+STM	whiB6_a-125g	4338646	Uncertain_significance
+STM	whiB6_a-125t	4338646	Uncertain_significance
+STM	whiB6_c-126a	4338647	Uncertain_significance
+STM	whiB6_c-126g	4338647	Uncertain_significance
+STM	whiB6_c-126t	4338647	Uncertain_significance
+STM	whiB6_c-128a	4338649	Uncertain_significance
+STM	whiB6_c-128t	4338649	Uncertain_significance
+STM	whiB6_a-133c	4338654	Uncertain_significance
+STM	whiB6_c-135a	4338656	Uncertain_significance
+STM	whiB6_c-135t	4338656	Uncertain_significance
+STM	whiB6_-138_del_1_tcgccggcgcgtatccgaccccttcgggcagatcttccaggaaaagtgtt_tcgccggcgcgtatccgaccccttcgggcagatcttccaggaaagtgtt	4338659	Uncertain_significance
+STM	whiB6_c-140a	4338661	Uncertain_significance
+STM	whiB6_g-141c	4338662	Uncertain_significance
+STM	whiB6_g-141t	4338662	Uncertain_significance
+STM	whiB6_g-145a	4338666	Uncertain_significance
+STM	whiB6_g-147a	4338668	Uncertain_significance
+STM	whiB6_-155_del_1_ac_a	4338676	Uncertain_significance
+STM	whiB6_t-155c	4338676	Uncertain_significance
+STM	whiB6_t-155g	4338676	Uncertain_significance
+STM	whiB6_g-158c	4338679	Uncertain_significance
+STM	whiB6_g-159c	4338680	Uncertain_significance
+STM	whiB6_a-160g	4338681	Uncertain_significance
+STM	whiB6_g-162a	4338683	Uncertain_significance
+STM	whiB6_g-162t	4338683	Uncertain_significance
+STM	whiB6_a-170c	4338691	Uncertain_significance
+STM	whiB6_a-172g	4338693	Uncertain_significance
+STM	whiB6_a-173g	4338694	Uncertain_significance
+STM	whiB6_g-174c	4338695	Uncertain_significance
+STM	whiB6_t-176g	4338697	Uncertain_significance
+STM	whiB6_-178_del_1_ga_g	4338699	Uncertain_significance
+STM	whiB6_c-178t	4338699	Uncertain_significance
+STM	whiB6_t-179c	4338700	Uncertain_significance
+STM	whiB6_t-179g	4338700	Uncertain_significance
+STM	whiB6_t-180g	4338701	Uncertain_significance
+STM	whiB6_t-182g	4338703	Uncertain_significance
+STM	whiB6_c-183t	4338704	Uncertain_significance
+STM	whiB6_a-184g	4338705	Uncertain_significance
+STM	whiB6_c-185t	4338706	Uncertain_significance
+STM	whiB6_a-189g	4338710	Uncertain_significance
+STM	whiB6_c-190a	4338711	Uncertain_significance
+STM	whiB6_t-191g	4338712	Uncertain_significance
+STM	gid_660_ins_1_a_ac	4407543	Assoc_w_R_Interim
+STM	gid_629_del_1_tgctttccacgtcgt_tctttccacgtcgc	4407574	Assoc_w_R_Interim
+STM	gid_616_ins_1_g_gt	4407587	Assoc_w_R_Interim
+STM	gid_613_ins_1_cgaaca_cgaaaca	4407590	Assoc_w_R_Interim
+STM	gid_605_del_1_acggtcgcgggcggac_acggtcgcggcggac	4407598	Assoc_w_R_Interim
+STM	gid_605_del_1_acggtcgcgggcggac_aggtcgcgggcggac	4407598	Assoc_w_R_Interim
+STM	gid_577_del_2_cgcc_cg	4407626	Assoc_w_R_Interim
+STM	gid_576_del_2_gccaca_gaca	4407627	Assoc_w_R_Interim
+STM	gid_576_ins_1_g_gc	4407627	Assoc_w_R_Interim
+STM	gid_563_ins_1_a_ac	4407640	Assoc_w_R_Interim
+STM	gid_554_ins_1_t_tc	4407649	Assoc_w_R_Interim
+STM	gid_551_del_1_ac_a	4407652	Assoc_w_R_Interim
+STM	gid_549_ins_1_c_ct	4407654	Assoc_w_R_Interim
+STM	gid_546_ins_1_g_gc	4407657	Assoc_w_R_Interim
+STM	gid_526_del_1_gc_g	4407677	Assoc_w_R_Interim
+STM	gid_519_ins_1_c_ct	4407684	Assoc_w_R_Interim
+STM	gid_519_ins_1_ct_ctt	4407684	Assoc_w_R_Interim
+STM	gid_508_ins_21_c_cgtcgtgagcccgctcgccttt	4407695	Assoc_w_R_Interim
+STM	gid_503_del_2_tga_t	4407700	Assoc_w_R_Interim
+STM	gid_490_del_1_ct_c	4407713	Assoc_w_R_Interim
+STM	gid_476_del_1_at_a	4407727	Assoc_w_R_Interim
+STM	gid_472_del_1_gc_g	4407731	Assoc_w_R_Interim
+STM	gid_456_del_1_ca_c	4407747	Assoc_w_R_Interim
+STM	gid_450_ins_1_catgctcc_catgcttcc	4407753	Assoc_w_R_Interim
+STM	gid_447_del_96_gctccatttcgtcaacttgtccaacgcggccaccgcccgtgacaccgcag_g	4407756	Assoc_w_R_Interim
+STM	gid_442_ins_1_at_att	4407761	Assoc_w_R_Interim
+STM	gid_439_del_1_tc_t	4407764	Assoc_w_R_Interim
+STM	gid_419_del_1_gc_g	4407784	Assoc_w_R_Interim
+STM	gid_414_del_1_cg_c	4407789	Assoc_w_R_Interim
+STM	gid_405_del_1_ca_c	4407798	Assoc_w_R_Interim
+STM	gid_400_ins_1_c_ca	4407803	Assoc_w_R_Interim
+STM	gid_391_del_1_tgccgc_tgccg	4407812	Assoc_w_R_Interim
+STM	gid_391_del_1_tgccgc_tgcgg	4407812	Assoc_w_R_Interim
+STM	gid_387_del_1_gc_g	4407816	Assoc_w_R_Interim
+STM	gid_372_del_1_ca_c	4407831	Assoc_w_R_Interim
+STM	gid_372_del_1_cac_ca	4407831	Assoc_w_R_Interim
+STM	gid_372_del_1_cac_cc	4407831	Assoc_w_R_Interim
+STM	gid_371_del_1_ac_a	4407832	Assoc_w_R_Interim
+STM	gid_362_del_1_tcctcg_tctcg	4407841	Assoc_w_R_Interim
+STM	gid_360_ins_24_c_ctcggcgcgcccccgcacgatctca	4407843	Assoc_w_R_Interim
+STM	gid_358_del_1_cg_c	4407845	Assoc_w_R_Interim
+STM	gid_357_del_1_ggcgcgcccccgcacgatctcaacggcc_gcgcgcccccgcacgatctcaacggca	4407846	Assoc_w_R_Interim
+STM	gid_357_del_2_ggc_g	4407846	Assoc_w_R_Interim
+STM	gid_356_del_1_gcgcgcccccgcacgatctcaacggcc_gtgcgccccgcacgatctcaacggca	4407847	Assoc_w_R_Interim
+STM	gid_354_del_1_gc_g	4407849	Assoc_w_R_Interim
+STM	gid_354_del_1_gcgcccccgcacgatctcaacggcca_gcgcccccgcacatctcaacggcca	4407849	Assoc_w_R_Interim
+STM	gid_354_del_1_gcgcccccgcacgatctcaacggcca_gcgccccgcacgatctcaacggcaa	4407849	Assoc_w_R_Interim
+STM	gid_354_del_1_gcgcccccgcacgatctcaacggcca_gcgccccgcacgatctcaacggcca	4407849	Assoc_w_R_Interim
+STM	gid_354_del_2_gcgcccccgcacgatctcaacggcca_gcgcccccgcacgatctcaacggc	4407849	Assoc_w_R_Interim
+STM	gid_354_ins_1_gcgcccccgcacgatctcaacggcca_gcgccccccgcacgatctcaacggcaa	4407849	Assoc_w_R_Interim
+STM	gid_354_ins_1_gcgcccccgcacgatctcaacggcca_gcgccccccgcacgatctcaacggcca	4407849	Assoc_w_R_Interim
+STM	gid_353_del_1_cgc_cg	4407850	Assoc_w_R_Interim
+STM	gid_353_del_2_cgcccccgcacgatctcaacggcc_cccccgcacgatctcaacggca	4407850	Assoc_w_R_Interim
+STM	gid_353_ins_1_c_cg	4407850	Assoc_w_R_Interim
+STM	gid_353_ins_1_cg_cgc	4407850	Assoc_w_R_Interim
+STM	gid_352_del_1_gc_g	4407851	Assoc_w_R
+STM	gid_352_ins_1_g_gc	4407851	Assoc_w_R_Interim
+STM	gid_349_del_2_cccgcacgatctcaacggcc_cgcacgatctcaacggca	4407854	Assoc_w_R_Interim
+STM	gid_348_del_1_ccgcacgatctcaacggcc_cgcacgatctcaacggca	4407855	Assoc_w_R_Interim
+STM	gid_347_ins_1_cgcacgatctcaacggcc_ccgcacgatctcaacggca	4407856	Assoc_w_R_Interim
+STM	gid_343_del_1_cg_c	4407860	Assoc_w_R_Interim
+STM	gid_338_ins_1_t_tc	4407865	Assoc_w_R_Interim
+STM	gid_332_del_337_gccacgcccagatctgtcaccatctctcgaagaaactcggtgcggcgcag_g	4407871	Assoc_w_R_Interim
+STM	gid_331_del_82_ccacgcccagatctgtcaccatctctcgaagaaactcggtgcggcgcagt_caacgc	4407872	Assoc_w_R_Interim
+STM	gid_327_del_1_gc_g	4407876	Assoc_w_R_Interim
+STM	gid_323_ins_5_a_agatct	4407880	Assoc_w_R_Interim
+STM	gid_321_ins_1_a_at	4407882	Assoc_w_R_Interim
+STM	gid_320_del_394_tctgtcaccatctctcgaagaaactcggtgcggcgcagtagcggttctag_t	4407883	Assoc_w_R_Interim
+STM	gid_320_ins_1_t_tc	4407883	Assoc_w_R_Interim
+STM	gid_315_del_1_ca_c	4407888	Assoc_w_R_Interim
+STM	gid_311_ins_1_a_at	4407892	Assoc_w_R_Interim
+STM	gid_310_ins_1_t_ta	4407893	Assoc_w_R_Interim
+STM	gid_305_del_1_cg_c	4407898	Assoc_w_R_Interim
+STM	gid_305_del_39_cgaagaaactcggtgcggcgcagtagcggttctaggagaa_c	4407898	Assoc_w_R_Interim
+STM	gid_297_ins_1_c_ct	4407906	Assoc_w_R_Interim
+STM	gid_293_del_1_gtgcggc_ggcggc	4407910	Assoc_w_R_Interim
+STM	gid_293_del_1_gtgcggc_gtgcgg	4407910	Assoc_w_R_Interim
+STM	gid_291_del_130_gcggcgcagtagcggttctaggagaactacctggaggtccggccgcgcta_g	4407912	Assoc_w_R_Interim
+STM	gid_289_ins_2_g_ggc	4407914	Assoc_w_R_Interim
+STM	gid_285_del_1_ca_c	4407918	Assoc_w_R_Interim
+STM	gid_268_del_1_ga_g	4407935	Assoc_w_R_Interim
+STM	gid_259_ins_1_g_gc	4407944	Assoc_w_R_Interim
+STM	gid_259_ins_1_g_gt	4407944	Assoc_w_R_Interim
+STM	gid_258_del_1_ga_g	4407945	Assoc_w_R_Interim
+STM	gid_251_ins_3_g_ggcc	4407952	Assoc_w_R_Interim
+STM	gid_249_del_19_ccgcgctatcgccaatggca_c	4407954	Assoc_w_R_Interim
+STM	gid_249_del_2_ccg_c	4407954	Assoc_w_R_Interim
+STM	gid_248_del_1_cg_c	4407955	Assoc_w_R_Interim
+STM	gid_246_del_1_cg_c	4407957	Assoc_w_R_Interim
+STM	gid_228_del_1_gc_g	4407975	Assoc_w_R_Interim
+STM	gid_220_del_8_acccggctc_a	4407983	Assoc_w_R_Interim
+STM	gid_216_del_15_ggctccgctaccgatat_gg	4407987	Assoc_w_R_Interim
+STM	gid_215_del_15_gctccgctaccgatat_g	4407988	Assoc_w_R_Interim
+STM	gid_196_ins_1_c_cg	4408007	Assoc_w_R_Interim
+STM	gid_194_ins_1_a_ac	4408009	Assoc_w_R_Interim
+STM	gid_188_del_1_tc_t	4408015	Assoc_w_R_Interim
+STM	gid_181_del_1_gt_g	4408022	Assoc_w_R_Interim
+STM	gid_168_ins_3_a_accg	4408035	Assoc_w_R_Interim
+STM	gid_166_ins_3_c_cgat	4408037	Assoc_w_R_Interim
+STM	gid_158_del_174_gcgcagttcagtagatgccggtcccatagcctaccgacttcgcggggtcc_g	4408045	Assoc_w_R_Interim
+STM	gid_142_del_1_gc_g	4408061	Assoc_w_R_Interim
+STM	gid_141_del_211_ccggtcccatagcctaccgacttcgcggggtcccaccagcccccgctcca_c	4408062	Assoc_w_R_Interim
+STM	gid_138_ins_1_g_gt	4408065	Assoc_w_R_Interim
+STM	gid_137_del_1_tc_t	4408066	Assoc_w_R_Interim
+STM	gid_137_del_6_tcccata_t	4408066	Assoc_w_R_Interim
+STM	gid_130_del_1_gcctaccgacttcgcgggg_gtctaccgacttcgcggg	4408073	Assoc_w_R_Interim
+STM	gid_121_ins_1_c_ct	4408082	Assoc_w_R_Interim
+STM	gid_117_del_1_gcg_gc	4408086	Assoc_w_R_Interim
+STM	gid_116_del_1_cg_c	4408087	Assoc_w_R_Interim
+STM	gid_116_del_1_cggggtcccaccagcccccgctccacaccgggtcccgccaacgc_cggggtccaccagcccccgctccacaccgggtcccgccaacgc	4408087	Assoc_w_R_Interim
+STM	gid_116_del_1_cggggtcccaccagcccccgctccacaccgggtcccgccaacgc_cggggtcccaccagcccccgctccacaccggtcccgccaacgc	4408087	Assoc_w_R_Interim
+STM	gid_116_del_1_cggggtcccaccagcccccgctccacaccgggtcccgccaacgc_cggggtcccaccagccccgctccacaccgggtcccgccaacgc	4408087	Assoc_w_R_Interim
+STM	gid_116_del_1_cggggtcccaccagcccccgctccacaccgggtcccgccaacgc_cggggtcccaccaggccccgctccacaccggtcccgccaacgc	4408087	Assoc_w_R_Interim
+STM	gid_116_del_1_cggggtcccaccagcccccgctccacaccgggtcccgccaacgc_cgggtcccaccagcccccgctccacaccgggtcccgccaacgc	4408087	Assoc_w_R_Interim
+STM	gid_116_ins_1_cggggtcccaccagcccccgctccacaccgggtcccgccaacgc_cggggtcccaccagccccccgctccacaccgggtcccgccaacgc	4408087	Assoc_w_R_Interim
+STM	gid_116_ins_2_cggggtcccaccagcccccgctccacaccgggtcccgccaacgc_cggggggtcccaccagcccccgctccacaccgggtcccgccaacgc	4408087	Assoc_w_R_Interim
+STM	gid_116_ins_4_cggggtcccaccagcccccgctccacaccgggtcccgccaacgc_cggggtaggtcccaccagcccccgctccacaccgggtcccgccaacgc	4408087	Assoc_w_R_Interim
+STM	gid_114_del_105_gggtcccaccagcccccgctccacaccgggtcccgccaacgcttcggcgt_g	4408089	Assoc_w_R_Interim
+STM	gid_103_del_1_gc_g	4408100	Assoc_w_R
+STM	gid_103_del_51_gcccccgctccacaccgggtcccgccaacgcttcggcgtaccgccgagca_ggccccgctccacaccgggtcccgccaacgc	4408100	Assoc_w_R_Interim
+STM	gid_103_ins_1_g_gc	4408100	Assoc_w_R_Interim
+STM	gid_99_del_1_cc_c	4408104	Assoc_w_R_Interim
+STM	gid_99_del_1_ccgc_cgg	4408104	Assoc_w_R_Interim
+STM	gid_96_del_1_ctc_ct	4408107	Assoc_w_R_Interim
+STM	gid_95_del_1_tc_t	4408108	Assoc_w_R_Interim
+STM	gid_93_del_1_ca_c	4408110	Assoc_w_R_Interim
+STM	gid_89_del_1_ccg_cc	4408114	Assoc_w_R_Interim
+STM	gid_88_del_1_cg_c	4408115	Assoc_w_R_Interim
+STM	gid_78_del_1_ca_c	4408125	Assoc_w_R_Interim
+STM	gid_69_del_1_ggcgtaccgccgagcaaggccaagccgcggtccgaagatcgcagac_ggcgtaccccgagcaaggccacgccgcggtccgaagatcgcagac	4408134	Assoc_w_R_Interim
+STM	gid_69_del_1_ggcgtaccgccgagcaaggccaagccgcggtccgaagatcgcagac_ggcgtaccgccgagcaaggccaagccgcggccgaagatcgcagac	4408134	Assoc_w_R_Interim
+STM	gid_69_del_1_ggcgtaccgccgagcaaggccaagccgcggtccgaagatcgcagac_ggcgtaccgccgagcaaggccaagccgcgtccgaagatcgcagac	4408134	Assoc_w_R_Interim
+STM	gid_69_del_1_ggcgtaccgccgagcaaggccaagccgcggtccgaagatcgcagac_ggcgtaccgccgagcaaggccagccgcggtccgaagatcgcagac	4408134	Assoc_w_R_Interim
+STM	gid_60_ins_8_c_ccgagcaag	4408143	Assoc_w_R_Interim
+STM	gid_53_del_1_ag_a	4408150	Assoc_w_R_Interim
+STM	gid_52_del_4_ggcca_g	4408151	Assoc_w_R_Interim
+STM	gid_49_del_1_ca_c	4408154	Assoc_w_R_Interim
+STM	gid_44_del_1_cgc_cg	4408159	Assoc_w_R_Interim
+STM	gid_43_del_1_gc_g	4408160	Assoc_w_R_Interim
+STM	gid_42_del_1_cg_c	4408161	Assoc_w_R_Interim
+STM	gid_t-2a	4408204	Uncertain_significance
+STM	gid_t-2g	4408204	Uncertain_significance
+STM	gid_g-7a	4408209	Uncertain_significance
+STM	gid_a-8c	4408210	Uncertain_significance
+STM	gid_g-9a	4408211	Uncertain_significance
+STM	gid_g-9c	4408211	Uncertain_significance
+STM	gid_c-11g	4408213	Uncertain_significance
+STM	gid_c-11t	4408213	Uncertain_significance
+STM	gid_c-14t	4408216	Uncertain_significance
+STM	gid_c-24a	4408226	Uncertain_significance
+STM	gid_c-24t	4408226	Uncertain_significance
+STM	gid_a-25g	4408227	Uncertain_significance
+STM	gid_c-28g	4408230	Uncertain_significance
+STM	gid_c-30t	4408232	Uncertain_significance
+STM	gid_-31_del_1_tca_tc	4408233	Uncertain_significance
+STM	gid_-32_del_1_ca_c	4408234	Uncertain_significance
+STM	gid_a-50g	4408252	Uncertain_significance
+STM	gid_g-52t	4408254	Uncertain_significance
+STM	gid_c-56t	4408258	Uncertain_significance
+STM	gid_g-59a	4408261	Uncertain_significance
+STM	gid_a-60c	4408262	Uncertain_significance
+STM	gid_a-60g	4408262	Uncertain_significance
+STM	gid_c-64a	4408266	Uncertain_significance
+STM	gid_t-65c	4408267	Uncertain_significance
+STM	gid_c-71t	4408273	Uncertain_significance
+STM	gid_g-72c	4408274	Uncertain_significance
+STM	gid_g-73a	4408275	Uncertain_significance
+STM	gid_c-79a	4408281	Uncertain_significance
+STM	gid_-85_del_4_ccacg_c	4408287	Uncertain_significance
+STM	gid_g-85a	4408287	Uncertain_significance
+STM	gid_c-89t	4408291	Uncertain_significance
+STM	gid_c-94a	4408296	Uncertain_significance
+STM	gid_g-95c	4408297	Uncertain_significance
+STM	gid_g-99a	4408301	Uncertain_significance
+STM	gid_a-107g	4408309	Uncertain_significance
+STM	gid_c-109t	4408311	Uncertain_significance
+STM	gid_c-110t	4408312	Uncertain_significance
+STM	gid_c-113t	4408315	Uncertain_significance
+STM	gid_g-117a	4408319	Uncertain_significance

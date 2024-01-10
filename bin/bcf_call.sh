@@ -16,7 +16,7 @@ samtools markdup positionsort_${sample_id}.bam ${sample_id}_marked.bam
 bcftools mpileup --full-BAQ \
     --fasta-ref $2 --min-BQ $3 --min-MQ $4 \
    --skip-any-set UNMAP,SECONDARY,QCFAIL,DUP  --tandem-qual $6 --indel-bias $7 \
-   --output-type u ${sample_id}_marked.bam | bcftools call --ploidy $5 \
+   --output-type u ${sample_id}_marked.bam | bcftools call --ploidy $5 --format-fields GQ,GP \
    --multiallelic-caller --variants-only --output ${sample_id}_bt.vcf
 
 

@@ -1,0 +1,361 @@
+DLM	ddn_A120S		Uncertain_significance
+DLM	ddn_E83D		Uncertain_significance
+DLM	ddn_F17S		Uncertain_significance
+DLM	ddn_F66S		Uncertain_significance
+DLM	ddn_G34E		Uncertain_significance
+DLM	ddn_G34R		Uncertain_significance
+DLM	ddn_G53D		Uncertain_significance
+DLM	ddn_G70V		Uncertain_significance
+DLM	ddn_I144T		Uncertain_significance
+DLM	ddn_L49P		Assoc_w_R_Interim
+DLM	ddn_N91D		Uncertain_significance
+DLM	ddn_P45L		Uncertain_significance
+DLM	ddn_P6T		Uncertain_significance
+DLM	ddn_R23W		Uncertain_significance
+DLM	ddn_R30S		Uncertain_significance
+DLM	ddn_R72G		Uncertain_significance
+DLM	ddn_R72Q		Uncertain_significance
+DLM	ddn_R72W		Uncertain_significance
+DLM	ddn_T115A		Uncertain_significance
+DLM	ddn_T40A		Uncertain_significance
+DLM	ddn_V106M		Uncertain_significance
+DLM	ddn_V98A		Uncertain_significance
+DLM	ddn_W139!		Uncertain_significance
+DLM	ddn_W20!		Uncertain_significance
+DLM	ddn_W88R		Uncertain_significance
+DLM	ddn_W88!		Uncertain_significance
+DLM	ddn_Y65S		Uncertain_significance
+DLM	fbiA_A178T		Uncertain_significance
+DLM	fbiA_A190T		Uncertain_significance
+DLM	fbiA_A199T		Uncertain_significance
+DLM	fbiA_A206T		Uncertain_significance
+DLM	fbiA_A222T		Uncertain_significance
+DLM	fbiA_A232E		Uncertain_significance
+DLM	fbiA_A29T		Uncertain_significance
+DLM	fbiA_A327T		Uncertain_significance
+DLM	fbiA_A33D		Uncertain_significance
+DLM	fbiA_A43T		Uncertain_significance
+DLM	fbiA_C280S		Uncertain_significance
+DLM	fbiA_C287Y		Uncertain_significance
+DLM	fbiA_D100N		Uncertain_significance
+DLM	fbiA_E130D		Uncertain_significance
+DLM	fbiA_E130K		Uncertain_significance
+DLM	fbiA_F102L		Uncertain_significance
+DLM	fbiA_G189S		Uncertain_significance
+DLM	fbiA_G264R		Uncertain_significance
+DLM	fbiA_G277S		Uncertain_significance
+DLM	fbiA_G293A		Uncertain_significance
+DLM	fbiA_G48S		Uncertain_significance
+DLM	fbiA_G78S		Uncertain_significance
+DLM	fbiA_H183Q		Uncertain_significance
+DLM	fbiA_H295R		Uncertain_significance
+DLM	fbiA_I208V		Uncertain_significance
+DLM	fbiA_I229M		Uncertain_significance
+DLM	fbiA_I53V		Uncertain_significance
+DLM	fbiA_L22V		Uncertain_significance
+DLM	fbiA_N314K		Uncertain_significance
+DLM	fbiA_P227T		Uncertain_significance
+DLM	fbiA_P245S		Uncertain_significance
+DLM	fbiA_Q120R		Uncertain_significance
+DLM	fbiA_Q21L		Uncertain_significance
+DLM	fbiA_Q27P		Uncertain_significance
+DLM	fbiA_R175H		Uncertain_significance
+DLM	fbiA_R177H		Uncertain_significance
+DLM	fbiA_R304Q		Uncertain_significance
+DLM	fbiA_R321S		Uncertain_significance
+DLM	fbiA_S184T		Uncertain_significance
+DLM	fbiA_S32F		Uncertain_significance
+DLM	fbiA_S35A		Uncertain_significance
+DLM	fbiA_S42C		Uncertain_significance
+DLM	fbiA_S42G		Uncertain_significance
+DLM	fbiA_T302A		Uncertain_significance
+DLM	fbiA_T302M		Uncertain_significance
+DLM	fbiA_T4N		Uncertain_significance
+DLM	fbiA_V114L		Uncertain_significance
+DLM	fbiA_V160I		Uncertain_significance
+DLM	fbiA_V180M		Uncertain_significance
+DLM	fbiA_V188A		Uncertain_significance
+DLM	fbiA_V188F		Uncertain_significance
+DLM	fbiA_V188I		Uncertain_significance
+DLM	fbiA_V217M		Uncertain_significance
+DLM	fbiA_V265M		Uncertain_significance
+DLM	fbiA_V306M		Uncertain_significance
+DLM	fbiA_V47I		Uncertain_significance
+DLM	fbiB_A127T		Uncertain_significance
+DLM	fbiB_A304D		Uncertain_significance
+DLM	fbiB_A31T		Uncertain_significance
+DLM	fbiB_A36V		Uncertain_significance
+DLM	fbiB_A376T		Uncertain_significance
+DLM	fbiB_A37S		Uncertain_significance
+DLM	fbiB_A380S		Uncertain_significance
+DLM	fbiB_A82T		Uncertain_significance
+DLM	fbiB_D109E		Uncertain_significance
+DLM	fbiB_D224N		Uncertain_significance
+DLM	fbiB_D437G		Uncertain_significance
+DLM	fbiB_D66E		Uncertain_significance
+DLM	fbiB_D90G		Uncertain_significance
+DLM	fbiB_D90N		Uncertain_significance
+DLM	fbiB_E138K		Uncertain_significance
+DLM	fbiB_E191Q		Uncertain_significance
+DLM	fbiB_E79D		Uncertain_significance
+DLM	fbiB_F403L		Uncertain_significance
+DLM	fbiB_G325S		Uncertain_significance
+DLM	fbiB_I18N		Uncertain_significance
+DLM	fbiB_I18T		Uncertain_significance
+DLM	fbiB_I446T		Uncertain_significance
+DLM	fbiB_K206N		Uncertain_significance
+DLM	fbiB_K448R		Uncertain_significance
+DLM	fbiB_L444F		Uncertain_significance
+DLM	fbiB_L447R		Uncertain_significance
+DLM	fbiB_P122A		Uncertain_significance
+DLM	fbiB_P25R		Uncertain_significance
+DLM	fbiB_P303T		Uncertain_significance
+DLM	fbiB_P440S		Uncertain_significance
+DLM	fbiB_Q339R		Uncertain_significance
+DLM	fbiB_Q69R		Uncertain_significance
+DLM	fbiB_R157C		Uncertain_significance
+DLM	fbiB_R174H		Uncertain_significance
+DLM	fbiB_R253H		Uncertain_significance
+DLM	fbiB_R265Q		Uncertain_significance
+DLM	fbiB_R293G		Uncertain_significance
+DLM	fbiB_R334Q		Uncertain_significance
+DLM	fbiB_R365G		Uncertain_significance
+DLM	fbiB_R409S		Uncertain_significance
+DLM	fbiB_T212A		Uncertain_significance
+DLM	fbiB_T268A		Uncertain_significance
+DLM	fbiB_T292A		Uncertain_significance
+DLM	fbiB_T374K		Uncertain_significance
+DLM	fbiB_V17A		Uncertain_significance
+DLM	fbiB_V17I		Uncertain_significance
+DLM	fbiB_V192I		Uncertain_significance
+DLM	fbiB_V214L		Uncertain_significance
+DLM	fbiB_V348I		Uncertain_significance
+DLM	fbiB_V416I		Uncertain_significance
+DLM	fbiB_W418S		Uncertain_significance
+DLM	fbiC_A11V		Uncertain_significance
+DLM	fbiC_A143V		Uncertain_significance
+DLM	fbiC_A333V		Uncertain_significance
+DLM	fbiC_A349V		Uncertain_significance
+DLM	fbiC_A378E		Uncertain_significance
+DLM	fbiC_A469P		Uncertain_significance
+DLM	fbiC_A505T		Uncertain_significance
+DLM	fbiC_A524G		Uncertain_significance
+DLM	fbiC_A594S		Uncertain_significance
+DLM	fbiC_A620T		Uncertain_significance
+DLM	fbiC_A63T		Uncertain_significance
+DLM	fbiC_A659V		Uncertain_significance
+DLM	fbiC_A73S		Uncertain_significance
+DLM	fbiC_A754V		Uncertain_significance
+DLM	fbiC_A852V		Uncertain_significance
+DLM	fbiC_D100E		Uncertain_significance
+DLM	fbiC_D130E		Uncertain_significance
+DLM	fbiC_D168E		Uncertain_significance
+DLM	fbiC_D235G		Uncertain_significance
+DLM	fbiC_D272G		Uncertain_significance
+DLM	fbiC_D313G		Uncertain_significance
+DLM	fbiC_D352G		Uncertain_significance
+DLM	fbiC_D375N		Uncertain_significance
+DLM	fbiC_D427H		Uncertain_significance
+DLM	fbiC_D521G		Uncertain_significance
+DLM	fbiC_D616G		Uncertain_significance
+DLM	fbiC_E299V		Uncertain_significance
+DLM	fbiC_E526K		Uncertain_significance
+DLM	fbiC_E54G		Uncertain_significance
+DLM	fbiC_E598D		Uncertain_significance
+DLM	fbiC_E801G		Uncertain_significance
+DLM	fbiC_E813D		Uncertain_significance
+DLM	fbiC_E832G		Uncertain_significance
+DLM	fbiC_F470V		Uncertain_significance
+DLM	fbiC_G135S		Uncertain_significance
+DLM	fbiC_G285E		Uncertain_significance
+DLM	fbiC_G340D		Uncertain_significance
+DLM	fbiC_G385C		Uncertain_significance
+DLM	fbiC_G385D		Uncertain_significance
+DLM	fbiC_G508S		Uncertain_significance
+DLM	fbiC_G522R		Uncertain_significance
+DLM	fbiC_G683A		Uncertain_significance
+DLM	fbiC_G839A		Uncertain_significance
+DLM	fbiC_G839D		Uncertain_significance
+DLM	fbiC_H103R		Uncertain_significance
+DLM	fbiC_H300Y		Uncertain_significance
+DLM	fbiC_H592R		Uncertain_significance
+DLM	fbiC_I453V		Uncertain_significance
+DLM	fbiC_I693V		Uncertain_significance
+DLM	fbiC_I781V		Uncertain_significance
+DLM	fbiC_I816M		Uncertain_significance
+DLM	fbiC_I92V		Uncertain_significance
+DLM	fbiC_K113T		Uncertain_significance
+DLM	fbiC_K622R		Uncertain_significance
+DLM	fbiC_K682R		Uncertain_significance
+DLM	fbiC_L114R		Uncertain_significance
+DLM	fbiC_L517I		Uncertain_significance
+DLM	fbiC_L647R		Uncertain_significance
+DLM	fbiC_M628I		Uncertain_significance
+DLM	fbiC_M709I		Uncertain_significance
+DLM	fbiC_M812I		Uncertain_significance
+DLM	fbiC_P125H		Uncertain_significance
+DLM	fbiC_P334A		Uncertain_significance
+DLM	fbiC_P359S		Uncertain_significance
+DLM	fbiC_P420L		Uncertain_significance
+DLM	fbiC_P438L		Uncertain_significance
+DLM	fbiC_R243G		Uncertain_significance
+DLM	fbiC_R330C		Uncertain_significance
+DLM	fbiC_R66S		Uncertain_significance
+DLM	fbiC_R727C		Uncertain_significance
+DLM	fbiC_R7G		Uncertain_significance
+DLM	fbiC_S172C		Uncertain_significance
+DLM	fbiC_S219A		Uncertain_significance
+DLM	fbiC_S645G		Uncertain_significance
+DLM	fbiC_S762N		Uncertain_significance
+DLM	fbiC_T273A		Uncertain_significance
+DLM	fbiC_T663N		Uncertain_significance
+DLM	fbiC_T687M		Uncertain_significance
+DLM	fbiC_V365I		Uncertain_significance
+DLM	fbiC_V37A		Uncertain_significance
+DLM	fbiC_V41M		Uncertain_significance
+DLM	fbiC_V581L		Uncertain_significance
+DLM	fbiC_V621I		Uncertain_significance
+DLM	fbiC_V713L		Uncertain_significance
+DLM	fbiC_V725A		Uncertain_significance
+DLM	fbiC_V745M		Uncertain_significance
+DLM	fbiC_W405C		Uncertain_significance
+DLM	fbiC_W678G		Uncertain_significance
+DLM	fgd1_A10V		Uncertain_significance
+DLM	fgd1_A188T		Uncertain_significance
+DLM	fgd1_A216G		Uncertain_significance
+DLM	fgd1_A256T		Uncertain_significance
+DLM	fgd1_A2V		Uncertain_significance
+DLM	fgd1_A35V		Uncertain_significance
+DLM	fgd1_D33G		Uncertain_significance
+DLM	fgd1_E19D		Uncertain_significance
+DLM	fgd1_E240G		Uncertain_significance
+DLM	fgd1_E269K		Uncertain_significance
+DLM	fgd1_E278D		Uncertain_significance
+DLM	fgd1_G168R		Uncertain_significance
+DLM	fgd1_G304D		Uncertain_significance
+DLM	fgd1_H260P		Uncertain_significance
+DLM	fgd1_H315D		Uncertain_significance
+DLM	fgd1_H315Y		Uncertain_significance
+DLM	fgd1_I229T		Uncertain_significance
+DLM	fgd1_I86L		Uncertain_significance
+DLM	fgd1_K183M		Uncertain_significance
+DLM	fgd1_K183T		Uncertain_significance
+DLM	fgd1_K270M		Uncertain_significance
+DLM	fgd1_K296E		Uncertain_significance
+DLM	fgd1_K296R		Uncertain_significance
+DLM	fgd1_L323F		Uncertain_significance
+DLM	fgd1_M139I		Uncertain_significance
+DLM	fgd1_M93T		Uncertain_significance
+DLM	fgd1_N66S		Uncertain_significance
+DLM	fgd1_P52S		Uncertain_significance
+DLM	fgd1_Q47L		Uncertain_significance
+DLM	fgd1_R187H		Uncertain_significance
+DLM	fgd1_R212L		Uncertain_significance
+DLM	fgd1_R45C		Uncertain_significance
+DLM	fgd1_R64S		Uncertain_significance
+DLM	fgd1_T255A		Uncertain_significance
+DLM	fgd1_T255P		Uncertain_significance
+DLM	fgd1_V170M		Uncertain_significance
+DLM	fgd1_V37G		Uncertain_significance
+DLM	fgd1_Y118S		Uncertain_significance
+DLM	fgd1_Y163C		Uncertain_significance
+DLM	fgd1_Y81H		Uncertain_significance
+DLM	Rv2983_A119V		Uncertain_significance
+DLM	Rv2983_A157E		Uncertain_significance
+DLM	Rv2983_A20V		Uncertain_significance
+DLM	Rv2983_A210S		Uncertain_significance
+DLM	Rv2983_A210V		Uncertain_significance
+DLM	Rv2983_A21T		Uncertain_significance
+DLM	Rv2983_A32T		Uncertain_significance
+DLM	Rv2983_A68T		Uncertain_significance
+DLM	Rv2983_D78N		Uncertain_significance
+DLM	Rv2983_D90N		Uncertain_significance
+DLM	Rv2983_G145R		Uncertain_significance
+DLM	Rv2983_G155S		Uncertain_significance
+DLM	Rv2983_G74R		Uncertain_significance
+DLM	Rv2983_G76S		Uncertain_significance
+DLM	Rv2983_G8D		Uncertain_significance
+DLM	Rv2983_I13L		Uncertain_significance
+DLM	Rv2983_I59L		Uncertain_significance
+DLM	Rv2983_L125I		Uncertain_significance
+DLM	Rv2983_L144V		Uncertain_significance
+DLM	Rv2983_P91S		Uncertain_significance
+DLM	Rv2983_Q121H		Uncertain_significance
+DLM	Rv2983_Q123R		Uncertain_significance
+DLM	Rv2983_R101H		Uncertain_significance
+DLM	Rv2983_R101L		Uncertain_significance
+DLM	Rv2983_R169Q		Uncertain_significance
+DLM	Rv2983_R57L		Uncertain_significance
+DLM	Rv2983_V39M		Uncertain_significance
+DLM	fbiC_c-114t	1302817	Uncertain_significance
+DLM	fbiC_g-113a	1302818	Uncertain_significance
+DLM	fbiC_g-113c	1302818	Uncertain_significance
+DLM	fbiC_c-111t	1302820	Uncertain_significance
+DLM	fbiC_g-110a	1302821	Uncertain_significance
+DLM	fbiC_c-100g	1302831	Uncertain_significance
+DLM	fbiC_c-100t	1302831	Uncertain_significance
+DLM	fbiC_c-90t	1302841	Uncertain_significance
+DLM	fbiC_-89_ins_10_t_tactgttgcgc	1302842	Uncertain_significance
+DLM	fbiC_c-81a	1302850	Uncertain_significance
+DLM	fbiC_t-77c	1302854	Uncertain_significance
+DLM	fbiC_a-76g	1302855	Uncertain_significance
+DLM	fbiC_a-58c	1302873	Uncertain_significance
+DLM	fbiC_c-48t	1302883	Uncertain_significance
+DLM	fbiC_t-44c	1302887	Uncertain_significance
+DLM	fbiC_g-33a	1302898	Uncertain_significance
+DLM	fbiC_a-32g	1302899	Uncertain_significance
+DLM	fbiC_c-18t	1302913	Uncertain_significance
+DLM	fbiC_g-15t	1302916	Uncertain_significance
+DLM	fbiC_-14_ins_1_g_ga	1302917	Uncertain_significance
+DLM	fbiC_g-11a	1302920	Uncertain_significance
+DLM	fbiC_c-4t	1302927	Uncertain_significance
+DLM	fbiC_c-1t	1302930	Uncertain_significance
+DLM	fbiC_24_ins_21_gtccacc_gtccaccgctctgccgagtccctccacc	1302954	Uncertain_significance
+DLM	fbiC_2546_ins_19_c_ccacatacgccctgcttgcg	1305476	Uncertain_significance
+DLM	Rv2983_c-4t	3339114	Uncertain_significance
+DLM	Rv2983_c-1a	3339117	Uncertain_significance
+DLM	fbiA_a-157g	3640386	Uncertain_significance
+DLM	fbiA_c-152g	3640391	Uncertain_significance
+DLM	fbiA_a-150g	3640393	Uncertain_significance
+DLM	fbiA_g-149a	3640394	Uncertain_significance
+DLM	fbiA_g-136a	3640407	Uncertain_significance
+DLM	fbiA_g-129a	3640414	Uncertain_significance
+DLM	fbiA_g-129t	3640414	Uncertain_significance
+DLM	fbiA_t-105c	3640438	Uncertain_significance
+DLM	fbiA_c-104a	3640439	Uncertain_significance
+DLM	fbiA_a-101t	3640442	Uncertain_significance
+DLM	fbiA_-99_del_1_ta_t	3640444	Uncertain_significance
+DLM	fbiA_a-97t	3640446	Uncertain_significance
+DLM	fbiA_g-81a	3640462	Uncertain_significance
+DLM	fbiA_g-75c	3640468	Uncertain_significance
+DLM	fbiA_t-69c	3640474	Uncertain_significance
+DLM	fbiA_c-66t	3640477	Uncertain_significance
+DLM	fbiA_-64_del_5_gcgtgt_g	3640479	Uncertain_significance
+DLM	fbiA_g-51a	3640492	Uncertain_significance
+DLM	fbiA_g-27a	3640516	Uncertain_significance
+DLM	fbiA_g-26a	3640517	Uncertain_significance
+DLM	fbiA_g-20a	3640523	Uncertain_significance
+DLM	fbiA_a-13c	3640530	Uncertain_significance
+DLM	fbiA_g-10a	3640533	Uncertain_significance
+DLM	fbiA_c-7g	3640536	Uncertain_significance
+DLM	fbiB_648_del_486_ggtgcgtgggttcggcgtgtccgacgacggctcgacagcccggcaactgc_g	3642182	Uncertain_significance
+DLM	ddn_a-112g	3986732	Uncertain_significance
+DLM	fadA5_a-392g	3986732	Uncertain_significance
+DLM	ddn_a-99c	3986745	Uncertain_significance
+DLM	ddn_g-89c	3986755	Uncertain_significance
+DLM	ddn_g-82a	3986762	Uncertain_significance
+DLM	ddn_-80_del_1_ct_c	3986764	Uncertain_significance
+DLM	ddn_t-32g	3986812	Uncertain_significance
+DLM	ddn_g-26c	3986818	Uncertain_significance
+DLM	ddn_g-26t	3986818	Uncertain_significance
+DLM	ddn_c-24a	3986820	Uncertain_significance
+DLM	ddn_g-10a	3986834	Uncertain_significance
+DLM	ddn_a-6c	3986838	Uncertain_significance
+DLM	ddn_c-4t	3986840	Uncertain_significance
+DLM	ddn_6_ins_5_g_gaaatc	3986849	Uncertain_significance
+DLM	ddn_84_del_3_gtac_g	3986927	Uncertain_significance
+DLM	ddn_91_del_1_cg_c	3986934	Uncertain_significance
+DLM	ddn_107_del_1_gtctg_gtct	3986950	Uncertain_significance
+DLM	ddn_266_del_1_ac_a	3987109	Uncertain_significance
+DLM	ddn_306_del_1_ca_c	3987149	Uncertain_significance
+DLM	ddn_362_del_24_aatattggccacagttggtcacgat_a	3987205	Uncertain_significance
